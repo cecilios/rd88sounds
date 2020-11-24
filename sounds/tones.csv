@@ -1,0 +1,3751 @@
+CMN;0001;Piano 1;87;85;1;1:Ac.Piano
+CMN;0002;Piano 1 w;87;85;2;1:Ac.Piano
+CMN;0003;Piano 1 d;87;85;3;1:Ac.Piano
+CMN;0004;Piano 1 Bright;87;85;4;1:Ac.Piano
+CMN;0005;Piano 1 Amp;87;85;5;1:Ac.Piano
+CMN;0006;Piano 1 w 2;87;85;6;1:Ac.Piano
+CMN;0007;Piano + Str 1;87;85;7;1:Ac.Piano
+CMN;0008;Piano + Str 2;87;85;8;1:Ac.Piano
+CMN;0009;Piano + Choir 1;87;85;9;1:Ac.Piano
+CMN;0010;Piano + Choir 2;87;85;10;1:Ac.Piano
+CMN;0011;Piano + Pad 1;87;85;11;1:Ac.Piano
+CMN;0012;Piano + Pad 2;87;85;12;1:Ac.Piano
+CMN;0013;Healing Piano;87;85;13;1:Ac.Piano
+CMN;0014;Piano Vib;87;85;14;1:Ac.Piano
+CMN;0015;Piano Dly;87;85;15;1:Ac.Piano
+CMN;0016;Piano 2;87;85;16;1:Ac.Piano
+CMN;0017;Piano 2 w;87;85;17;1:Ac.Piano
+CMN;0018;JD Piano;87;85;18;1:Ac.Piano
+CMN;0019;JD Piano w;87;85;19;1:Ac.Piano
+CMN;0020;Piano 3;87;85;20;3:E.Grand Piano
+CMN;0021;Piano 3 w;87;85;21;3:E.Grand Piano
+CMN;0022;Piano 3 w 2;87;85;22;3:E.Grand Piano
+CMN;0023;Honky-tonk;87;85;23;2:Pop Piano
+CMN;0024;Honky-tonk w;87;85;24;2:Pop Piano
+CMN;0025;Honky-tonk w 2;87;85;25;2:Pop Piano
+CMN;0026;E.Piano 1;87;85;26;4:E.Piano1
+CMN;0027;E.Piano 1 w;87;85;27;4:E.Piano1
+CMN;0028;E.Piano 1 Trem;87;85;28;4:E.Piano1
+CMN;0029;Detuned EP 1;87;85;29;4:E.Piano1
+CMN;0030;Vintage EP;87;85;30;4:E.Piano1
+CMN;0031;60s E.Piano;87;85;31;4:E.Piano1
+CMN;0032;60s E.Piano w;87;85;32;4:E.Piano1
+CMN;0033;60s E.Piano Trem;87;85;33;4:E.Piano1
+CMN;0034;Tremolo EP;87;85;34;4:E.Piano1
+CMN;0035;Tremolo EP w;87;85;35;4:E.Piano1
+CMN;0036;Curly Wurly;87;85;36;4:E.Piano1
+CMN;0037;Sinus EP;87;85;37;4:E.Piano1
+CMN;0038;E.Piano 2;87;85;38;5:E.Piano2
+CMN;0039;E.Piano 2 w;87;85;39;5:E.Piano2
+CMN;0040;Detuned EP 2;87;85;40;5:E.Piano2
+CMN;0041;St.FM EP;87;85;41;5:E.Piano2
+CMN;0042;St.FM EP w;87;85;42;5:E.Piano2
+CMN;0043;EP Legend;87;85;43;5:E.Piano2
+CMN;0044;EP Legend w;87;85;44;5:E.Piano2
+CMN;0045;EP Phaser 1;87;85;45;5:E.Piano2
+CMN;0046;EP Phaser 2;87;85;46;5:E.Piano2
+CMN;0047;EP Phaser 3;87;85;47;5:E.Piano2
+CMN;0048;EP Belle;87;85;48;5:E.Piano2
+CMN;0049;Harpsichord;87;85;49;9:Harpsichord
+CMN;0050;Coupled Harpsi.;87;85;50;9:Harpsichord
+CMN;0051;Harpsichord w;87;85;51;9:Harpsichord
+CMN;0052;Harpsichord w 2;87;85;52;9:Harpsichord
+CMN;0053;Harpsichord o;87;85;53;9:Harpsichord
+CMN;0054;Clav 1;87;85;54;10:Clav
+CMN;0055;Clav 1 w;87;85;55;10:Clav
+CMN;0056;Clav 1 Phaser;87;85;56;10:Clav
+CMN;0057;Clav 2;87;85;57;10:Clav
+CMN;0058;Clav 2 w;87;85;58;10:Clav
+CMN;0059;Pulse Clav 1;87;85;59;10:Clav
+CMN;0060;Pulse Clav 1 w;87;85;60;10:Clav
+CMN;0061;Pulse Clav 1 w 2;87;85;61;10:Clav
+CMN;0062;Pulse Clav 2;87;85;62;10:Clav
+CMN;0063;Biting Clav;87;85;63;10:Clav
+CMN;0064;Analog Clav;87;85;64;10:Clav
+CMN;0065;Celesta;87;85;65;11:Celesta
+CMN;0066;Celesta w;87;85;66;11:Celesta
+CMN;0067;Glockenspiel;87;85;67;15:Mallet
+CMN;0068;Glockenspiel w;87;85;68;15:Mallet
+CMN;0069;Music Box;87;85;69;22:Plucked/Stroke
+CMN;0070;Music Box w;87;85;70;22:Plucked/Stroke
+CMN;0071;Pops Seq 1;87;85;71;22:Plucked/Stroke
+CMN;0072;Pops Seq 1 Atk;87;85;72;22:Plucked/Stroke
+CMN;0073;Vibraphone;87;85;73;15:Mallet
+CMN;0074;Vibraphone w;87;85;74;15:Mallet
+CMN;0075;Vibraphone w 2;87;85;75;15:Mallet
+CMN;0076;Vibraphone Trem;87;85;76;15:Mallet
+CMN;0077;Jazz Vib;87;85;77;15:Mallet
+CMN;0078;Jazz Vib w;87;85;78;15:Mallet
+CMN;0079;Marimba;87;85;79;15:Mallet
+CMN;0080;Marimba w;87;85;80;15:Mallet
+CMN;0081;Marimba w 2;87;85;81;15:Mallet
+CMN;0082;Bs Marimba 1;87;85;82;15:Mallet
+CMN;0083;Bs Marimba 2;87;85;83;15:Mallet
+CMN;0084;Xylophone 1;87;85;84;15:Mallet
+CMN;0085;Xylophone 1 w;87;85;85;15:Mallet
+CMN;0086;Xylophone 1 w 2;87;85;86;15:Mallet
+CMN;0087;Xylophone 2;87;85;87;15:Mallet
+CMN;0088;Kalimbells;87;85;88;15:Mallet
+CMN;0089;Pops Seq 2;87;85;89;15:Mallet
+CMN;0090;Pops Seq 2 w;87;85;90;15:Mallet
+CMN;0091;Pops Seq 2 Atk;87;85;91;15:Mallet
+CMN;0092;Pops Seq 3;87;85;92;15:Mallet
+CMN;0093;Pops Seq 3 Atk;87;85;93;15:Mallet
+CMN;0094;Ethno Keys;87;85;94;15:Mallet
+CMN;0095;Ethno Keys Dly;87;85;95;15:Mallet
+CMN;0096;Toy Box;87;85;96;15:Mallet
+CMN;0097;Tubular Bells;87;85;97;14:Bell
+CMN;0098;Tubular Bells w;87;85;98;14:Bell
+CMN;0099;Church Bell;87;85;99;14:Bell
+CMN;0100;Church Bell w;87;85;100;14:Bell
+CMN;0101;Carillon;87;85;101;14:Bell
+CMN;0102;Carillon w;87;85;102;14:Bell
+CMN;0103;Santur;87;85;103;15:Mallet
+CMN;0104;Santur w;87;85;104;15:Mallet
+CMN;0105;Organ 1;87;85;105;6:E.Organ
+CMN;0106;Organ 1 Rtry;87;85;106;6:E.Organ
+CMN;0107;Tremolo Organ;87;85;107;6:E.Organ
+CMN;0108;Tremolo Organ w;87;85;108;6:E.Organ
+CMN;0109;60s Organ;87;85;109;6:E.Organ
+CMN;0110;60s Organ Cho;87;85;110;6:E.Organ
+CMN;0111;Organ 2;87;85;111;6:E.Organ
+CMN;0112;Organ 2 Rtry;87;85;112;6:E.Organ
+CMN;0113;Ana Organ 1;87;85;113;6:E.Organ
+CMN;0114;Ana Organ 1 Rtry;87;85;114;6:E.Organ
+CMN;0115;Ana Organ 2;87;85;115;6:E.Organ
+CMN;0116;Ana Organ 3;87;85;116;6:E.Organ
+CMN;0117;Ana Organ 4;87;85;117;6:E.Organ
+CMN;0118;Perc.Organ 1;87;85;118;6:E.Organ
+CMN;0119;Perc.Organ 1Rtry;87;85;119;6:E.Organ
+CMN;0120;Chorus Organ;87;85;120;6:E.Organ
+CMN;0121;Perc.Organ 2;87;85;121;6:E.Organ
+CMN;0122;E.Organ 1;87;85;122;6:E.Organ
+CMN;0123;E.Organ 1 w;87;85;123;6:E.Organ
+CMN;0124;E.Organ 1 Rtry;87;85;124;6:E.Organ
+CMN;0125;E.Organ 2;87;85;125;6:E.Organ
+CMN;0126;E.Organ 2 Trem;87;85;126;6:E.Organ
+CMN;0127;E.Organ 3;87;85;127;6:E.Organ
+CMN;0128;Mad Organ;87;85;128;6:E.Organ
+CMN;0129;Rock Organ 1;87;86;1;6:E.Organ
+CMN;0130;Rock Organ Amp;87;86;2;6:E.Organ
+CMN;0131;Rock Organ 2;87;86;3;6:E.Organ
+CMN;0132;Rock Organ w;87;86;4;6:E.Organ
+CMN;0133;Full Organ Rtry;87;86;5;6:E.Organ
+CMN;0134;Full Organ OD;87;86;6;6:E.Organ
+CMN;0135;Rotary Organ;87;86;7;6:E.Organ
+CMN;0136;Rotary Organ Cho;87;86;8;6:E.Organ
+CMN;0137;Church Organ 1;87;86;9;7:Pipe Organ
+CMN;0138;Church Organ 1 w;87;86;10;7:Pipe Organ
+CMN;0139;Church Organ 2;87;86;11;7:Pipe Organ
+CMN;0140;Church Organ 2 w;87;86;12;7:Pipe Organ
+CMN;0141;Church Organ 3;87;86;13;7:Pipe Organ
+CMN;0142;Church Organ 3 w;87;86;14;7:Pipe Organ
+CMN;0143;Reed Organ;87;86;15;8:Reed Organ
+CMN;0144;Reed Organ w;87;86;16;8:Reed Organ
+CMN;0145;Puff Organ;87;86;17;7:Pipe Organ
+CMN;0146;Puff Organ w;87;86;18;7:Pipe Organ
+CMN;0147;Accordion 1;87;86;19;12:Accordion
+CMN;0148;Accordion 1 w;87;86;20;12:Accordion
+CMN;0149;Accordion 2;87;86;21;12:Accordion
+CMN;0150;Accordion It;87;86;22;12:Accordion
+CMN;0151;Vodkakordion;87;86;23;12:Accordion
+CMN;0152;Harmonica;87;86;24;13:Harmonica
+CMN;0153;Harmonica w;87;86;25;13:Harmonica
+CMN;0154;Bandoneon;87;86;26;12:Accordion
+CMN;0155;Bandoneon w;87;86;27;12:Accordion
+CMN;0156;Nylon Gtr 1;87;86;28;16:Ac.Guitar
+CMN;0157;Ukulele;87;86;29;16:Ac.Guitar
+CMN;0158;Nylon Gtr o;87;86;30;16:Ac.Guitar
+CMN;0159;Nylon Gtr 2;87;86;31;16:Ac.Guitar
+CMN;0160;Nylon Gtr w;87;86;32;16:Ac.Guitar
+CMN;0161;Nylon Gtr Amp;87;86;33;16:Ac.Guitar
+CMN;0162;Steel-str.Gtr;87;86;34;16:Ac.Guitar
+CMN;0163;Steel-str.Gtr w;87;86;35;16:Ac.Guitar
+CMN;0164;Steel-str.GtrAmp;87;86;36;16:Ac.Guitar
+CMN;0165;Steel-str.GtrDst;87;86;37;16:Ac.Guitar
+CMN;0166;Stl Gtr Trem;87;86;38;16:Ac.Guitar
+CMN;0167;12-str.Guitar;87;86;39;16:Ac.Guitar
+CMN;0168;12-str.Guitar w;87;86;40;16:Ac.Guitar
+CMN;0169;Mandolin;87;86;41;16:Ac.Guitar
+CMN;0170;Steel+Body;87;86;42;16:Ac.Guitar
+CMN;0171;Reso Guitar w;87;86;43;16:Ac.Guitar
+CMN;0172;Reso Guitar Amp;87;86;44;16:Ac.Guitar
+CMN;0173;Jazz Guitar;87;86;45;17:E.Guitar
+CMN;0174;Jazz Guitar w;87;86;46;17:E.Guitar
+CMN;0175;Jazz Guitar Atk;87;86;47;17:E.Guitar
+CMN;0176;Hawaiian Gtr;87;86;48;17:E.Guitar
+CMN;0177;Clean Guitar;87;86;49;17:E.Guitar
+CMN;0178;Clean Guitar w;87;86;50;17:E.Guitar
+CMN;0179;Clean Gtr Chorus;87;86;51;17:E.Guitar
+CMN;0180;Chorus Gtr 1;87;86;52;17:E.Guitar
+CMN;0181;Soft Clean Gtr;87;86;53;17:E.Guitar
+CMN;0182;Soft Clean Gtr w;87;86;54;17:E.Guitar
+CMN;0183;Soft Clean Atk;87;86;55;17:E.Guitar
+CMN;0184;Soft Dist Gtr;87;86;56;17:E.Guitar
+CMN;0185;Mid Tone Gtr;87;86;57;17:E.Guitar
+CMN;0186;Mid Tone Gtr Dly;87;86;58;17:E.Guitar
+CMN;0187;Mid Tone GtrTrem;87;86;59;17:E.Guitar
+CMN;0188;Muted Guitar;87;86;60;17:E.Guitar
+CMN;0189;Muted Guitar w;87;86;61;17:E.Guitar
+CMN;0190;Muted Guitar Atk;87;86;62;17:E.Guitar
+CMN;0191;Muted Guitar Dst;87;86;63;17:E.Guitar
+CMN;0192;Funk Guitar 1;87;86;64;17:E.Guitar
+CMN;0193;Funk Guitar 2;87;86;65;17:E.Guitar
+CMN;0194;Chorus Gtr 2;87;86;66;17:E.Guitar
+CMN;0195;Chorus Gtr2 Echo;87;86;67;17:E.Guitar
+CMN;0196;Chorus Gtr2 Step;87;86;68;17:E.Guitar
+CMN;0197;Overdrive Gtr 1;87;86;69;18:Dist.Guitar
+CMN;0198;Overdrive Gtr 2;87;86;70;18:Dist.Guitar
+CMN;0199;Overdrive Chorus;87;86;71;18:Dist.Guitar
+CMN;0200;Guitar Pinch;87;86;72;18:Dist.Guitar
+CMN;0201;Distortion Gtr 1;87;86;73;18:Dist.Guitar
+CMN;0202;Distortion Gtr 2;87;86;74;18:Dist.Guitar
+CMN;0203;Distortion Gtr 3;87;86;75;18:Dist.Guitar
+CMN;0204;Distortion Gtr 4;87;86;76;18:Dist.Guitar
+CMN;0205;Distortion Gtr 5;87;86;77;18:Dist.Guitar
+CMN;0206;Gtr Feedback 1;87;86;78;18:Dist.Guitar
+CMN;0207;Dist.Rhy Gtr;87;86;79;18:Dist.Guitar
+CMN;0208;Dist.Rhy Gtr Amp;87;86;80;18:Dist.Guitar
+CMN;0209;Gtr Harmonics;87;86;81;18:Dist.Guitar
+CMN;0210;Gtr Harmonics w;87;86;82;18:Dist.Guitar
+CMN;0211;Gtr Feedback 2;87;86;83;18:Dist.Guitar
+CMN;0212;Gtr Feedback 2 w;87;86;84;18:Dist.Guitar
+CMN;0213;Acoustic Bass;87;86;85;19:Ac.Bass
+CMN;0214;Acoustic Bass w;87;86;86;19:Ac.Bass
+CMN;0215;Fingered Bass;87;86;87;20:E.Bass
+CMN;0216;FingeredBass Atk;87;86;88;20:E.Bass
+CMN;0217;Finger Slap;87;86;89;20:E.Bass
+CMN;0218;Finger Slap Atk;87;86;90;20:E.Bass
+CMN;0219;Picked Bass;87;86;91;20:E.Bass
+CMN;0220;Picked Bass Atk1;87;86;92;20:E.Bass
+CMN;0221;Picked Bass Atk2;87;86;93;20:E.Bass
+CMN;0222;Fretless Bass;87;86;94;20:E.Bass
+CMN;0223;Fretless Bass w;87;86;95;20:E.Bass
+CMN;0224;Slap Bass 1;87;86;96;20:E.Bass
+CMN;0225;Slap Bass 1 Atk;87;86;97;20:E.Bass
+CMN;0226;Slap Bass 2;87;86;98;20:E.Bass
+CMN;0227;Slap Bass 2 Amp;87;86;99;20:E.Bass
+CMN;0228;Synth Bass 1;87;86;100;21:Synth Bass
+CMN;0229;Synth Bass 1 w;87;86;101;21:Synth Bass
+CMN;0230;Warm Syn Bass;87;86;102;21:Synth Bass
+CMN;0231;Synth Bass 3;87;86;103;21:Synth Bass
+CMN;0232;Clav.Bass;87;86;104;21:Synth Bass
+CMN;0233;Clav.Bass w;87;86;105;21:Synth Bass
+CMN;0234;Hammer Bass;87;86;106;21:Synth Bass
+CMN;0235;Hammer Bass Atk;87;86;107;21:Synth Bass
+CMN;0236;Juno Sqr Bass;87;86;108;21:Synth Bass
+CMN;0237;MKS-50 Bass;87;86;109;21:Synth Bass
+CMN;0238;R&B Bass 1;87;86;110;21:Synth Bass
+CMN;0239;R&B Bass 1 w;87;86;111;21:Synth Bass
+CMN;0240;R&B Bass 1 Atk;87;86;112;21:Synth Bass
+CMN;0241;MC202 Bass;87;86;113;21:Synth Bass
+CMN;0242;Compu Bass 1;87;86;114;21:Synth Bass
+CMN;0243;Compu Bass 1 Atk;87;86;115;21:Synth Bass
+CMN;0244;Muffled Bass;87;86;116;21:Synth Bass
+CMN;0245;R&B Bass 2;87;86;117;21:Synth Bass
+CMN;0246;R&B Bass 2 w;87;86;118;21:Synth Bass
+CMN;0247;R&B Bass 2 Atk;87;86;119;21:Synth Bass
+CMN;0248;R&B Bass 3;87;86;120;21:Synth Bass
+CMN;0249;R&B Bass 3 w;87;86;121;21:Synth Bass
+CMN;0250;R&B Bass 4;87;86;122;21:Synth Bass
+CMN;0251;MG Bass 1;87;86;123;21:Synth Bass
+CMN;0252;MG Bass 1 w;87;86;124;21:Synth Bass
+CMN;0253;MG Bass 1 Atk;87;86;125;21:Synth Bass
+CMN;0254;MG Bass 2;87;86;126;21:Synth Bass
+CMN;0255;MG Bass 2 w;87;86;127;21:Synth Bass
+CMN;0256;MG Bass 3;87;86;128;21:Synth Bass
+CMN;0257;MG Bass 4;87;87;1;21:Synth Bass
+CMN;0258;MG Bass 5;87;87;2;21:Synth Bass
+CMN;0259;New Reso Bs 1;87;87;3;21:Synth Bass
+CMN;0260;New Reso Bs 1 w;87;87;4;21:Synth Bass
+CMN;0261;New Reso Bs 2;87;87;5;21:Synth Bass
+CMN;0262;Reso Bass 1;87;87;6;21:Synth Bass
+CMN;0263;Rubber Bass;87;87;7;21:Synth Bass
+CMN;0264;Reso Bass 2;87;87;8;21:Synth Bass
+CMN;0265;Reso Bass 3;87;87;9;21:Synth Bass
+CMN;0266;Reso Bass 4;87;87;10;21:Synth Bass
+CMN;0267;Acid Bass 1;87;87;11;21:Synth Bass
+CMN;0268;Acid Bass 2;87;87;12;21:Synth Bass
+CMN;0269;Acid Bass 3;87;87;13;21:Synth Bass
+CMN;0270;TB Bass 1;87;87;14;21:Synth Bass
+CMN;0271;TB Bass 2;87;87;15;21:Synth Bass
+CMN;0272;Flat Bass;87;87;16;21:Synth Bass
+CMN;0273;Sub Bass;87;87;17;21:Synth Bass
+CMN;0274;Sub Bass Atk;87;87;18;21:Synth Bass
+CMN;0275;Garage Bass;87;87;19;21:Synth Bass
+CMN;0276;Synth Bass 2;87;87;20;21:Synth Bass
+CMN;0277;Synth Bass 5;87;87;21;21:Synth Bass
+CMN;0278;Synth Bass 4;87;87;22;21:Synth Bass
+CMN;0279;Synth Bass 6;87;87;23;21:Synth Bass
+CMN;0280;Rubber Syn Bs;87;87;24;21:Synth Bass
+CMN;0281;Attack Pulse;87;87;25;21:Synth Bass
+CMN;0282;Seq Bass;87;87;26;21:Synth Bass
+CMN;0283;106 Bass 1;87;87;27;21:Synth Bass
+CMN;0284;106 Bass 2;87;87;28;21:Synth Bass
+CMN;0285;Juno Bass;87;87;29;21:Synth Bass
+CMN;0286;Filter Env Bs;87;87;30;21:Synth Bass
+CMN;0287;Unison Syn Bs;87;87;31;21:Synth Bass
+CMN;0288;Unison Syn Bs w;87;87;32;21:Synth Bass
+CMN;0289;Alpha Bass;87;87;33;21:Synth Bass
+CMN;0290;Alpha Bass w;87;87;34;21:Synth Bass
+CMN;0291;Detune Bs;87;87;35;21:Synth Bass
+CMN;0292;Detune Bs w;87;87;36;21:Synth Bass
+CMN;0293;Ramp Bass;87;87;37;21:Synth Bass
+CMN;0294;Ramp Bass Atk;87;87;38;21:Synth Bass
+CMN;0295;Pedal Bass 1;87;87;39;21:Synth Bass
+CMN;0296;Pedal Bass 2;87;87;40;21:Synth Bass
+CMN;0297;Compu Bass 2;87;87;41;21:Synth Bass
+CMN;0298;Sqr Bass w;87;87;42;21:Synth Bass
+CMN;0299;Modular Bs 1;87;87;43;21:Synth Bass
+CMN;0300;Modular Bs 2;87;87;44;21:Synth Bass
+CMN;0301;Synth Bass 7;87;87;45;21:Synth Bass
+CMN;0302;Pedal Bass 3;87;87;46;21:Synth Bass
+CMN;0303;Monster Bass 1;87;87;47;21:Synth Bass
+CMN;0304;Monster Bass 2;87;87;48;21:Synth Bass
+CMN;0305;Growl Bass 1;87;87;49;21:Synth Bass
+CMN;0306;Growl Bass 2;87;87;50;21:Synth Bass
+CMN;0307;Violin;87;87;51;23:Solo Strings
+CMN;0308;Slow Violin;87;87;52;23:Solo Strings
+CMN;0309;Violin w;87;87;53;23:Solo Strings
+CMN;0310;Violin Amp;87;87;54;23:Solo Strings
+CMN;0311;Viola;87;87;55;23:Solo Strings
+CMN;0312;Viola Amp;87;87;56;23:Solo Strings
+CMN;0313;Cello;87;87;57;23:Solo Strings
+CMN;0314;Cello Amp;87;87;58;23:Solo Strings
+CMN;0315;Contrabass;87;87;59;23:Solo Strings
+CMN;0316;Contrabass Amp;87;87;60;23:Solo Strings
+CMN;0317;Tremolo Str;87;87;61;24:Ensemble Strings
+CMN;0318;Pizzicato Str;87;87;62;24:Ensemble Strings 
+CMN;0319;Pizzicato Str w;87;87;63;24:Ensemble Strings
+CMN;0320;Pizz;87;87;64;24:Ensemble Strings
+CMN;0321;Pops Seq 4;87;87;65;24:Ensemble Strings
+CMN;0322;Pops Seq 4 w;87;87;66;24:Ensemble Strings
+CMN;0323;Harp;87;87;67;22:Plucked/Stroke
+CMN;0324;Aerial Harp;87;87;68;22:Plucked/Stroke
+CMN;0325;Yang Qin;87;87;69;15:Mallet
+CMN;0326;Yang Qin w;87;87;70;15:Mallet
+CMN;0327;Timpani;87;87;71;47:Percussion
+CMN;0328;Timpani w;87;87;72;47:Percussion
+CMN;0329;Timpani Low;87;87;73;47:Percussion
+CMN;0330;Timpani Atk;87;87;74;47:Percussion
+CMN;0331;Strings;87;87;75;24:Ensemble Strings
+CMN;0332;Orchestra;87;87;76;24:Ensemble Strings
+CMN;0333;60s Strings;87;87;77;24:Ensemble Strings
+CMN;0334;Small Strings;87;87;78;24:Ensemble Strings
+CMN;0335;Hybrid Strings;87;87;79;24:Ensemble Strings
+CMN;0336;Small Str Stacc;87;87;80;24:Ensemble Strings
+CMN;0337;Strings Stacc;87;87;81;24:Ensemble Strings
+CMN;0338;Strings Stacc w;87;87;82;24:Ensemble Strings
+CMN;0339;Strings Amp;87;87;83;24:Ensemble Strings
+CMN;0340;Slow Strings;87;87;84;24:Ensemble Strings
+CMN;0341;Mood Strings;87;87;85;24:Ensemble Strings
+CMN;0342;Syn Strings 1;87;87;86;36:Synth Pad/Str
+CMN;0343;Syn Strings 1 w;87;87;87;36:Synth Pad/Str
+CMN;0344;Syn Strings 3;87;87;88;36:Synth Pad/Str
+CMN;0345;Syn Strings 3 w;87;87;89;36:Synth Pad/Str
+CMN;0346;Syn Strings 2;87;87;90;36:Synth Pad/Str
+CMN;0347;Syn Strings 2 w;87;87;91;36:Synth Pad/Str
+CMN;0348;Choir 1;87;87;92;32:Vox/Choir
+CMN;0349;Choir 2;87;87;93;32:Vox/Choir
+CMN;0350;Choir 3;87;87;94;32:Vox/Choir
+CMN;0351;Voice Doos;87;87;95;33:Scat
+CMN;0352;Humming;87;87;96;32:Vox/Choir
+CMN;0353;Synth Voice;87;87;97;32:Vox/Choir
+CMN;0354;Analog Voice 1;87;87;98;32:Vox/Choir
+CMN;0355;Analog Voice 2;87;87;99;32:Vox/Choir
+CMN;0356;Jazz Scat;87;87;100;33:Scat
+CMN;0357;Jazz Scat w;87;87;101;33:Scat
+CMN;0358;Aerial Choir;87;87;102;32:Vox/Choir
+CMN;0359;Aerial Choir w;87;87;103;32:Vox/Choir
+CMN;0360;DJ Soft Vox;87;87;104;32:Vox/Choir
+CMN;0361;DJ Soft Vox w;87;87;105;32:Vox/Choir
+CMN;0362;Syn Vox;87;87;106;32:Vox/Choir
+CMN;0363;Syn Vox w;87;87;107;32:Vox/Choir
+CMN;0364;VP-330 Choir;87;87;108;32:Vox/Choir
+CMN;0365;VP-330 Choir w;87;87;109;32:Vox/Choir
+CMN;0366;FXM Voice;87;87;110;32:Vox/Choir
+CMN;0367;Cat Voice;87;87;111;32:Vox/Choir
+CMN;0368;Cat Voice Wah;87;87;112;32:Vox/Choir
+CMN;0369;Orchestra Hit;87;87;113;44:Hit
+CMN;0370;Bass Hit;87;87;114;44:Hit
+CMN;0371;Bass Hit w;87;87;115;44:Hit
+CMN;0372;6th Hit;87;87;116;44:Hit
+CMN;0373;6th Hit w;87;87;117;44:Hit
+CMN;0374;Euro Hit;87;87;118;44:Hit
+CMN;0375;Euro Hit w;87;87;119;44:Hit
+CMN;0376;Cheezy Movie;87;87;120;44:Hit
+CMN;0377;Cheezy Movie w;87;87;121;44:Hit
+CMN;0378;Tao Hit;87;87;122;44:Hit
+CMN;0379;Tao Hit w;87;87;123;44:Hit
+CMN;0380;House Hit;87;87;124;44:Hit
+CMN;0381;House Hit w;87;87;125;44:Hit
+CMN;0382;Trumpet;87;87;126;26:Solo Brass
+CMN;0383;Trumpet Echo;87;87;127;26:Solo Brass
+CMN;0384;Dark Trumpet;87;87;128;26:Solo Brass
+CMN;0385;Dark Trumpet w;87;88;1;26:Solo Brass
+CMN;0386;Romantic Tp;87;88;2;26:Solo Brass
+CMN;0387;Romantic Tp Echo;87;88;3;26:Solo Brass
+CMN;0388;Trombone 1;87;88;4;26:Solo Brass
+CMN;0389;Trombone 1 w;87;88;5;26:Solo Brass
+CMN;0390;Trombone 2;87;88;6;26:Solo Brass
+CMN;0391;Bright Tb;87;88;7;26:Solo Brass
+CMN;0392;Bright Tb w;87;88;8;26:Solo Brass
+CMN;0393;Tuba;87;88;9;26:Solo Brass
+CMN;0394;Tuba Atk;87;88;10;26:Solo Brass
+CMN;0395;Mute Trumpet 1;87;88;11;26:Solo Brass
+CMN;0396;Mute Trumpet 1 w;87;88;12;26:Solo Brass
+CMN;0397;Mute Trumpet 2;87;88;13;26:Solo Brass
+CMN;0398;Mute Trumpet 2 w;87;88;14;26:Solo Brass
+CMN;0399;French Horn 1;87;88;15;27:Ensemble Brass
+CMN;0400;French Horn 1 w;87;88;16;27:Ensemble Brass6
+CMN;0401;French Horn 2;87;88;17;27:Ensemble Brass
+CMN;0402;FrenchHorn2 Echo;87;88;18;27:Ensemble Brass18
+CMN;0403;Brass 1;87;88;19;27:Ensemble Brass
+CMN;0404;Brass 1 w;87;88;20;27:Ensemble Brass
+CMN;0405;Brass 2;87;88;21;27:Ensemble Brass
+CMN;0406;Brass Atk;87;88;22;27:Ensemble Brass
+CMN;0407;Brass Atk w;87;88;23;27:Ensemble Brass
+CMN;0408;Synth Brass 1;87;88;24;35:Synth Brass
+CMN;0409;Synth Brass 3;87;88;25;35:Synth Brass
+CMN;0410;Synth Brass 3 w;87;88;26;35:Synth Brass
+CMN;0411;Analog Brass 1;87;88;27;35:Synth Brass
+CMN;0412;Analog Brass 1 w;87;88;28;35:Synth Brass
+CMN;0413;Analog Brs 1 w 2;87;88;29;35:Synth Brass
+CMN;0414;Jump Brass;87;88;30;35:Synth Brass
+CMN;0415;Jump Brass Amp;87;88;31;35:Synth Brass
+CMN;0416;JP8 Brass 1;87;88;32;35:Synth Brass
+CMN;0417;JP8 Brass 1 w;87;88;33;35:Synth Brass
+CMN;0418;Syn Brass;87;88;34;35:Synth Brass
+CMN;0419;Syn Brass w;87;88;35;35:Synth Brass
+CMN;0420;JP8 Brass 2;87;88;36;35:Synth Brass
+CMN;0421;80*s Brass 1;87;88;37;35:Synth Brass
+CMN;0422;80*s Brass 2;87;88;38;35:Synth Brass
+CMN;0423;Synth Brass 2;87;88;39;35:Synth Brass
+CMN;0424;Synth Brass 4;87;88;40;35:Synth Brass
+CMN;0425;Analog Brass 2;87;88;41;35:Synth Brass
+CMN;0426;Analog Brass 3;87;88;42;35:Synth Brass
+CMN;0427;Analog Brass 3 w;87;88;43;35:Synth Brass
+CMN;0428;Reso Brass;87;88;44;35:Synth Brass
+CMN;0429;Poly Brass;87;88;45;35:Synth Brass
+CMN;0430;Soft Brass;87;88;46;35:Synth Brass
+CMN;0431;FM Brass;87;88;47;35:Synth Brass
+CMN;0432;Warm Syn Brass;87;88;48;35:Synth Brass
+CMN;0433;Dual Saw Brass;87;88;49;35:Synth Brass
+CMN;0434;Soft Syn Brass;87;88;50;35:Synth Brass
+CMN;0435;Vintage Brass;87;88;51;35:Synth Brass
+CMN;0436;Vintage Brass w;87;88;52;35:Synth Brass
+CMN;0437;Euro Express;87;88;53;35:Synth Brass
+CMN;0438;Mix Brass;87;88;54;35:Synth Brass
+CMN;0439;Brite Syn Brass;87;88;55;35:Synth Brass
+CMN;0440;JP8 Brass 3;87;88;56;35:Synth Brass
+CMN;0441;Synth Brass 5;87;88;57;35:Synth Brass
+CMN;0442;80*s Brass 3;87;88;58;35:Synth Brass
+CMN;0443;80*s Brass 4;87;88;59;35:Synth Brass
+CMN;0444;Soprano Sax;87;88;60;30:Sax
+CMN;0445;Soprano Sax Amp;87;88;61;30:Sax
+CMN;0446;Alto Sax;87;88;62;30:Sax
+CMN;0447;Alto Sax Amp;87;88;63;30:Sax
+CMN;0448;Tenor Sax;87;88;64;30:Sax
+CMN;0449;Tenor Sax Amp;87;88;65;30:Sax
+CMN;0450;Baritone Sax;87;88;66;30:Sax
+CMN;0451;Baritone Sax Atk;87;88;67;30:Sax
+CMN;0452;Oboe;87;88;68;28:Wind
+CMN;0453;Oboe w;87;88;69;28:Wind
+CMN;0454;English Horn;87;88;70;28:Wind
+CMN;0455;Bassoon;87;88;71;28:Wind
+CMN;0456;Clarinet;87;88;72;28:Wind
+CMN;0457;Piccolo;87;88;73;29:Flute
+CMN;0458;Flute;87;88;74;29:Flute
+CMN;0459;Flute w;87;88;75;29:Flute
+CMN;0460;Flute Echo;87;88;76;29:Flute
+CMN;0461;Recorder;87;88;77;31:Recorder
+CMN;0462;Pan Flute;87;88;78;29:Flute
+CMN;0463;Pan Flute w;87;88;79;29:Flute
+CMN;0464;Pan Flute Dly;87;88;80;29:Flute
+CMN;0465;Bottle Blow;87;88;81;29:Flute
+CMN;0466;Bottle Blow w;87;88;82;29:Flute
+CMN;0467;Bottle Blow Dly;87;88;83;29:Flute
+CMN;0468;Shakuhachi;87;88;84;29:Flute
+CMN;0469;Shakuhachi w;87;88;85;29:Flute
+CMN;0470;Shakuhachi Amp;87;88;86;29:Flute
+CMN;0471;Whistle;87;88;87;31:Recorder
+CMN;0472;Whistle Dly;87;88;88;31:Recorder
+CMN;0473;Ocarina;87;88;89;31:Recorder
+CMN;0474;Ocarina Echo;87;88;90;31:Recorder
+CMN;0475;Square Lead 1;87;88;91;34:Synth Lead
+CMN;0476;Square Lead 2;87;88;92;34:Synth Lead
+CMN;0477;Sine Lead;87;88;93;34:Synth Lead
+CMN;0478;Porta Sine Lead;87;88;94;34:Synth Lead
+CMN;0479;Pure Lead Dly;87;88;95;34:Synth Lead
+CMN;0480;Dist Flt TB 2;87;88;96;34:Synth Lead
+CMN;0481;Dist Flt TB 1;87;88;97;34:Synth Lead
+CMN;0482;DistFlt TB 1 Dly;87;88;98;34:Synth Lead
+CMN;0483;80*s Tech Lead;87;88;99;34:Synth Lead
+CMN;0484;Sqr Buzz Lead;87;88;100;34:Synth Lead
+CMN;0485;Ana Vox Lead;87;88;101;34:Synth Lead
+CMN;0486;CS Lead;87;88;102;34:Synth Lead
+CMN;0487;Classic GR;87;88;103;34:Synth Lead
+CMN;0488;Therasaw;87;88;104;34:Synth Lead
+CMN;0489;Bell Lead;87;88;105;34:Synth Lead
+CMN;0490;Bell Lead w;87;88;106;34:Synth Lead
+CMN;0491;Simple Tri;87;88;107;34:Synth Lead
+CMN;0492;Spooky Lead;87;88;108;34:Synth Lead
+CMN;0493;Soft Lead;87;88;109;34:Synth Lead
+CMN;0494;Sqr Lead 1;87;88;110;34:Synth Lead
+CMN;0495;Sqr Lead 2;87;88;111;34:Synth Lead
+CMN;0496;Sqr Lead 3;87;88;112;34:Synth Lead
+CMN;0497;Saw Lead 1;87;88;113;34:Synth Lead
+CMN;0498;Saw Lead 1 w;87;88;114;34:Synth Lead
+CMN;0499;Saw Lead 2;87;88;115;34:Synth Lead
+CMN;0500;Doctor Solo;87;88;116;34:Synth Lead
+CMN;0501;Natural Lead;87;88;117;34:Synth Lead
+CMN;0502;Sequenced Saw;87;88;118;34:Synth Lead
+CMN;0503;Sequenced Saw w;87;88;119;34:Synth Lead
+CMN;0504;Ah Super Saw;87;88;120;34:Synth Lead
+CMN;0505;Ah SuperSaw Dst1;87;88;121;34:Synth Lead
+CMN;0506;Ah SuperSaw Dst2;87;88;122;34:Synth Lead
+CMN;0507;Porta Super Saw;87;88;123;34:Synth Lead
+CMN;0508;S-Saw Stac Ld;87;88;124;34:Synth Lead
+CMN;0509;S-Saw Stac Ld w;87;88;125;34:Synth Lead
+CMN;0510;Tekno Lead 1 Atk;87;88;126;34:Synth Lead
+CMN;0511;Tekno Lead 1 Bit;87;88;127;34:Synth Lead
+CMN;0512;OSC-Sync Ld 1;87;88;128;34:Synth Lead
+CMN;0513;Wave Shape Ld;87;89;1;34:Synth Lead
+CMN;0514;Wave Shape Ld w;87;89;2;34:Synth Lead
+CMN;0515;Legato Tkno;87;89;3;34:Synth Lead
+CMN;0516;Legato Tkno w;87;89;4;34:Synth Lead
+CMN;0517;Tekno Lead 2;87;89;5;34:Synth Lead
+CMN;0518;Buzz Lead;87;89;6;34:Synth Lead
+CMN;0519;Buzz Lead Dist;87;89;7;34:Synth Lead
+CMN;0520;Saw Buzz Ld;87;89;8;34:Synth Lead
+CMN;0521;Saw Buzz Ld w;87;89;9;34:Synth Lead
+CMN;0522;Saw Lead 3;87;89;10;34:Synth Lead
+CMN;0523;Saw Lead 4;87;89;11;34:Synth Lead
+CMN;0524;Classic Lead;87;89;12;34:Synth Lead
+CMN;0525;Ramp Lead;87;89;13;34:Synth Lead
+CMN;0526;Saw Lead 5;87;89;14;34:Synth Lead
+CMN;0527;Jupiter Lead 1;87;89;15;34:Synth Lead
+CMN;0528;JupiterLead1 Atk;87;89;16;34:Synth Lead
+CMN;0529;Jupiter Lead 2;87;89;17;34:Synth Lead
+CMN;0530;Saw Lead 6;87;89;18;34:Synth Lead
+CMN;0531;On Air;87;89;19;34:Synth Lead
+CMN;0532;Saw Lead 7;87;89;20;34:Synth Lead
+CMN;0533;Saw Lead 8;87;89;21;34:Synth Lead
+CMN;0534;Warm Lead;87;89;22;34:Synth Lead
+CMN;0535;Saw Lead 9;87;89;23;34:Synth Lead
+CMN;0536;Saw Lead 10;87;89;24;34:Synth Lead
+CMN;0537;EQ Lead;87;89;25;34:Synth Lead
+CMN;0538;Saw Lead 11;87;89;26;34:Synth Lead
+CMN;0539;Saw Lead 12;87;89;27;34:Synth Lead
+CMN;0540;Waspy Lead;87;89;28;34:Synth Lead
+CMN;0541;Octa Square;87;89;29;34:Synth Lead
+CMN;0542;Octa Juice;87;89;30;34:Synth Lead
+CMN;0543;Fat GR Lead;87;89;31;34:Synth Lead
+CMN;0544;Octa Saw;87;89;32;34:Synth Lead
+CMN;0545;Juicy Lead;87;89;33;34:Synth Lead
+CMN;0546;OSC-Sync Ld 2;87;89;34;34:Synth Lead
+CMN;0547;OSC-Sync Ld 3;87;89;35;34:Synth Lead
+CMN;0548;Syn.Calliope;87;89;36;34:Synth Lead
+CMN;0549;Syn.Calliope w;87;89;37;34:Synth Lead
+CMN;0550;Syn.Calliope Dly;87;89;38;34:Synth Lead
+CMN;0551;Chiffer Lead;87;89;39;34:Synth Lead
+CMN;0552;Chiffer Lead w;87;89;40;34:Synth Lead
+CMN;0553;Charang;87;89;41;34:Synth Lead
+CMN;0554;Wire Lead;87;89;42;34:Synth Lead
+CMN;0555;Wire Lead Cho;87;89;43;34:Synth Lead
+CMN;0556;Solo Vox;87;89;44;34:Synth Lead
+CMN;0557;Solo Vox w;87;89;45;34:Synth Lead
+CMN;0558;Solo Vox Cho;87;89;46;34:Synth Lead
+CMN;0559;OB Lead;87;89;47;34:Synth Lead
+CMN;0560;5th Saw Lead;87;89;48;34:Synth Lead
+CMN;0561;5th Saw Lead Dly;87;89;49;34:Synth Lead
+CMN;0562;Housechord;87;89;50;34:Synth Lead
+CMN;0563;Ju-D Fifths;87;89;51;34:Synth Lead
+CMN;0564;Major 7;87;89;52;34:Synth Lead
+CMN;0565;Dance Saws 1;87;89;53;34:Synth Lead
+CMN;0566;Bass+Lead;87;89;54;34:Synth Lead
+CMN;0567;Bass+Lead w;87;89;55;34:Synth Lead
+CMN;0568;Delayed Lead;87;89;56;34:Synth Lead
+CMN;0569;Delayed Lead w;87;89;57;34:Synth Lead
+CMN;0570;Delayed Lead Cho;87;89;58;34:Synth Lead
+CMN;0571;Fantasia;87;89;59;37:Synth Bellpad
+CMN;0572;D50 Bell;87;89;60;37:Synth Bellpad
+CMN;0573;D50 Bell w;87;89;61;37:Synth Bellpad
+CMN;0574;Fantasy 1;87;89;62;37:Synth Bellpad
+CMN;0575;D50 Fantasy;87;89;63;37:Synth Bellpad
+CMN;0576;D50 Fantasy w;87;89;64;37:Synth Bellpad
+CMN;0577;Soft Bell;87;89;65;37:Synth Bellpad
+CMN;0578;Dreambell;87;89;66;37:Synth Bellpad
+CMN;0579;Dreambell w;87;89;67;37:Synth Bellpad
+CMN;0580;Dreaming Box;87;89;68;37:Synth Bellpad
+CMN;0581;Dreaming Box w;87;89;69;37:Synth Bellpad
+CMN;0582;Fantasy 2;87;89;70;37:Synth Bellpad
+CMN;0583;Fantasy 2 w;87;89;71;37:Synth Bellpad
+CMN;0584;Stacc Heaven;87;89;72;37:Synth Bellpad
+CMN;0585;Stacc Heaven w;87;89;73;37:Synth Bellpad
+CMN;0586;Warm Pad;87;89;74;36:Synth Pad/Str
+CMN;0587;Warm Pad Dly;87;89;75;36:Synth Pad/Str
+CMN;0588;Sine Pad;87;89;76;36:Synth Pad/Str
+CMN;0589;JP8 Strings 1;87;89;77;36:Synth Pad/Str
+CMN;0590;Soft Pad;87;89;78;36:Synth Pad/Str
+CMN;0591;JP8 Strings 2;87;89;79;36:Synth Pad/Str
+CMN;0592;JUNO Str;87;89;80;36:Synth Pad/Str
+CMN;0593;JUNO Str w;87;89;81;36:Synth Pad/Str
+CMN;0594;Oct Strings;87;89;82;36:Synth Pad/Str
+CMN;0595;Brite Str;87;89;83;36:Synth Pad/Str
+CMN;0596;Voyager;87;89;84;36:Synth Pad/Str
+CMN;0597;Voyager w;87;89;85;36:Synth Pad/Str
+CMN;0598;JP8 Strings 3;87;89;86;36:Synth Pad/Str
+CMN;0599;PWM Str 1;87;89;87;36:Synth Pad/Str
+CMN;0600;PWM Str 2;87;89;88;36:Synth Pad/Str
+CMN;0601;Fading Str;87;89;89;36:Synth Pad/Str
+CMN;0602;Vintage Str;87;89;90;36:Synth Pad/Str
+CMN;0603;Vintage Str Amp;87;89;91;36:Synth Pad/Str
+CMN;0604;Analog Str;87;89;92;36:Synth Pad/Str
+CMN;0605;Polysynth;87;89;93;38:Synth PolyKey
+CMN;0606;Polysynth Dly;87;89;94;38:Synth PolyKey
+CMN;0607;Digitaless;87;89;95;38:Synth PolyKey
+CMN;0608;Analog Saws;87;89;96;38:Synth PolyKey
+CMN;0609;Super Saws;87;89;97;38:Synth PolyKey
+CMN;0610;Super Saws Atk;87;89;98;38:Synth PolyKey
+CMN;0611;Dance Saws 2;87;89;99;38:Synth PolyKey
+CMN;0612;S-Saw Pad;87;89;100;38:Synth PolyKey
+CMN;0613;S-Saw Pad w;87;89;101;38:Synth PolyKey
+CMN;0614;DOC Stack;87;89;102;38:Synth PolyKey
+CMN;0615;Trance Saws;87;89;103;38:Synth PolyKey
+CMN;0616;Trance Saws w;87;89;104;38:Synth PolyKey
+CMN;0617;PWM Pad;87;89;105;38:Synth PolyKey
+CMN;0618;Space Voice;87;89;106;36:Synth Pad/Str
+CMN;0619;Space Voice Dly;87;89;107;36:Synth Pad/Str
+CMN;0620;Itopia;87;89;108;36:Synth Pad/Str
+CMN;0621;Itopia Dly;87;89;109;36:Synth Pad/Str
+CMN;0622;JP8 Hollow 1;87;89;110;36:Synth Pad/Str
+CMN;0623;JP8 Hollow 2;87;89;111;36:Synth Pad/Str
+CMN;0624;Hollow Pad;87;89;112;36:Synth Pad/Str
+CMN;0625;Strobe Pad;87;89;113;36:Synth Pad/Str
+CMN;0626;Heaven Pad;87;89;114;36:Synth Pad/Str
+CMN;0627;Itopia w;87;89;115;36:Synth Pad/Str
+CMN;0628;Bowed Glass;87;89;116;36:Synth Pad/Str
+CMN;0629;Bowed Glass Dly;87;89;117;36:Synth Pad/Str
+CMN;0630;Brite Wine;87;89;118;36:Synth Pad/Str
+CMN;0631;Bell Pad;87;89;119;36:Synth Pad/Str
+CMN;0632;Wine Pad;87;89;120;36:Synth Pad/Str
+CMN;0633;Fine Wine Pad;87;89;121;36:Synth Pad/Str
+CMN;0634;Organ Pad;87;89;122;36:Synth Pad/Str
+CMN;0635;Brite Wine w;87;89;123;36:Synth Pad/Str
+CMN;0636;Metallic Pad;87;89;124;36:Synth Pad/Str
+CMN;0637;Metallic Pad Dly;87;89;125;36:Synth Pad/Str
+CMN;0638;Chime Pad;87;89;126;36:Synth Pad/Str
+CMN;0639;Halo Pad;87;89;127;36:Synth Pad/Str
+CMN;0640;Halo Pad w;87;89;128;36:Synth Pad/Str
+CMN;0641;Halo Pad Dly;87;90;1;36:Synth Pad/Str
+CMN;0642;Sweep Pad 1;87;90;2;36:Synth Pad/Str
+CMN;0643;Sweep Pad 1 Dly;87;90;3;36:Synth Pad/Str
+CMN;0644;Trns Sweep Pad w;87;90;4;36:Synth Pad/Str
+CMN;0645;Trns Sweep Pad;87;90;5;36:Synth Pad/Str
+CMN;0646;Giant Sweep;87;90;6;36:Synth Pad/Str
+CMN;0647;Sweep Pad 2 w;87;90;7;36:Synth Pad/Str
+CMN;0648;Sweep Pad 2;87;90;8;36:Synth Pad/Str
+CMN;0649;Reso Pad;87;90;9;36:Synth Pad/Str
+CMN;0650;Ice Rain;87;90;10;36:Synth Pad/Str
+CMN;0651;Ice Rain Dly;87;90;11;36:Synth Pad/Str
+CMN;0652;Healing Pad;87;90;12;36:Synth Pad/Str
+CMN;0653;Healing Pad w;87;90;13;36:Synth Pad/Str
+CMN;0654;Soundtrack;87;90;14;36:Synth Pad/Str
+CMN;0655;Soundtrack Dly;87;90;15;36:Synth Pad/Str
+CMN;0656;Random Str;87;90;16;36:Synth Pad/Str
+CMN;0657;Fairy*s Song;87;90;17;36:Synth Pad/Str
+CMN;0658;Crystal;87;90;18;40:Synth Seq/Pop
+CMN;0659;Crystal w;87;90;19;40:Synth Seq/Pop
+CMN;0660;Synth Mallet;87;90;20;40:Synth Seq/Pop
+CMN;0661;Synth Mallet w;87;90;21;40:Synth Seq/Pop
+CMN;0662;Synth Mallet Dly;87;90;22;40:Synth Seq/Pop
+CMN;0663;Sine Mallet;87;90;23;40:Synth Seq/Pop
+CMN;0664;Seq Saw;87;90;24;40:Synth Seq/Pop
+CMN;0665;Seq 1;87;90;25;40:Synth Seq/Pop
+CMN;0666;Seq 1 w;87;90;26;40:Synth Seq/Pop
+CMN;0667;Seq 2;87;90;27;40:Synth Seq/Pop
+CMN;0668;Seq 3;87;90;28;40:Synth Seq/Pop
+CMN;0669;Seq Sqr 1;87;90;29;40:Synth Seq/Pop
+CMN;0670;Seq Sqr 1 Atk;87;90;30;40:Synth Seq/Pop
+CMN;0671;Seq Sqr 2;87;90;31;40:Synth Seq/Pop
+CMN;0672;Seq Tri;87;90;32;40:Synth Seq/Pop
+CMN;0673;Seq Tri w;87;90;33;40:Synth Seq/Pop
+CMN;0674;Synth Seq 1;87;90;34;40:Synth Seq/Pop
+CMN;0675;Synth Seq 2;87;90;35;40:Synth Seq/Pop
+CMN;0676;Synth Seq 3;87;90;36;40:Synth Seq/Pop
+CMN;0677;Analog Seq;87;90;37;40:Synth Seq/Pop
+CMN;0678;Detune Seq;87;90;38;40:Synth Seq/Pop
+CMN;0679;Uni-G;87;90;39;40:Synth Seq/Pop
+CMN;0680;Seq 4;87;90;40;40:Synth Seq/Pop
+CMN;0681;Analog Poly;87;90;41;40:Synth Seq/Pop
+CMN;0682;Analog Poly Dly;87;90;42;40:Synth Seq/Pop
+CMN;0683;Saws Key;87;90;43;40:Synth Seq/Pop
+CMN;0684;Vintage Key;87;90;44;40:Synth Seq/Pop
+CMN;0685;Analog Key w;87;90;45;40:Synth Seq/Pop
+CMN;0686;Analog Key;87;90;46;40:Synth Seq/Pop
+CMN;0687;Bell 1;87;90;47;40:Synth Seq/Pop
+CMN;0688;Bell 1 Atk;87;90;48;40:Synth Seq/Pop
+CMN;0689;Bell 2;87;90;49;40:Synth Seq/Pop
+CMN;0690;Bell 3;87;90;50;40:Synth Seq/Pop
+CMN;0691;Bell 3 Amp;87;90;51;40:Synth Seq/Pop
+CMN;0692;MusicBox Key w;87;90;52;40:Synth Seq/Pop
+CMN;0693;MusicBox Key;87;90;53;40:Synth Seq/Pop
+CMN;0694;Music Bells;87;90;54;40:Synth Seq/Pop
+CMN;0695;Music Bells w;87;90;55;40:Synth Seq/Pop
+CMN;0696;Dreaming Bell;87;90;56;40:Synth Seq/Pop
+CMN;0697;FingBell Key;87;90;57;40:Synth Seq/Pop
+CMN;0698;FingBell Key w;87;90;58;40:Synth Seq/Pop
+CMN;0699;Org Bell;87;90;59;40:Synth Seq/Pop
+CMN;0700;Pluck Synth;87;90;60;40:Synth Seq/Pop
+CMN;0701;Atmosphere;87;90;61;38:Synth PolyKey
+CMN;0702;Atmosphere Cho;87;90;62;38:Synth PolyKey
+CMN;0703;Analog Dream;87;90;63;38:Synth PolyKey
+CMN;0704;Analog Dream Atk;87;90;64;38:Synth PolyKey
+CMN;0705;Choir Key;87;90;65;38:Synth PolyKey
+CMN;0706;Choir Key Echo;87;90;66;38:Synth PolyKey
+CMN;0707;Brass Key;87;90;67;38:Synth PolyKey
+CMN;0708;Harpsi Key;87;90;68;38:Synth PolyKey
+CMN;0709;Harpsi Key w;87;90;69;38:Synth PolyKey
+CMN;0710;Brightness;87;90;70;38:Synth PolyKey
+CMN;0711;Brightness Cho;87;90;71;38:Synth PolyKey
+CMN;0712;Vox Key;87;90;72;38:Synth PolyKey
+CMN;0713;Air Key 1;87;90;73;38:Synth PolyKey
+CMN;0714;Air Key 2;87;90;74;38:Synth PolyKey
+CMN;0715;Digital Key;87;90;75;38:Synth PolyKey
+CMN;0716;Dreamheaven 1;87;90;76;38:Synth PolyKey
+CMN;0717;Dreamheaven 2;87;90;77;38:Synth PolyKey
+CMN;0718;Goblins;87;90;78;39:Synth FX
+CMN;0719;Cosmic Drops;87;90;79;39:Synth FX
+CMN;0720;Echo Drops;87;90;80;39:Synth FX
+CMN;0721;Echo Drops Cho;87;90;81;39:Synth FX
+CMN;0722;Echo Bell;87;90;82;39:Synth FX
+CMN;0723;Echo Bell Cho;87;90;83;39:Synth FX
+CMN;0724;Echo Bell Dly;87;90;84;39:Synth FX
+CMN;0725;Echo Pan;87;90;85;39:Synth FX
+CMN;0726;Echo Pan Cho;87;90;86;39:Synth FX
+CMN;0727;LFO Saw;87;90;87;39:Synth FX
+CMN;0728;Keep Going;87;90;88;39:Synth FX
+CMN;0729;Electrostar;87;90;89;39:Synth FX
+CMN;0730;Scream at me;87;90;90;39:Synth FX
+CMN;0731;Scream at me w;87;90;91;39:Synth FX
+CMN;0732;Star Theme;87;90;92;36:Synth Pad/Str
+CMN;0733;Star Theme Dly;87;90;93;36:Synth Pad/Str
+CMN;0734;Sitar 1;87;90;94;22:Plucked/Stroke
+CMN;0735;Sitar 1 w;87;90;95;22:Plucked/Stroke
+CMN;0736;Sitar 2;87;90;96;22:Plucked/Stroke
+CMN;0737;Sitar 2 w;87;90;97;22:Plucked/Stroke
+CMN;0738;Banjo;87;90;98;22:Plucked/Stroke
+CMN;0739;Banjo w;87;90;99;22:Plucked/Stroke
+CMN;0740;Shamisen;87;90;100;22:Plucked/Stroke
+CMN;0741;Shamisen w;87;90;101;22:Plucked/Stroke
+CMN;0742;Koto;87;90;102;22:Plucked/Stroke
+CMN;0743;Koto w;87;90;103;22:Plucked/Stroke
+CMN;0744;Taisho Koto;87;90;104;22:Plucked/Stroke
+CMN;0745;Taisho Koto w;87;90;105;22:Plucked/Stroke
+CMN;0746;Kalimba;87;90;106;22:Plucked/Stroke
+CMN;0747;Kalimba w;87;90;107;22:Plucked/Stroke
+CMN;0748;Bagpipe;87;90;108;28:Wind
+CMN;0749;Bagpipe w;87;90;109;28:Wind
+CMN;0750;Fiddle;87;90;110;23:Solo Strings
+CMN;0751;Fiddle w;87;90;111;23:Solo Strings
+CMN;0752;Shanai;87;90;112;28:Wind
+CMN;0753;Shanai w;87;90;113;28:Wind
+CMN;0754;Tinkle Bell;87;90;114;14:Bell
+CMN;0755;Tinkle Bell w;87;90;115;14:Bell
+CMN;0756;Agogo;87;90;116;14:Bell
+CMN;0757;Agogo w;87;90;117;14:Bell
+CMN;0758;Steel Drums;87;90;118;47:Percussion
+CMN;0759;Steel Drums w;87;90;119;47:Percussion
+CMN;0760;Steel Drums w 2;87;90;120;47:Percussion
+CMN;0761;Woodblock;87;90;121;47:Percussion
+CMN;0762;Castanets;87;90;122;47:Percussion
+CMN;0763;Taiko;87;90;123;47:Percussion
+CMN;0764;Concert BD;87;90;124;47:Percussion
+CMN;0765;Concert BD w;87;90;125;47:Percussion
+CMN;0766;Melodic Tom 1;87;90;126;47:Percussion
+CMN;0767;Melodic Tom 2;87;90;127;47:Percussion
+CMN;0768;Synth Drum;87;90;128;47:Percussion
+CMN;0769;Synth Drum w;87;91;1;47:Percussion
+CMN;0770;TR-808 Tom;87;91;2;47:Percussion
+CMN;0771;Elec.Perc.;87;91;3;47:Percussion
+CMN;0772;Reverse Cym;87;91;4;47:Percussion
+CMN;0773;Reverse Cym Atk;87;91;5;47:Percussion
+CMN;0774;Gtr Fret Noise;87;91;6;45:Sound FX
+CMN;0775;Gtr Cut Noise;87;91;7;45:Sound FX
+CMN;0776;Bass String Slap;87;91;8;45:Sound FX
+CMN;0777;Breath Noise;87;91;9;45:Sound FX
+CMN;0778;Flute Key Click;87;91;10;45:Sound FX
+CMN;0779;Seashore;87;91;11;45:Sound FX
+CMN;0780;Rain;87;91;12;45:Sound FX
+CMN;0781;Thunder;87;91;13;45:Sound FX
+CMN;0782;Thunder Dly;87;91;14;45:Sound FX
+CMN;0783;Wind;87;91;15;45:Sound FX
+CMN;0784;Stream;87;91;16;45:Sound FX
+CMN;0785;Stream w;87;91;17;45:Sound FX
+CMN;0786;Bubble 1;87;91;18;45:Sound FX
+CMN;0787;Bubble 1 w;87;91;19;45:Sound FX
+CMN;0788;Bubble 2;87;91;20;45:Sound FX
+CMN;0789;FX Scene;87;91;21;45:Sound FX
+CMN;0790;Tuned Winds;87;91;22;45:Sound FX
+CMN;0791;Tuned Winds w;87;91;23;45:Sound FX
+CMN;0792;Sand Noise;87;91;24;45:Sound FX
+CMN;0793;Bird 1;87;91;25;45:Sound FX
+CMN;0794;Dog;87;91;26;45:Sound FX
+CMN;0795;Horse Gallop;87;91;27;45:Sound FX
+CMN;0796;Bird 2;87;91;28;45:Sound FX
+CMN;0797;Telephone 1;87;91;29;45:Sound FX
+CMN;0798;Telephone 2;87;91;30;45:Sound FX
+CMN;0799;Door Creaking;87;91;31;45:Sound FX
+CMN;0800;Door;87;91;32;45:Sound FX
+CMN;0801;Scratch;87;91;33;45:Sound FX
+CMN;0802;Wind Chimes;87;91;34;45:Sound FX
+CMN;0803;FX Close;87;91;35;45:Sound FX
+CMN;0804;Helicopter;87;91;36;45:Sound FX
+CMN;0805;Car Engine;87;91;37;45:Sound FX
+CMN;0806;Car Stop;87;91;38;45:Sound FX
+CMN;0807;Car Pass;87;91;39;45:Sound FX
+CMN;0808;Car Crash;87;91;40;45:Sound FX
+CMN;0809;Siren;87;91;41;45:Sound FX
+CMN;0810;Train;87;91;42;45:Sound FX
+CMN;0811;Jetplane;87;91;43;45:Sound FX
+CMN;0812;Jetplane Dly;87;91;44;45:Sound FX
+CMN;0813;Starship;87;91;45;45:Sound FX
+CMN;0814;Starship Dly;87;91;46;45:Sound FX
+CMN;0815;Burst Noise;87;91;47;45:Sound FX
+CMN;0816;Passing By;87;91;48;45:Sound FX 
+CMN;0817;FX Pass 1;87;91;49;45:Sound FX 
+CMN;0818;FX Pass 2;87;91;50;45:Sound FX 
+CMN;0819;FX Pass 3;87;91;51;45:Sound FX 
+CMN;0820;FX Pass 4;87;91;52;45:Sound FX 
+CMN;0821;FX Pass 5;87;91;53;45:Sound FX
+CMN;0822;Poly Sweep Nz;87;91;54;45:Sound FX
+CMN;0823;Reso Sweep Dn;87;91;55;45:Sound FX
+CMN;0824;Applause;87;91;56;45:Sound FX
+CMN;0825;Applause w;87;91;57;45:Sound FX
+CMN;0826;Laughing;87;91;58;45:Sound FX
+CMN;0827;Screaming;87;91;59;45:Sound FX
+CMN;0828;Punch;87;91;60;45:Sound FX
+CMN;0829;Heart Beat;87;91;61;45:Sound FX
+CMN;0830;Footsteps;87;91;62;45:Sound FX
+CMN;0831;Gun Shot;87;91;63;45:Sound FX
+CMN;0832;Machine Gun;87;91;64;45:Sound FX
+CMN;0833;Laser Gun;87;91;65;45:Sound FX
+CMN;0834;Explosion;87;91;66;45:Sound FX
+CMN;0835;Explosion Dly;87;91;67;45:Sound FX
+CMN;0836;Explosion Dist;87;91;68;45:Sound FX
+CMN;0837;FX Hit w;87;91;69;45:Sound FX
+EXZ001;0001;Expressive Grand Ac.Piano;101;64;1;0:No group
+EXZ001;0002;Expressiv Bright Ac.Piano;101;64;2;0:No group
+EXZ001;0003;Expressive Warm Ac.Piano;101;64;3;0:No group
+EXZ001;0004;Expressive Mono Ac.Piano;101;64;4;0:No group
+EXZ001;0005;Expressive Grd 2 Ac.Piano;101;64;5;0:No group
+EXZ001;0006;Expressive+EP 1 Ac.Piano;101;64;6;0:No group
+EXZ001;0007;Expressive+EP 2 Ac.Piano;101;64;7;0:No group
+EXZ001;0008;QuietPno+StrTrem Ac.Piano;101;64;8;0:No group
+EXZ001;0009;Expressive+Str Ac.Piano;101;64;9;0:No group
+EXZ001;0010;Expressive+Pad Ac.Piano;101;64;10;0:No group
+EXZ001;0011;Expressive+Bell Ac.Piano;101;64;11;0:No group
+PR-A;0001;AnalogAtmosphere;87;92;1;38:Synth PolyKey
+PR-A;0002;Progre.Pluck Mod;87;92;2;38:Synth PolyKey
+PR-A;0003;Stringbell Synth;87;92;3;38:Synth PolyKey
+PR-A;0004;P5 Soundtrack;87;92;4;38:Synth PolyKey
+PR-A;0005;5th Ambi Pluck;87;92;5;38:Synth PolyKey
+PR-A;0006;Juno Poly Stack;87;92;6;38:Synth PolyKey
+PR-A;0007;M/S Pulse/Mod;87;92;7;38:Synth PolyKey
+PR-A;0008;JUNO On Fire;87;92;8;38:Synth PolyKey
+PR-A;0009;Future Poly/Mod;87;92;9;38:Synth PolyKey
+PR-A;0010;Synth Edge 1;87;92;10;38:Synth PolyKey
+PR-A;0011;Future Poly;87;92;11;38:Synth PolyKey
+PR-A;0012;Future Sine Poly;87;92;12;38:Synth PolyKey
+PR-A;0013;Close to Lead;87;92;13;38:Synth PolyKey
+PR-A;0014;Laser Sync Harp;87;92;14;38:Synth PolyKey
+PR-A;0015;Broken Toys;87;92;15;38:Synth PolyKey
+PR-A;0016;Arise;87;92;16;38:Synth PolyKey
+PR-A;0017;Ring Padding;87;92;17;38:Synth PolyKey
+PR-A;0018;JP8 X-MOD Magic;87;92;18;38:Synth PolyKey
+PR-A;0019;Heliosphere;87;92;19;38:Synth PolyKey
+PR-A;0020;Sweet Sustain;87;92;20;38:Synth PolyKey
+PR-A;0021;New Pizzagogo;87;92;21;38:Synth PolyKey
+PR-A;0022;S.SAW Orch+Pizz;87;92;22;38:Synth PolyKey
+PR-A;0023;Slow Sleeper;87;92;23;38:Synth PolyKey
+PR-A;0024;XMod2 JazzGt;87;92;24;38:Synth PolyKey
+PR-A;0025;Shine Pad;87;92;25;36:Synth Pad/Str
+PR-A;0026;Ambien;87;92;26;36:Synth Pad/Str
+PR-A;0027;Formant Pad;87;92;27;36:Synth Pad/Str
+PR-A;0028;XMod N Pole;87;92;28;36:Synth Pad/Str
+PR-A;0029;Sawchestra;87;92;29;36:Synth Pad/Str
+PR-A;0030;Release 2 Mod;87;92;30;36:Synth Pad/Str
+PR-A;0031;Pad-o-wan;87;92;31;36:Synth Pad/Str
+PR-A;0032;Waterfront;87;92;32;36:Synth Pad/Str
+PR-A;0033;Resonant Gravity;87;92;33;36:Synth Pad/Str
+PR-A;0034;XMod Pad;87;92;34;36:Synth Pad/Str
+PR-A;0035;Droner Pad;87;92;35;36:Synth Pad/Str
+PR-A;0036;Chasing Amy;87;92;36;36:Synth Pad/Str
+PR-A;0037;Materials Pad;87;92;37;36:Synth Pad/Str
+PR-A;0038;Jarresque Pad;87;92;38;36:Synth Pad/Str
+PR-A;0039;Delayed Cascade;87;92;39;36:Synth Pad/Str
+PR-A;0040;Diorama;87;92;40;36:Synth Pad/Str
+PR-A;0041;Enochian;87;92;41;36:Synth Pad/Str
+PR-A;0042;Firefly Chaser;87;92;42;36:Synth Pad/Str
+PR-A;0043;Echoes of JD-XA;87;92;43;36:Synth Pad/Str
+PR-A;0044;In the sky;87;92;44;36:Synth Pad/Str
+PR-A;0045;Delicate;87;92;45;36:Synth Pad/Str
+PR-A;0046;Hot Ring Pad;87;92;46;36:Synth Pad/Str
+PR-A;0047;Blackhole for Me;87;92;47;36:Synth Pad/Str
+PR-A;0048;No Juno;87;92;48;36:Synth Pad/Str
+PR-A;0049;Teary Strings;87;92;49;36:Synth Pad/Str
+PR-A;0050;Polymod;87;92;50;36:Synth Pad/Str
+PR-A;0051;Chemtrails;87;92;51;36:Synth Pad/Str
+PR-A;0052;Unreal Pad;87;92;52;36:Synth Pad/Str
+PR-A;0053;Tricycle;87;92;53;36:Synth Pad/Str
+PR-A;0054;Digitalis;87;92;54;36:Synth Pad/Str
+PR-A;0055;XMod2 String;87;92;55;36:Synth Pad/Str
+PR-A;0056;XMod2 Sweep;87;92;56;36:Synth Pad/Str
+PR-A;0057;Linear Synth Pad;87;92;57;37:Synth Bellpad
+PR-A;0058;Fantasia 2019;87;92;58;37:Synth Bellpad
+PR-A;0059;King*s Choir;87;92;59;32:Vox/Choir
+PR-A;0060;Lo-Fi Vox;87;92;60;32:Vox/Choir
+PR-A;0061;JX Cream;87;92;61;35:Synth Brass
+PR-A;0062;FUTURE BRASS;87;92;62;35:Synth Brass
+PR-A;0063;Runner CS Brass;87;92;63;35:Synth Brass
+PR-A;0064;Soft Brass;87;92;64;35:Synth Brass
+PR-A;0065;Bit Brass;87;92;65;35:Synth Brass
+PR-A;0066;XMod2 Soft Brs;87;92;66;35:Synth Brass
+PR-A;0067;Wizard Lead;87;92;67;34:Synth Lead
+PR-A;0068;Skunk Trunk Lead;87;92;68;34:Synth Lead
+PR-A;0069;Future Sync Lead;87;92;69;34:Synth Lead
+PR-A;0070;Future Vox Lead;87;92;70;34:Synth Lead
+PR-A;0071;JP Ring Baby;87;92;71;34:Synth Lead
+PR-A;0072;Fat Mask Lead;87;92;72;34:Synth Lead
+PR-A;0073;Metal Crush;87;92;73;34:Synth Lead
+PR-A;0074;Harsh Hog Lead;87;92;74;34:Synth Lead
+PR-A;0075;XMod Lead;87;92;75;34:Synth Lead
+PR-A;0076;Top Hat Lead;87;92;76;34:Synth Lead
+PR-A;0077;Digi-8 Lead;87;92;77;34:Synth Lead
+PR-A;0078;Cauldron Lead;87;92;78;34:Synth Lead
+PR-A;0079;Cone Buzz Lead;87;92;79;34:Synth Lead
+PR-A;0080;Mod Swallow;87;92;80;34:Synth Lead
+PR-A;0081;Buzzing Fly;87;92;81;34:Synth Lead
+PR-A;0082;Brassy VA Lead;87;92;82;34:Synth Lead
+PR-A;0083;Saw Super Sync;87;92;83;34:Synth Lead
+PR-A;0084;JP-6 Rings;87;92;84;34:Synth Lead
+PR-A;0085;Gabba Stabber;87;92;85;34:Synth Lead
+PR-A;0086;Sync Metals;87;92;86;34:Synth Lead
+PR-A;0087;Power Sync;87;92;87;34:Synth Lead
+PR-A;0088;Sync XFM;87;92;88;34:Synth Lead
+PR-A;0089;XMod Square;87;92;89;34:Synth Lead
+PR-A;0090;XMod JP;87;92;90;34:Synth Lead
+PR-A;0091;Cage*s Ring Lead;87;92;91;34:Synth Lead
+PR-A;0092;Sync Nativity;87;92;92;34:Synth Lead
+PR-A;0093;Ode to...;87;92;93;34:Synth Lead
+PR-A;0094;Bellbottom;87;92;94;34:Synth Lead
+PR-A;0095;Square Easy;87;92;95;34:Synth Lead
+PR-A;0096;Arasquare;87;92;96;34:Synth Lead
+PR-A;0097;XMod2 Soft Ld 1;87;92;97;34:Synth Lead
+PR-A;0098;XMod2 Soft Ld 2;87;92;98;34:Synth Lead
+PR-A;0099;Ambisynthereed;87;92;99;34:Synth Lead
+PR-A;0100;TB-Slayer;87;92;100;21:Synth Bass
+PR-A;0101;Fizzle Pop;87;92;101;21:Synth Bass
+PR-A;0102;Decay Bounce;87;92;102;21:Synth Bass
+PR-A;0103;XMod2 Soft Bs;87;92;103;21:Synth Bass
+PR-A;0104;Dirt Sub 1;87;92;104;21:Synth Bass
+PR-A;0105;Bit Sub;87;92;105;21:Synth Bass
+PR-A;0106;XMod2 LoBit Bs;87;92;106;21:Synth Bass
+PR-A;0107;XMod2 Oct Bs 1;87;92;107;21:Synth Bass
+PR-A;0108;XMod2 Oct Bs 2;87;92;108;21:Synth Bass
+PR-A;0109;XMod2 Rubber Bs;87;92;109;21:Synth Bass
+PR-A;0110;Electro Leg Bass;87;92;110;21:Synth Bass
+PR-A;0111;Noisy Haus Bass;87;92;111;21:Synth Bass
+PR-A;0112;24Db Mini Ladder;87;92;112;21:Synth Bass
+PR-A;0113;Bass or Lead ?;87;92;113;21:Synth Bass
+PR-A;0114;Water Hose Bass;87;92;114;21:Synth Bass
+PR-A;0115;Crizzle Bass;87;92;115;21:Synth Bass
+PR-A;0116;808 Lo-Bass;87;92;116;21:Synth Bass
+PR-A;0117;Cone Pressure;87;92;117;21:Synth Bass
+PR-A;0118;Auto JP;87;92;118;21:Synth Bass
+PR-A;0119;Reso Pumper Bass;87;92;119;21:Synth Bass
+PR-A;0120;Marked Bell;87;92;120;21:Synth Bass
+PR-A;0121;LFO Lazor Bass;87;92;121;21:Synth Bass
+PR-A;0122;S.C House Bass;87;92;122;21:Synth Bass
+PR-A;0123;Future Wobble;87;92;123;21:Synth Bass
+PR-A;0124;Madness Wobble;87;92;124;21:Synth Bass
+PR-A;0125;Step Mod Bass;87;92;125;21:Synth Bass
+PR-A;0126;Mysterions;87;92;126;39:Synth FX
+PR-A;0127;Sorrow in Space;87;92;127;39:Synth FX
+PR-A;0128;Jewellery Box;87;92;128;39:Synth FX
+PR-A;0129;XMod Pizz;87;93;1;39:Synth FX
+PR-A;0130;Cosine Porta;87;93;2;39:Synth FX
+PR-A;0131;Drifter;87;93;3;39:Synth FX
+PR-A;0132;8th Peak;87;93;4;42:Pulsating
+PR-A;0133;Step LFO Dream;87;93;5;42:Pulsating
+PR-A;0134;S.C Lofi Vox;87;93;6;42:Pulsating
+PR-A;0135;Dancing P5;87;93;7;42:Pulsating
+PR-A;0136;Layer Cake;87;93;8;42:Pulsating
+PR-A;0137;Side Chain Syn;87;93;9;42:Pulsating
+PR-A;0138;LFO Pluck / Mod;87;93;10;42:Pulsating
+PR-A;0139;Vectorism;87;93;11;42:Pulsating
+PR-A;0140;Pad-o-wan Step;87;93;12;42:Pulsating
+PR-A;0141;Ripple Shimmer;87;93;13;42:Pulsating
+PR-A;0142;Frost Bite;87;93;14;42:Pulsating
+PR-A;0143;Alpha Centauri;87;93;15;42:Pulsating
+PR-A;0144;Passage;87;93;16;42:Pulsating
+PR-A;0145;Dirty Phaser;87;93;17;42:Pulsating
+PR-A;0146;Decompose;87;93;18;42:Pulsating
+PR-A;0147;LFO POLY MOD.F;87;93;19;42:Pulsating
+PR-A;0148;P5 Modulation;87;93;20;42:Pulsating
+PR-A;0149;Hyperion 4632;87;93;21;42:Pulsating
+PR-A;0150;Swing;87;93;22;42:Pulsating
+PR-A;0151;Angels Wings;87;93;23;42:Pulsating
+PR-A;0152;Dust Spark;87;93;24;42:Pulsating
+PR-A;0153;Bamboo;87;93;25;42:Pulsating
+PR-A;0154;Sickly Star;87;93;26;42:Pulsating
+PR-A;0155;Strange P5;87;93;27;42:Pulsating
+PR-A;0156;Noise Pound;87;93;28;42:Pulsating
+PR-A;0157;Faulty Neurons;87;93;29;42:Pulsating
+PR-A;0158;Not Quite Tine;87;93;30;42:Pulsating
+PR-A;0159;Hairy Triangles;87;93;31;42:Pulsating
+PR-A;0160;Low Fidelity;87;93;32;42:Pulsating
+PR-A;0161;Space Hiccup;87;93;33;42:Pulsating
+PR-A;0162;Faint Light;87;93;34;42:Pulsating
+PR-A;0163;Step Per Organ;87;93;35;42:Pulsating
+PR-A;0164;Donkey Cart;87;93;36;42:Pulsating
+PR-A;0165;XMod2 Seq 1;87;93;37;42:Pulsating
+PR-A;0166;XMod2 Seq 2;87;93;38;42:Pulsating
+PR-A;0167;XMod2 Seq 3;87;93;39;42:Pulsating
+PR-A;0168;Data Cram;87;93;40;41:Phrase
+PR-A;0169;Electro Birds;87;93;41;41:Phrase
+PR-A;0170;Chloroform;87;93;42;41:Phrase
+PR-A;0171;Step SQ1 /Mod;87;93;43;41:Phrase
+PR-A;0172;Step SQ2 /Mod;87;93;44;41:Phrase
+PR-A;0173;Vox Step Lead;87;93;45;41:Phrase
+PR-A;0174;Step Growl 1;87;93;46;41:Phrase
+PR-A;0175;Step Growl 2;87;93;47;41:Phrase
+PR-A;0176;Minimal Beat 1;87;93;48;43:Beat&Groove
+PR-A;0177;Minimal Beat 2;87;93;49;43:Beat&Groove
+PR-A;0178;Flutter Pulse;87;93;50;42:Pulsating
+PR-A;0179;Morse Groove;87;93;51;42:Pulsating
+PR-A;0180;808 Conga Syn;87;93;52;47:Percussion
+PR-A;0181;Step Mod Per;87;93;53;47:Percussion
+PR-A;0182;Who are you?;87;93;54;49:Zone
+PR-A;0183;80s Dive;87;93;55;49:Zone
+PR-A;0184;Home 1;87;93;56;49:Zone
+PR-A;0185;Future LD Kit;87;93;57;49:Zone
+PR-A;0186;P&K SE Kit;87;93;58;49:Zone
+PR-A;0187;Chiptune Kit;87;93;59;49:Zone
+PR-A;0188;Step Bass&Saw;87;93;60;49:Zone
+PR-A;0189;Ac Pop Piano 1;87;93;61;1:Ac.Piano
+PR-A;0190;Rocker Piano;87;93;62;1:Ac.Piano
+PR-A;0191;Ragtime Piano;87;93;63;1:Ac.Piano
+PR-A;0192;Ac Pop Piano 2;87;93;64;1:Ac.Piano
+PR-A;0193;Piano + Str 1;87;93;65;1:Ac.Piano
+PR-A;0194;Piano + Str 2;87;93;66;1:Ac.Piano
+PR-A;0195;E.Piano;87;93;67;4:E.Piano1
+PR-A;0196;Tremolo E.Piano;87;93;68;4:E.Piano1
+PR-A;0197;Phaser EP 1;87;93;69;4:E.Piano1
+PR-A;0198;Phaser EP 2;87;93;70;4:E.Piano1
+PR-A;0199;Chorus EP 1;87;93;71;4:E.Piano1
+PR-A;0200;Chorus EP 2;87;93;72;4:E.Piano1
+PR-A;0201;Emotional EP;87;93;73;5:E.Piano2
+PR-A;0202;XMod2 EP1;87;93;74;5:E.Piano2
+PR-A;0203;XMod2 EP2;87;93;75;5:E.Piano2
+PR-A;0204;Dinky;87;93;76;14:Bell
+PR-A;0205;XMod2 Marimba;87;93;77;15:Mallet
+PR-A;0206;XMod2 Log Drum;87;93;78;15:Mallet
+PR-A;0207;Nylon Guitar;87;93;79;16:Ac.Guitar
+PR-A;0208;Folk Guitar;87;93;80;16:Ac.Guitar
+PR-A;0209;Clean Gtr;87;93;81;17:E.Guitar
+PR-A;0210;Chorus Gtr;87;93;82;17:E.Guitar
+PR-A;0211;Delay Gtr;87;93;83;17:E.Guitar
+PR-A;0212;Dist Guitar 1;87;93;84;18:Dist.Guitar
+PR-A;0213;Dist Guitar 2;87;93;85;18:Dist.Guitar
+PR-A;0214;Beach Drink;87;93;86;15:Mallet
+PR-A;0215;Violin Echo;87;93;87;23:Solo Strings
+PR-A;0216;Small Strings;87;93;88;24:Ensemble Strings
+PR-A;0217;Tremolo Str;87;93;89;24:Ensemble Strings
+PR-A;0218;Oboe Echo;87;93;90;28:Wind
+PR-A;0219;Flute Echo;87;93;91;29:Flute
+PR-A;0220;Ghost Flute;87;93;92;29:Flute
+PR-A;0221;Ghost Pan;87;93;93;29:Flute
+PR-A;0222;Dirt Sub 2;87;93;94;21:Synth Bass
+PR-A;0223;Dirt Sub 3;87;93;95;21:Synth Bass
+PR-A;0224;Dust Sub;87;93;96;21:Synth Bass
+PR-A;0225;Spread Sub 1;87;93;97;21:Synth Bass
+PR-A;0226;Spread Sub 2;87;93;98;21:Synth Bass
+PR-A;0227;Lurking Bass;87;93;99;21:Synth Bass
+PR-A;0228;Bendy Mod;87;93;100;35:Synth Brass
+PR-A;0229;Fantom Overture;87;93;101;36:Synth Pad/Str
+PR-A;0230;Fade Pad;87;93;102;36:Synth Pad/Str
+PR-A;0231;Synth Edge 2;87;93;103;38:Synth PolyKey
+PR-A;0232;Randen 1986;87;93;104;38:Synth PolyKey
+PR-A;0233;Clean Me;87;93;105;38:Synth PolyKey
+PR-A;0234;Cyber Slime;87;93;106;38:Synth PolyKey
+PR-A;0235;Sunrise;87;93;107;38:Synth PolyKey
+PR-A;0236;Kaihou Keys;87;93;108;38:Synth PolyKey
+PR-A;0237;Lost Box;87;93;109;14:Bell
+PR-A;0238;Bugendai;87;93;110;39:Synth FX
+PR-A;0239;Home 2;87;93;111;49:Zone 
+PR-B;0001;AX Classic Lead;87;64;1;34:Synth Lead
+PR-B;0002;AX Jupiter Ld 1;87;64;2;34:Synth Lead
+PR-B;0003;Alpha Split;87;64;3;34:Synth Lead
+PR-B;0004;AX Warm Lead;87;64;4;34:Synth Lead
+PR-B;0005;AX Saw Lead 1;87;64;5;34:Synth Lead
+PR-B;0006;AX Saw Lead 2;87;64;6;34:Synth Lead
+PR-B;0007;Edge Boost;87;64;7;34:Synth Lead
+PR-B;0008;AX Delayed Lead;87;64;8;34:Synth Lead
+PR-B;0009;Follow Me;87;64;9;34:Synth Lead
+PR-B;0010;HPF Mod Lead;87;64;10;34:Synth Lead
+PR-B;0011;Hot Coffee;87;64;11;34:Synth Lead
+PR-B;0012;Phase Lead;87;64;12;34:Synth Lead
+PR-B;0013;Porta Saw Lead;87;64;13;34:Synth Lead
+PR-B;0014;Windy Lead;87;64;14;34:Synth Lead
+PR-B;0015;Pulstar Lead;87;64;15;34:Synth Lead
+PR-B;0016;Dist TB Lead;87;64;16;34:Synth Lead
+PR-B;0017;GR-300 Lead 1;87;64;17;34:Synth Lead
+PR-B;0018;GR-300 Lead 2;87;64;18;34:Synth Lead
+PR-B;0019;AX Saw Lead 3;87;64;19;34:Synth Lead
+PR-B;0020;AX Saw Lead 4;87;64;20;34:Synth Lead
+PR-B;0021;Bright Pulse;87;64;21;34:Synth Lead
+PR-B;0022;AX Waspy Lead;87;64;22;34:Synth Lead
+PR-B;0023;Bright Square;87;64;23;34:Synth Lead
+PR-B;0024;Simple Square;87;64;24;34:Synth Lead
+PR-B;0025;Square Edge;87;64;25;34:Synth Lead
+PR-B;0026;X-Mod Lead;87;64;26;34:Synth Lead
+PR-B;0027;AX 5th Saw Lead;87;64;27;34:Synth Lead
+PR-B;0028;Oct Solid Saw;87;64;28;34:Synth Lead
+PR-B;0029;Oct Saw Lead;87;64;29;34:Synth Lead
+PR-B;0030;AX Fat GR Lead;87;64;30;34:Synth Lead
+PR-B;0031;Oct Juice;87;64;31;34:Synth Lead
+PR-B;0032;AX Juicy Lead;87;64;32;34:Synth Lead
+PR-B;0033;Square Stack;87;64;33;34:Synth Lead
+PR-B;0034;7th Stack Lead;87;64;34;34:Synth Lead
+PR-B;0035;Oct Square;87;64;35;34:Synth Lead
+PR-B;0036;Tri Stack;87;64;36;34:Synth Lead
+PR-B;0037;Digi Lead;87;64;37;34:Synth Lead
+PR-B;0038;Fireball Lead;87;64;38;34:Synth Lead
+PR-B;0039;AX Jupiter Ld 2;87;64;39;34:Synth Lead
+PR-B;0040;AX Saw Lead 5;87;64;40;34:Synth Lead
+PR-B;0041;Pro Fat Lead;87;64;41;34:Synth Lead
+PR-B;0042;Mid Saw Lead;87;64;42;34:Synth Lead
+PR-B;0043;Reso Saw Lead;87;64;43;34:Synth Lead
+PR-B;0044;AX Square Lead;87;64;44;34:Synth Lead
+PR-B;0045;Simple Tri Lead;87;64;45;34:Synth Lead
+PR-B;0046;2 krazy Soft;87;64;46;34:Synth Lead
+PR-B;0047;AX Ramp Lead;87;64;47;34:Synth Lead
+PR-B;0048;Pulse Lead 1;87;64;48;34:Synth Lead
+PR-B;0049;Pulse Lead 2;87;64;49;34:Synth Lead
+PR-B;0050;Digi-Rip Lead;87;64;50;34:Synth Lead
+PR-B;0051;Theramax;87;64;51;34:Synth Lead
+PR-B;0052;On Air Lead;87;64;52;34:Synth Lead
+PR-B;0053;Air Lead;87;64;53;34:Synth Lead
+PR-B;0054;AX Soft Lead;87;64;54;34:Synth Lead
+PR-B;0055;Soft Sqr Lead;87;64;55;34:Synth Lead
+PR-B;0056;Tri Lead 1;87;64;56;34:Synth Lead
+PR-B;0057;Tri Lead 2;87;64;57;34:Synth Lead
+PR-B;0058;Solo Nz Peaker;87;64;58;34:Synth Lead
+PR-B;0059;Whistle Lead;87;64;59;34:Synth Lead
+PR-B;0060;AX Spooky Lead;87;64;60;34:Synth Lead
+PR-B;0061;Sine Lead 1;87;64;61;34:Synth Lead
+PR-B;0062;Sine Lead 2;87;64;62;34:Synth Lead
+PR-B;0063;Simple Sine;87;64;63;34:Synth Lead
+PR-B;0064;Sine Atk Lead;87;64;64;34:Synth Lead
+PR-B;0065;Dist Stack;87;64;65;34:Synth Lead
+PR-B;0066;Buzz Saw;87;64;66;34:Synth Lead
+PR-B;0067;Buzz Nation;87;64;67;34:Synth Lead
+PR-B;0068;OSC Sync 1;87;64;68;34:Synth Lead
+PR-B;0069;OSC Sync 2;87;64;69;34:Synth Lead
+PR-B;0070;OSC Sync 3;87;64;70;34:Synth Lead
+PR-B;0071;OSC Sync 4;87;64;71;34:Synth Lead
+PR-B;0072;AX Sync Lead;87;64;72;34:Synth Lead
+PR-B;0073;Sync Lead;87;64;73;34:Synth Lead
+PR-B;0074;Sync Tank;87;64;74;34:Synth Lead
+PR-B;0075;2 krazy Bright;87;64;75;34:Synth Lead
+PR-B;0076;Dist Sync Lead;87;64;76;34:Synth Lead
+PR-B;0077;Oct Sync;87;64;77;34:Synth Lead
+PR-B;0078;Sync Mod;87;64;78;34:Synth Lead
+PR-B;0079;Metal Sync Lead;87;64;79;34:Synth Lead
+PR-B;0080;Saw Cross;87;64;80;34:Synth Lead
+PR-B;0081;Unison Lead;87;64;81;34:Synth Lead
+PR-B;0082;Unison Fat Mod;87;64;82;34:Synth Lead
+PR-B;0083;Oct Stack;87;64;83;34:Synth Lead
+PR-B;0084;Unison Soft;87;64;84;34:Synth Lead
+PR-B;0085;Growl Lead;87;64;85;34:Synth Lead
+PR-B;0086;Super Saw Lead;87;64;86;34:Synth Lead
+PR-B;0087;Unison Reso;87;64;87;34:Synth Lead
+PR-B;0088;Hoover Lead;87;64;88;34:Synth Lead
+PR-B;0089;Vintage Lead;87;64;89;34:Synth Lead
+PR-B;0090;Hardstyle;87;64;90;34:Synth Lead
+PR-B;0091;Vowel /Mod;87;64;91;34:Synth Lead
+PR-B;0092;Saw Boost Bs;87;64;92;21:Synth Bass
+PR-B;0093;Hard House Bs;87;64;93;21:Synth Bass
+PR-B;0094;Rubber Bs 1;87;64;94;21:Synth Bass
+PR-B;0095;Punch MG Bs;87;64;95;21:Synth Bass
+PR-B;0096;Rubber Bs 2;87;64;96;21:Synth Bass
+PR-B;0097;Spike Bass;87;64;97;21:Synth Bass
+PR-B;0098;Fat MG Bass;87;64;98;21:Synth Bass
+PR-B;0099;AX Reso Bass 1;87;64;99;21:Synth Bass
+PR-B;0100;TB Dist Bass;87;64;100;21:Synth Bass
+PR-B;0101;MKS-50 SBs;87;64;101;21:Synth Bass
+PR-B;0102;AX Alpha Bass;87;64;102;21:Synth Bass
+PR-B;0103;AX MG Bass 1;87;64;103;21:Synth Bass
+PR-B;0104;AX Modular Bs 1;87;64;104;21:Synth Bass
+PR-B;0105;Acdg Bass;87;64;105;21:Synth Bass
+PR-B;0106;7th Stack Bass;87;64;106;21:Synth Bass
+PR-B;0107;101 Bass;87;64;107;21:Synth Bass
+PR-B;0108;Compu Bs;87;64;108;21:Synth Bass
+PR-B;0109;Fat Analog Bs;87;64;109;21:Synth Bass
+PR-B;0110;Rubber Bs 3;87;64;110;21:Synth Bass
+PR-B;0111;Long Sweep Bs;87;64;111;21:Synth Bass
+PR-B;0112;MG Deep Bass;87;64;112;21:Synth Bass
+PR-B;0113;Round Bass;87;64;113;21:Synth Bass
+PR-B;0114;AX Reso Bass 2;87;64;114;21:Synth Bass
+PR-B;0115;AX MG Bass 2;87;64;115;21:Synth Bass
+PR-B;0116;Juno Sqr Bs;87;64;116;21:Synth Bass
+PR-B;0117;Reso Sqr Bass;87;64;117;21:Synth Bass
+PR-B;0118;TB Sqr Sweep Bs;87;64;118;21:Synth Bass
+PR-B;0119;AX Reso Bass 3;87;64;119;21:Synth Bass
+PR-B;0120;Detune Tri Bs;87;64;120;21:Synth Bass
+PR-B;0121;Triangle Bass;87;64;121;21:Synth Bass
+PR-B;0122;Sine Bass;87;64;122;21:Synth Bass
+PR-B;0123;AX Garage Bass;87;64;123;21:Synth Bass
+PR-B;0124;Monster Bs;87;64;124;21:Synth Bass
+PR-B;0125;AX Modular Bs 2;87;64;125;21:Synth Bass
+PR-B;0126;Unison Bass 1;87;64;126;21:Synth Bass
+PR-B;0127;Unison Bass 2;87;64;127;21:Synth Bass
+PR-B;0128;Unison Atk Bs 1;87;64;128;21:Synth Bass
+PR-B;0129;Unison Atk Bs 2;87;65;1;21:Synth Bass
+PR-B;0130;Unison Atk Bs 3;87;65;2;21:Synth Bass
+PR-B;0131;Lazor Bass;87;65;3;21:Synth Bass
+PR-B;0132;Nz Sync Bass;87;65;4;21:Synth Bass
+PR-B;0133;Dist Bass;87;65;5;21:Synth Bass
+PR-B;0134;Delta Bass;87;65;6;21:Synth Bass
+PR-B;0135;Sine Bend Dn Bs;87;65;7;21:Synth Bass
+PR-B;0136;A-i-e-i Bs;87;65;8;21:Synth Bass
+PR-B;0137;Dist Atk Bs;87;65;9;21:Synth Bass
+PR-B;0138;Acoustic Bs 1;87;65;10;19:Ac.Bass
+PR-B;0139;Acoustic Bs 2;87;65;11;19:Ac.Bass
+PR-B;0140;Finger E Bs 1;87;65;12;20:E.Bass
+PR-B;0141;Finger E Bs 2;87;65;13;20:E.Bass
+PR-B;0142;Finger E Bs 3;87;65;14;20:E.Bass
+PR-B;0143;Finger E Bs 4;87;65;15;20:E.Bass
+PR-B;0144;Pick Bass 1;87;65;16;20:E.Bass
+PR-B;0145;Pick Bass 2;87;65;17;20:E.Bass
+PR-B;0146;AX Fretless Bs;87;65;18;20:E.Bass
+PR-B;0147;AX Slap Bass;87;65;19;20:E.Bass
+PR-B;0148;AX JP Strings;87;65;20;36:Synth Pad/Str
+PR-B;0149;OB Strings;87;65;21;36:Synth Pad/Str
+PR-B;0150;106 Strings;87;65;22;36:Synth Pad/Str
+PR-B;0151;AX Syn Strings 1;87;65;23;36:Synth Pad/Str
+PR-B;0152;PW Paradise;87;65;24;36:Synth Pad/Str
+PR-B;0153;AX Syn Strings 2;87;65;25;36:Synth Pad/Str
+PR-B;0154;Soft Saw Pad;87;65;26;36:Synth Pad/Str
+PR-B;0155;Juno P13 Str;87;65;27;36:Synth Pad/Str
+PR-B;0156;5th DLA Pad;87;65;28;36:Synth Pad/Str
+PR-B;0157;Nu Epic Pad;87;65;29;36:Synth Pad/Str
+PR-B;0158;PWM Basic Pad;87;65;30;36:Synth Pad/Str
+PR-B;0159;PWM Hard Pad;87;65;31;36:Synth Pad/Str
+PR-B;0160;Sawtooth Str;87;65;32;36:Synth Pad/Str
+PR-B;0161;PWM Soft Pad 1;87;65;33;36:Synth Pad/Str
+PR-B;0162;Soft Pad 1;87;65;34;36:Synth Pad/Str
+PR-B;0163;PWM Soft Pad 2;87;65;35;36:Synth Pad/Str
+PR-B;0164;PWM Soft Pad 3;87;65;36;36:Synth Pad/Str
+PR-B;0165;Soft Pad 2;87;65;37;36:Synth Pad/Str
+PR-B;0166;Chorus Pad;87;65;38;36:Synth Pad/Str
+PR-B;0167;AX Hollow Pad;87;65;39;36:Synth Pad/Str
+PR-B;0168;AX Heaven Pad;87;65;40;36:Synth Pad/Str
+PR-B;0169;Shimmer Pad;87;65;41;36:Synth Pad/Str
+PR-B;0170;Scape Pad;87;65;42;36:Synth Pad/Str
+PR-B;0171;Str of Breath;87;65;43;36:Synth Pad/Str
+PR-B;0172;Angels Pad;87;65;44;36:Synth Pad/Str
+PR-B;0173;JX Strings;87;65;45;36:Synth Pad/Str
+PR-B;0174;PWM Sweep Pad 1;87;65;46;36:Synth Pad/Str
+PR-B;0175;PWM Sweep Pad 2;87;65;47;36:Synth Pad/Str
+PR-B;0176;Trance Sweep Pad;87;65;48;36:Synth Pad/Str
+PR-B;0177;Phase Pad;87;65;49;36:Synth Pad/Str
+PR-B;0178;Cosmic Rays;87;65;50;36:Synth Pad/Str
+PR-B;0179;Phase Super Saw;87;65;51;36:Synth Pad/Str
+PR-B;0180;Phase PWM Pad;87;65;52;36:Synth Pad/Str
+PR-B;0181;AX Voyager;87;65;53;36:Synth Pad/Str
+PR-B;0182;Bend Pad;87;65;54;36:Synth Pad/Str
+PR-B;0183;Tuned Nz 1;87;65;55;36:Synth Pad/Str
+PR-B;0184;Tuned Nz 2;87;65;56;36:Synth Pad/Str
+PR-B;0185;Tuned Nz 3;87;65;57;36:Synth Pad/Str
+PR-B;0186;Strings 1;87;65;58;24:Ensemble Strings
+PR-B;0187;Strings 2;87;65;59;24:Ensemble Strings
+PR-B;0188;AX Mood Strings;87;65;60;24:Ensemble Strings
+PR-B;0189;AX 60s Strings;87;65;61;24:Ensemble Strings
+PR-B;0190;AX Small Strings;87;65;62;24:Ensemble Strings
+PR-B;0191;Tape Strings;87;65;63;24:Ensemble Strings
+PR-B;0192;AX Strings Stacc;87;65;64;24:Ensemble Strings
+PR-B;0193;AX Pizzicato;87;65;65;24:Ensemble Strings
+PR-B;0194;D-50 Pizz;87;65;66;24:Ensemble Strings
+PR-B;0195;AX Violin;87;65;67;23:Solo Strings
+PR-B;0196;AX Viola;87;65;68;23:Solo Strings
+PR-B;0197;AX Cello;87;65;69;23:Solo Strings
+PR-B;0198;AX Contrabass;87;65;70;23:Solo Strings
+PR-B;0199;Square Saw;87;65;71;38:Synth PolyKey
+PR-B;0200;Juno SAW;87;65;72;38:Synth PolyKey
+PR-B;0201;Filter Env Key;87;65;73;38:Synth PolyKey
+PR-B;0202;Mini Growl;87;65;74;38:Synth PolyKey
+PR-B;0203;Round SQR;87;65;75;38:Synth PolyKey
+PR-B;0204;SQR Atk Pop;87;65;76;38:Synth PolyKey
+PR-B;0205;Touchy Key;87;65;77;38:Synth PolyKey
+PR-B;0206;Poly Synth 1;87;65;78;38:Synth PolyKey
+PR-B;0207;Poly Synth 2;87;65;79;38:Synth PolyKey
+PR-B;0208;Poly Synth 3;87;65;80;38:Synth PolyKey
+PR-B;0209;Ox Synth;87;65;81;38:Synth PolyKey
+PR-B;0210;Trance Synth;87;65;82;38:Synth PolyKey
+PR-B;0211;Super Saw Key 1;87;65;83;38:Synth PolyKey
+PR-B;0212;Super Saw Key 2;87;65;84;38:Synth PolyKey
+PR-B;0213;AX Digitaless;87;65;85;38:Synth PolyKey
+PR-B;0214;S-Saw Stac Pluck;87;65;86;38:Synth PolyKey
+PR-B;0215;Syn Vox Key;87;65;87;38:Synth PolyKey
+PR-B;0216;Freeze Synth;87;65;88;38:Synth PolyKey
+PR-B;0217;Mallet Pipes;87;65;89;38:Synth PolyKey
+PR-B;0218;Saw Pluck;87;65;90;38:Synth PolyKey
+PR-B;0219;PW Pluck;87;65;91;38:Synth PolyKey
+PR-B;0220;Super Saw Pluck;87;65;92;38:Synth PolyKey
+PR-B;0221;Echo Pluck;87;65;93;38:Synth PolyKey
+PR-B;0222;AX Vintage Key;87;65;94;38:Synth PolyKey
+PR-B;0223;Poly Synth 4;87;65;95;38:Synth PolyKey
+PR-B;0224;AX Saws Key;87;65;96;38:Synth PolyKey
+PR-B;0225;Sync staccato;87;65;97;38:Synth PolyKey
+PR-B;0226;AX Analog Dream;87;65;98;38:Synth PolyKey
+PR-B;0227;AX Dreaming Box;87;65;99;37:Synth Bellpad
+PR-B;0228;D-50 Fantasia;87;65;100;37:Synth Bellpad
+PR-B;0229;AX Fantasia;87;65;101;37:Synth Bellpad
+PR-B;0230;AX Stacc Heaven;87;65;102;37:Synth Bellpad
+PR-B;0231;AX Org Bell;87;65;103;37:Synth Bellpad
+PR-B;0232;FM Sparkles;87;65;104;14:Bell
+PR-B;0233;Snowflakes;87;65;105;14:Bell
+PR-B;0234;X-Mod Bell 1;87;65;106;14:Bell
+PR-B;0235;X-Mod Bell 2;87;65;107;14:Bell
+PR-B;0236;AX Tubular Bells;87;65;108;14:Bell
+PR-B;0237;Short Sqr Pluck;87;65;109;40:Synth Seq/Pop
+PR-B;0238;7th Stack Seq;87;65;110;40:Synth Seq/Pop
+PR-B;0239;8th Stack Seq;87;65;111;40:Synth Seq/Pop
+PR-B;0240;MG Thumper;87;65;112;40:Synth Seq/Pop
+PR-B;0241;PW-Echo Seq;87;65;113;40:Synth Seq/Pop
+PR-B;0242;Syn Atk Pluck;87;65;114;40:Synth Seq/Pop
+PR-B;0243;106 Brass;87;65;115;35:Synth Brass
+PR-B;0244;AX Analog Brass;87;65;116;35:Synth Brass
+PR-B;0245;80s Brass 1;87;65;117;35:Synth Brass
+PR-B;0246;Wide Syn Brass;87;65;118;35:Synth Brass
+PR-B;0247;Juno Brass;87;65;119;35:Synth Brass
+PR-B;0248;Poly Brass 1;87;65;120;35:Synth Brass
+PR-B;0249;Poly Brass 2;87;65;121;35:Synth Brass
+PR-B;0250;Syn Brass 1;87;65;122;35:Synth Brass
+PR-B;0251;Juno P18 Brass;87;65;123;35:Synth Brass
+PR-B;0252;Apolis Brass;87;65;124;35:Synth Brass
+PR-B;0253;AX JP Brass;87;65;125;35:Synth Brass
+PR-B;0254;Oct Brass;87;65;126;35:Synth Brass
+PR-B;0255;AX Soft Syn Brs;87;65;127;35:Synth Brass
+PR-B;0256;Bright Syn Brass;87;65;128;35:Synth Brass
+PR-B;0257;Filter Env Brass;87;66;1;35:Synth Brass
+PR-B;0258;80s Brass 2;87;66;2;35:Synth Brass
+PR-B;0259;80s Brass 3;87;66;3;35:Synth Brass
+PR-B;0260;Syn Brass 2;87;66;4;35:Synth Brass
+PR-B;0261;Soft Brass 1;87;66;5;35:Synth Brass
+PR-B;0262;Soft Brass 2;87;66;6;35:Synth Brass
+PR-B;0263;Reso Soft Brass;87;66;7;35:Synth Brass
+PR-B;0264;AX Warm Syn Brs;87;66;8;35:Synth Brass
+PR-B;0265;AX FM Brass;87;66;9;35:Synth Brass
+PR-B;0266;Brass Sect;87;66;10;27:Ensemble Brass
+PR-B;0267;Soft Ac Brass;87;66;11;27:Ensemble Brass
+PR-B;0268;Sax Section 1;87;66;12;27:Ensemble Brass
+PR-B;0269;Sax Section 2;87;66;13;27:Ensemble Brass
+PR-B;0270;AX Brass Atk;87;66;14;27:Ensemble Brass
+PR-B;0271;Trumpeter;87;66;15;26:Solo Brass
+PR-B;0272;AX Romantic Tp;87;66;16;26:Solo Brass
+PR-B;0273;AX Mute Trumpet;87;66;17;26:Solo Brass
+PR-B;0274;AX Trombone;87;66;18;26:Solo Brass
+PR-B;0275;AX Soprano Sax;87;66;19;30:Sax
+PR-B;0276;AX Alto Sax;87;66;20;30:Sax
+PR-B;0277;AX Tenor Sax;87;66;21;30:Sax
+PR-B;0278;Breathy Sax;87;66;22;30:Sax
+PR-B;0279;AX Baritone Sax;87;66;23;30:Sax
+PR-B;0280;AX Piano;87;66;24;1:Ac.Piano
+PR-B;0281;Mono Piano;87;66;25;1:Ac.Piano
+PR-B;0282;JD-800 Piano;87;66;26;2:Pop Piano
+PR-B;0283;AX Honky-tonk;87;66;27;2:Pop Piano
+PR-B;0284;DNC Piano;87;66;28;2:Pop Piano
+PR-B;0285;Blend Piano;87;66;29;2:Pop Piano
+PR-B;0286;E-Grand;87;66;30;2:Pop Piano
+PR-B;0287;Metal Key;87;66;31;2:Pop Piano
+PR-B;0288;Dyno EP;87;66;32;4:E.Piano1
+PR-B;0289;Stage EP;87;66;33;4:E.Piano1
+PR-B;0290;AX Vintage EP;87;66;34;4:E.Piano1
+PR-B;0291;Phase EP 1;87;66;35;4:E.Piano1
+PR-B;0292;Phase EP 2;87;66;36;4:E.Piano1
+PR-B;0293;Phase Stage;87;66;37;4:E.Piano1
+PR-B;0294;AX Tremolo EP;87;66;38;4:E.Piano1
+PR-B;0295;Psycho EP;87;66;39;4:E.Piano1
+PR-B;0296;SA EP;87;66;40;4:E.Piano1
+PR-B;0297;Wurly EP;87;66;41;4:E.Piano1
+PR-B;0298;Dist Wurly;87;66;42;4:E.Piano1
+PR-B;0299;FM EP 1;87;66;43;5:E.Piano2
+PR-B;0300;FM EP 2;87;66;44;5:E.Piano2
+PR-B;0301;AX Harpsichord;87;66;45;9:Harpsichord
+PR-B;0302;AX Clav 1;87;66;46;10:Clav
+PR-B;0303;AX Clav 2;87;66;47;10:Clav
+PR-B;0304;Twah Clav;87;66;48;10:Clav
+PR-B;0305;Phase Clav;87;66;49;10:Clav
+PR-B;0306;AX Pulse Clav 1;87;66;50;10:Clav
+PR-B;0307;AX Pulse Clav 2;87;66;51;10:Clav
+PR-B;0308;Sweepin Clav;87;66;52;10:Clav
+PR-B;0309;Lord Organ 1;87;66;53;6:E.Organ
+PR-B;0310;Lord Organ 2;87;66;54;6:E.Organ
+PR-B;0311;Perc Rotary Org;87;66;55;6:E.Organ
+PR-B;0312;Rotary Org 1;87;66;56;6:E.Organ
+PR-B;0313;Rotary Org 2;87;66;57;6:E.Organ
+PR-B;0314;Rotary Org 3;87;66;58;6:E.Organ
+PR-B;0315;Old Fashion;87;66;59;6:E.Organ
+PR-B;0316;Vintage Organ 1;87;66;60;6:E.Organ
+PR-B;0317;Vintage Organ 2;87;66;61;6:E.Organ
+PR-B;0318;VK Organ 1;87;66;62;6:E.Organ
+PR-B;0319;VK Organ 2;87;66;63;6:E.Organ
+PR-B;0320;D-Bars 1;87;66;64;6:E.Organ
+PR-B;0321;D-Bars 2;87;66;65;6:E.Organ
+PR-B;0322;D-Bars 3;87;66;66;6:E.Organ
+PR-B;0323;D-Bars 4;87;66;67;6:E.Organ
+PR-B;0324;D-Bars 5;87;66;68;6:E.Organ
+PR-B;0325;Dist Organ;87;66;69;6:E.Organ
+PR-B;0326;Juno P14 Organ;87;66;70;6:E.Organ
+PR-B;0327;D-50 Organ;87;66;71;6:E.Organ
+PR-B;0328;PositiveOrg /Mod;87;66;72;7:Pipe Organ
+PR-B;0329;Grand Pipes;87;66;73;7:Pipe Organ
+PR-B;0330;AX Musette;87;66;74;12:Accordion
+PR-B;0331;AX Harmonica;87;66;75;13:Harmonica
+PR-B;0332;Pop Flute;87;66;76;29:Flute
+PR-B;0333;Pan Pipes;87;66;77;29:Flute
+PR-B;0334;Pan Pipes Breath;87;66;78;29:Flute
+PR-B;0335;Bag Shaku Lead;87;66;79;29:Flute
+PR-B;0336;AX Shakuhachi;87;66;80;29:Flute
+PR-B;0337;AX Recorder;87;66;81;31:Recorder
+PR-B;0338;AX Vibraphone;87;66;82;15:Mallet
+PR-B;0339;AX Marimba;87;66;83;15:Mallet
+PR-B;0340;AX Xylophone;87;66;84;15:Mallet
+PR-B;0341;AX Steel Drums;87;66;85;15:Mallet
+PR-B;0342;AX Ethno Keys;87;66;86;15:Mallet
+PR-B;0343;AX Nylon Gtr 1;87;66;87;16:Ac.Guitar
+PR-B;0344;AX Nylon Gtr 2;87;66;88;16:Ac.Guitar
+PR-B;0345;AX Nylon Gtr 3;87;66;89;16:Ac.Guitar
+PR-B;0346;Folk Gtr 1;87;66;90;16:Ac.Guitar
+PR-B;0347;Folk Gtr 2;87;66;91;16:Ac.Guitar
+PR-B;0348;Folk Gtr 3;87;66;92;16:Ac.Guitar
+PR-B;0349;Steel Gtr Wide;87;66;93;16:Ac.Guitar
+PR-B;0350;12-str Guitar;87;66;94;16:Ac.Guitar
+PR-B;0351;Jazz Gtr;87;66;95;17:E.Guitar
+PR-B;0352;AX Clean Guitar;87;66;96;17:E.Guitar
+PR-B;0353;Pick Guitar;87;66;97;17:E.Guitar
+PR-B;0354;ST Guitar;87;66;98;17:E.Guitar
+PR-B;0355;Funk Gtr;87;66;99;17:E.Guitar
+PR-B;0356;Wah E.Gtr /Mod;87;66;100;17:E.Guitar
+PR-B;0357;Dist Gtr 1;87;66;101;18:Dist.Guitar
+PR-B;0358;Searing Gtr 1;87;66;102;18:Dist.Guitar
+PR-B;0359;Searing Gtr 2;87;66;103;18:Dist.Guitar
+PR-B;0360;Searing Gtr 3;87;66;104;18:Dist.Guitar
+PR-B;0361;Dist Fingerz;87;66;105;18:Dist.Guitar
+PR-B;0362;Dist Gtr 2;87;66;106;18:Dist.Guitar
+PR-B;0363;Digi Dist Gtr;87;66;107;18:Dist.Guitar
+PR-B;0364;Fuzz Lead;87;66;108;18:Dist.Guitar
+PR-B;0365;Oct Searing Gtr;87;66;109;18:Dist.Guitar
+PR-B;0366;MS1959 II;87;66;110;18:Dist.Guitar
+PR-B;0367;MS1959 I;87;66;111;18:Dist.Guitar
+PR-B;0368;Metal Lead;87;66;112;18:Dist.Guitar
+PR-B;0369;COSM Searing 1;87;66;113;18:Dist.Guitar
+PR-B;0370;COSM Searing 2;87;66;114;18:Dist.Guitar
+PR-B;0371;OD-2 Turbo;87;66;115;18:Dist.Guitar
+PR-B;0372;Guitar Rip;87;66;116;18:Dist.Guitar
+PR-B;0373;Santur Stack;87;66;117;22:Plucked/Stroke
+PR-B;0374;AX Koto;87;66;118;22:Plucked/Stroke
+PR-B;0375;AX Shamisen;87;66;119;22:Plucked/Stroke
+PR-B;0376;AX Sitar;87;66;120;22:Plucked/Stroke
+PR-B;0377;AX Harp;87;66;121;22:Plucked/Stroke
+PR-B;0378;AX Aerial Harp;87;66;122;22:Plucked/Stroke
+PR-B;0379;Lost Paradise;87;66;123;22:Plucked/Stroke
+PR-B;0380;AX Kalimba;87;66;124;22:Plucked/Stroke
+PR-B;0381;World X;87;66;125;42:Pulsating
+PR-B;0382;Xadecimal;87;66;126;42:Pulsating
+PR-B;0383;Metal Sync;87;66;127;42:Pulsating
+PR-B;0384;5th Stack;87;66;128;42:Pulsating
+PR-B;0385;HPF Tap;87;67;1;42:Pulsating
+PR-B;0386;Auto Pluck;87;67;2;42:Pulsating
+PR-B;0387;Step Beat;87;67;3;42:Pulsating
+PR-B;0388;Side Chain Bass;87;67;4;42:Pulsating
+PR-B;0389;Side Chain Pad;87;67;5;42:Pulsating
+PR-B;0390;Step Slicer 1;87;67;6;42:Pulsating
+PR-B;0391;Step Slicer 2;87;67;7;42:Pulsating
+PR-B;0392;Step Slicer 3;87;67;8;42:Pulsating
+PR-B;0393;Step Slicer 4;87;67;9;42:Pulsating
+PR-B;0394;Step Slicer 5;87;67;10;42:Pulsating
+PR-B;0395;Step Slicer 6;87;67;11;42:Pulsating
+PR-B;0396;Step Slicer 7;87;67;12;42:Pulsating
+PR-B;0397;Step Slicer 8;87;67;13;42:Pulsating
+PR-B;0398;Step Slicer 9;87;67;14;42:Pulsating
+PR-B;0399;Wobble;87;67;15;42:Pulsating
+PR-B;0400;Transition 1;87;67;16;42:Pulsating
+PR-B;0401;Transition 2;87;67;17;42:Pulsating
+PR-B;0402;Oct Play;87;67;18;42:Pulsating
+PR-B;0403;Bass Seq;87;67;19;42:Pulsating
+PR-B;0404;Dist Cutter;87;67;20;42:Pulsating
+PR-B;0405;Rhythm 1;87;67;21;42:Pulsating
+PR-B;0406;Rhythm 2;87;67;22;42:Pulsating
+PR-B;0407;TB Loop;87;67;23;42:Pulsating
+PR-B;0408;Step Refrain;87;67;24;42:Pulsating
+PR-B;0409;Pop up;87;67;25;39:Synth FX
+PR-B;0410;HPF Down;87;67;26;39:Synth FX
+PR-B;0411;Riser;87;67;27;39:Synth FX
+PR-B;0412;Accelerate;87;67;28;39:Synth FX
+PR-B;0413;Nz Sweep Dn;87;67;29;39:Synth FX
+PR-B;0414;Nz Sweep Up;87;67;30;39:Synth FX
+PR-B;0415;Chiptuner;87;67;31;39:Synth FX
+PR-B;0416;Bit Walker;87;67;32;39:Synth FX
+PR-B;0417;Ring Mod 1;87;67;33;39:Synth FX
+PR-B;0418;Ring Mod 2;87;67;34;39:Synth FX
+PR-B;0419;Ring /Mod;87;67;35;39:Synth FX
+PR-B;0420;X-Mod Driver;87;67;36;39:Synth FX
+PR-B;0421;Kick/Snare;87;67;37;39:Synth FX
+PR-B;0422;AX Orchestra Hit;87;67;38;44:Hit
+PR-B;0423;AX Bass Hit;87;67;39;44:Hit
+PR-B;0424;AX 6th Hit;87;67;40;44:Hit
+PR-B;0425;AX Tao Hit;87;67;41;44:Hit
+PR-B;0426;Min7 Hit;87;67;42;44:Hit
+PR-B;0427;AX Major 7;87;67;43;44:Hit
+PR-B;0428;AX Choir 1;87;67;44;32:Vox/Choir
+PR-B;0429;AX Choir 2;87;67;45;32:Vox/Choir
+PR-B;0430;Angels Choir;87;67;46;32:Vox/Choir
+PR-B;0431;Vox Pad 1;87;67;47;32:Vox/Choir
+PR-B;0432;U-Ahs /Mod;87;67;48;32:Vox/Choir
+PR-B;0433;Vox Pad 2;87;67;49;32:Vox/Choir
+PR-B;0434;Oh-Aah /Mod;87;67;50;32:Vox/Choir
+PR-B;0435;AX Aerial Choir;87;67;51;32:Vox/Choir
+PR-B;0436;AX Jazz Scat;87;67;52;33:Scat
+PR-B;0437;Jazz Doos;87;67;53;33:Scat
+PR-B;0438;Bop Voice;87;67;54;33:Scat
+PR-B;0439;Pop Voice;87;67;55;33:Scat
+PR-B;0440;AX Synth Voice;87;67;56;32:Vox/Choir
+PR-B;0441;VP-330 Choir;87;67;57;32:Vox/Choir
+PR-B;0442;Syn Vox 1;87;67;58;32:Vox/Choir
+PR-B;0443;Syn Vox 2;87;67;59;32:Vox/Choir
+PR-B;0444;Org Vox;87;67;60;32:Vox/Choir
+PR-B;0445;Oohs Chord;87;67;61;32:Vox/Choir
+PR-B;0446;Vox Noise;87;67;62;32:Vox/Choir
+PR-B;0447;Sample Opera;87;67;63;32:Vox/Choir
+PR-B;0448;A E I O /Mod;87;67;64;32:Vox/Choir
+PR-B;0449;U-A /Mod;87;67;65;32:Vox/Choir
+PR-B;0450;Analog Vowel;87;67;66;32:Vox/Choir
+PR-B;0451;AX Analog Voice;87;67;67;32:Vox/Choir
+PR-B;0452;Voc.Ensemble;87;67;68;32:Vox/Choir
+PR-B;0453;Voc.Sub Choir 1;87;67;69;32:Vox/Choir
+PR-B;0454;Voc.Robot;87;67;70;32:Vox/Choir
+PR-B;0455;Voc.5th Stack;87;67;71;32:Vox/Choir
+PR-B;0456;Voc.VP-330;87;67;72;32:Vox/Choir
+PR-B;0457;Voc.Sub Choir 2;87;67;73;32:Vox/Choir
+PR-B;0458;Voc.Saw;87;67;74;32:Vox/Choir
+PR-B;0459;Voc.Noise;87;67;75;32:Vox/Choir
+PR-C;0001;SL-JP8 1;87;68;1;38:Synth PolyKey
+PR-C;0002;SL-JP8 2;87;68;2;38:Synth PolyKey
+PR-C;0003;SL-JP8 3;87;68;3;34:Synth Lead
+PR-C;0004;SL-JP8 4;87;68;4;34:Synth Lead
+PR-C;0005;SL-JP8 5;87;68;5;36:Synth Pad/Str
+PR-C;0006;SL-JP8 6;87;68;6;21:Synth Bass
+PR-C;0007;SL-JP8 7;87;68;7;21:Synth Bass
+PR-C;0008;SL-JP8 8;87;68;8;36:Synth Pad/Str
+PR-C;0009;SL-JP8 9;87;68;9;21:Synth Bass
+PR-C;0010;Sl-JP8 10;87;68;10;38:Synth PolyKey
+PR-C;0011;SL-JP8 11;87;68;11;38:Synth PolyKey
+PR-C;0012;SL-JP8 12;87;68;12;36:Synth Pad/Str
+PR-C;0013;SL-JP8 13;87;68;13;35:Synth Brass
+PR-C;0014;SL-JP8 14;87;68;14;35:Synth Brass
+PR-C;0015;SL-JP8 15;87;68;15;35:Synth Brass
+PR-C;0016;SL-JP8 16;87;68;16;36:Synth Pad/Str
+PR-C;0017;SL-JP8 17;87;68;17;38:Synth PolyKey
+PR-C;0018;SL-JP Bass1;87;68;18;21:Synth Bass
+PR-C;0019;SL-JP Bass2;87;68;19;21:Synth Bass
+PR-C;0020;SL-JP Bass3;87;68;20;21:Synth Bass
+PR-C;0021;SL-JP Bass4;87;68;21;21:Synth Bass
+PR-C;0022;SL-JP Bass5;87;68;22;21:Synth Bass
+PR-C;0023;SL-JP PWM;87;68;23;36:Synth Pad/Str
+PR-C;0024;SL-JP6 1;87;68;24;38:Synth PolyKey
+PR-C;0025;SL-JP6 2;87;68;25;36:Synth Pad/Str
+PR-C;0026;SL-JP6 3;87;68;26;35:Synth Brass
+PR-C;0027;SL-JP6 4;87;68;27;34:Synth Lead
+PR-C;0028;SL-JP6 5;87;68;28;34:Synth Lead
+PR-C;0029;SL-JP6 6;87;68;29;34:Synth Lead
+PR-C;0030;SL-JP6 7;87;68;30;36:Synth Pad/Str
+PR-C;0031;SL-JP6 8;87;68;31;36:Synth Pad/Str
+PR-C;0032;SL-JP6 9;87;68;32;36:Synth Pad/Str
+PR-C;0033;SL-JP6 10;87;68;33;38:Synth PolyKey
+PR-C;0034;SL-JP6 11;87;68;34;38:Synth PolyKey
+PR-C;0035;SL-JP6 12;87;68;35;36:Synth Pad/Str
+PR-C;0036;SL-JP6 13;87;68;36;38:Synth PolyKey
+PR-C;0037;SL-JP6 14;87;68;37;34:Synth Lead
+PR-C;0038;SL-JP6 15;87;68;38;34:Synth Lead
+PR-C;0039;SL-JP6 16;87;68;39;38:Synth PolyKey
+PR-C;0040;SL-JP6 17;87;68;40;38:Synth PolyKey
+PR-C;0041;SL-JP6 18;87;68;41;34:Synth Lead
+PR-C;0042;SL-Jn106 1;87;68;42;38:Synth PolyKey
+PR-C;0043;SL-Jn106 2;87;68;43;36:Synth Pad/Str
+PR-C;0044;SL-Jn106 3;87;68;44;36:Synth Pad/Str
+PR-C;0045;SL-Jn106 4;87;68;45;36:Synth Pad/Str
+PR-C;0046;SL-Jn106 5;87;68;46;36:Synth Pad/Str
+PR-C;0047;SL-Jn106 6;87;68;47;21:Synth Bass
+PR-C;0048;SL-Jn106 7;87;68;48;21:Synth Bass
+PR-C;0049;SL-Jn106 8;87;68;49;21:Synth Bass
+PR-C;0050;SL-Jn106 9;87;68;50;36:Synth Pad/Str
+PR-C;0051;SL-Jn106 10;87;68;51;35:Synth Brass
+PR-C;0052;SL-Jn106 11;87;68;52;34:Synth Lead
+PR-C;0053;SL-Jn60 1;87;68;53;36:Synth Pad/Str
+PR-C;0054;SL-Jn60 2;87;68;54;35:Synth Brass
+PR-C;0055;SL-Jn60 3;87;68;55;36:Synth Pad/Str
+PR-C;0056;SL-Jn60 4;87;68;56;4:E.Piano1
+PR-C;0057;SL-Jn60 5;87;68;57;4:E.Piano1
+PR-C;0058;SL-Jn60 6;87;68;58;21:Synth Bass
+PR-C;0059;SL-Jn60 7;87;68;59;36:Synth Pad/Str
+PR-C;0060;SL-Jn60 8;87;68;60;21:Synth Bass
+PR-C;0061;SL-Jn60 9;87;68;61;38:Synth PolyKey
+PR-C;0062;SL-Jn60 10;87;68;62;38:Synth PolyKey
+PR-C;0063;SL-Jn60 11;87;68;63;21:Synth Bass
+PR-C;0064;SL-Jn60sub1;87;68;64;21:Synth Bass
+PR-C;0065;SL-Jn60sub2;87;68;65;21:Synth Bass
+PR-C;0066;SL-Jn60sub3;87;68;66;21:Synth Bass
+PR-C;0067;SL-Jn60sub4;87;68;67;21:Synth Bass
+PR-C;0068;SL-Jn60sub5;87;68;68;21:Synth Bass
+PR-C;0069;SL-Jn60sub6;87;68;69;21:Synth Bass
+PR-C;0070;SL-Jn60sub7;87;68;70;21:Synth Bass
+PR-C;0071;SL-Jn60 Bs1;87;68;71;21:Synth Bass
+PR-C;0072;SL-Jn60 Bs2;87;68;72;21:Synth Bass
+PR-C;0073;SL-Jn60 Bs3;87;68;73;21:Synth Bass
+PR-C;0074;SL-Jn60 Ply;87;68;74;38:Synth PolyKey
+PR-C;0075;SL-Jn60 SBr;87;68;75;35:Synth Brass
+PR-C;0076;SL-Jn60Bell1;87;68;76;4:E.Piano1
+PR-C;0077;SL-Jn60Bell2;87;68;77;4:E.Piano1
+PR-C;0078;SL-Jn60Syn1;87;68;78;38:Synth PolyKey
+PR-C;0079;SL-Jn60Syn2;87;68;79;38:Synth PolyKey
+PR-C;0080;SL-Jn60Syn3;87;68;80;38:Synth PolyKey
+PR-C;0081;SL-Jn60Syn4;87;68;81;38:Synth PolyKey
+PR-C;0082;SL-Jn60Syn5;87;68;82;38:Synth PolyKey
+PR-C;0083;SL-TB Saw 1;87;68;83;21:Synth Bass
+PR-C;0084;SL-TB Saw1A;87;68;84;21:Synth Bass
+PR-C;0085;SL-TB Saw 2;87;68;85;21:Synth Bass
+PR-C;0086;SL-TB Saw2A;87;68;86;21:Synth Bass
+PR-C;0087;SL-TB Saw 3;87;68;87;21:Synth Bass
+PR-C;0088;SL-TB Saw3A;87;68;88;21:Synth Bass
+PR-C;0089;SL-TB Saw 4;87;68;89;21:Synth Bass
+PR-C;0090;SL-TB Saw4A;87;68;90;21:Synth Bass
+PR-C;0091;SL-TB Saw 5;87;68;91;21:Synth Bass
+PR-C;0092;SL-TB Saw5A;87;68;92;21:Synth Bass
+PR-C;0093;SL-TB Saw 6;87;68;93;21:Synth Bass
+PR-C;0094;SL-TB Saw6A;87;68;94;21:Synth Bass
+PR-C;0095;SL-TB Sqr 1;87;68;95;21:Synth Bass
+PR-C;0096;SL-TB Sqr1A;87;68;96;21:Synth Bass
+PR-C;0097;SL-TB Sqr 2;87;68;97;21:Synth Bass
+PR-C;0098;SL-TB Sqr2A;87;68;98;21:Synth Bass
+PR-C;0099;SL-TB Sqr 3;87;68;99;21:Synth Bass
+PR-C;0100;SL-TB Sqr3A;87;68;100;21:Synth Bass
+PR-C;0101;SL-TB Sqr 4;87;68;101;21:Synth Bass
+PR-C;0102;SL-TB Sqr4A;87;68;102;21:Synth Bass
+PR-C;0103;SL-TB Sqr 5;87;68;103;21:Synth Bass
+PR-C;0104;SL-TB Sqr5A;87;68;104;21:Synth Bass
+PR-C;0105;SL-TB Sqr 6;87;68;105;21:Synth Bass
+PR-C;0106;SL-TB Sqr6A;87;68;106;21:Synth Bass
+PR-C;0107;SL-SH101 1;87;68;107;34:Synth Lead
+PR-C;0108;SL-SH101 2;87;68;108;34:Synth Lead
+PR-C;0109;SL-SH101 3;87;68;109;34:Synth Lead
+PR-C;0110;SL-SH101 4;87;68;110;21:Synth Bass
+PR-C;0111;SL-SH101 5;87;68;111;34:Synth Lead
+PR-C;0112;SL-SH101 6;87;68;112;21:Synth Bass
+PR-C;0113;SL-SH101 7;87;68;113;21:Synth Bass
+PR-C;0114;SL-SH101 8;87;68;114;34:Synth Lead
+PR-C;0115;SL-SH101 9;87;68;115;21:Synth Bass
+PR-C;0116;SL-SH101 10;87;68;116;21:Synth Bass
+PR-C;0117;SL-SH101 11;87;68;117;34:Synth Lead
+PR-C;0118;SL-SH101 12;87;68;118;21:Synth Bass
+PR-C;0119;SL-D50 1;87;68;119;37:Synth Bellpad
+PR-C;0120;SL-D50 2;87;68;120;37:Synth Bellpad
+PR-C;0121;SL-D50 3;87;68;121;37:Synth Bellpad
+PR-C;0122;SL-D50 4;87;68;122;36:Synth Pad/Str
+PR-C;0123;SL-D50 5;87;68;123;37:Synth Bellpad
+PR-C;0124;SL-D50 6;87;68;124;38:Synth PolyKey
+PR-C;0125;SL-D50 7;87;68;125;38:Synth PolyKey
+PR-C;0126;SL-D50 8;87;68;126;37:Synth Bellpad
+PR-C;0127;SL-D50 9;87;68;127;38:Synth PolyKey
+PR-C;0128;SL-D50 10;87;68;128;36:Synth Pad/Str
+PR-D;0001;JP8 Strings1;87;69;1;36:Synth Pad/Str
+PR-D;0002;JP8 Strings2;87;69;2;36:Synth Pad/Str
+PR-D;0003;JP8 Strings3;87;69;3;36:Synth Pad/Str
+PR-D;0004;JP8 Strings4;87;69;4;36:Synth Pad/Str
+PR-D;0005;JP8 Strings5;87;69;5;36:Synth Pad/Str
+PR-D;0006;JP8 Strings6;87;69;6;36:Synth Pad/Str
+PR-D;0007;JP8 Strings7;87;69;7;36:Synth Pad/Str
+PR-D;0008;JP8 Strings8;87;69;8;36:Synth Pad/Str
+PR-D;0009;JP8 Strings9;87;69;9;36:Synth Pad/Str
+PR-D;0010;JP8Strings10;87;69;10;36:Synth Pad/Str
+PR-D;0011;JP8Strings11;87;69;11;36:Synth Pad/Str
+PR-D;0012;JP8Strings12;87;69;12;36:Synth Pad/Str
+PR-D;0013;JP8Strings13;87;69;13;36:Synth Pad/Str
+PR-D;0014;JP8Strings14;87;69;14;36:Synth Pad/Str
+PR-D;0015;JP8Strings15;87;69;15;36:Synth Pad/Str
+PR-D;0016;JP8Strings16;87;69;16;36:Synth Pad/Str
+PR-D;0017;JP-8 Pad 1;87;69;17;36:Synth Pad/Str
+PR-D;0018;JP-8 Pad 2;87;69;18;36:Synth Pad/Str
+PR-D;0019;JP-8 Pad 3;87;69;19;36:Synth Pad/Str
+PR-D;0020;JP-8 Pad 4;87;69;20;36:Synth Pad/Str
+PR-D;0021;JUNO Str 1;87;69;21;36:Synth Pad/Str
+PR-D;0022;JUNO Str 2;87;69;22;36:Synth Pad/Str
+PR-D;0023;JUNO Str 3;87;69;23;36:Synth Pad/Str
+PR-D;0024;JX Strings;87;69;24;36:Synth Pad/Str
+PR-D;0025;OB Strings 1;87;69;25;36:Synth Pad/Str
+PR-D;0026;OB Strings 2;87;69;26;36:Synth Pad/Str
+PR-D;0027;OB Strings 3;87;69;27;36:Synth Pad/Str
+PR-D;0028;OB Strings 4;87;69;28;36:Synth Pad/Str
+PR-D;0029;OB Strings 5;87;69;29;36:Synth Pad/Str
+PR-D;0030;OB Strings 6;87;69;30;36:Synth Pad/Str
+PR-D;0031;Vintage 1;87;69;31;36:Synth Pad/Str
+PR-D;0032;Vintage 2;87;69;32;36:Synth Pad/Str
+PR-D;0033;Vintage 3;87;69;33;36:Synth Pad/Str
+PR-D;0034;Vintage 4;87;69;34;36:Synth Pad/Str
+PR-D;0035;Vintage 5;87;69;35;36:Synth Pad/Str
+PR-D;0036;Vintage 6;87;69;36;36:Synth Pad/Str
+PR-D;0037;Vintage 7;87;69;37;36:Synth Pad/Str
+PR-D;0038;Vintage 8;87;69;38;36:Synth Pad/Str
+PR-D;0039;Vintage 9;87;69;39;36:Synth Pad/Str
+PR-D;0040;Vintage 10;87;69;40;36:Synth Pad/Str
+PR-D;0041;Vintage 11;87;69;41;36:Synth Pad/Str
+PR-D;0042;Soft Pad 1;87;69;42;36:Synth Pad/Str
+PR-D;0043;Soft Pad 2;87;69;43;36:Synth Pad/Str
+PR-D;0044;Soft Pad 3;87;69;44;36:Synth Pad/Str
+PR-D;0045;Soft Pad 4;87;69;45;36:Synth Pad/Str
+PR-D;0046;Soft Pad 5;87;69;46;36:Synth Pad/Str
+PR-D;0047;Soft Pad 6;87;69;47;36:Synth Pad/Str
+PR-D;0048;Soft Pad 7;87;69;48;36:Synth Pad/Str
+PR-D;0049;Soft Pad 8;87;69;49;36:Synth Pad/Str
+PR-D;0050;Soft Pad 9;87;69;50;36:Synth Pad/Str
+PR-D;0051;Soft Pad 10;87;69;51;36:Synth Pad/Str
+PR-D;0052;Soft Pad 11;87;69;52;36:Synth Pad/Str
+PR-D;0053;Soft Pad 12;87;69;53;36:Synth Pad/Str
+PR-D;0054;Soft Pad 13;87;69;54;36:Synth Pad/Str
+PR-D;0055;Soft Pad 14;87;69;55;36:Synth Pad/Str
+PR-D;0056;Soft Pad 15;87;69;56;36:Synth Pad/Str
+PR-D;0057;Soft Pad 16;87;69;57;36:Synth Pad/Str
+PR-D;0058;Soft Pad 17;87;69;58;36:Synth Pad/Str
+PR-D;0059;Oct Str 1;87;69;59;36:Synth Pad/Str
+PR-D;0060;Oct Str 2;87;69;60;36:Synth Pad/Str
+PR-D;0061;Oct Str 3;87;69;61;36:Synth Pad/Str
+PR-D;0062;Oct Str 4;87;69;62;36:Synth Pad/Str
+PR-D;0063;Oct Str 5;87;69;63;36:Synth Pad/Str
+PR-D;0064;Oct Str 6;87;69;64;36:Synth Pad/Str
+PR-D;0065;Oct Str 7;87;69;65;36:Synth Pad/Str
+PR-D;0066;Cloud Pad;87;69;66;36:Synth Pad/Str
+PR-D;0067;Slow Pad 1;87;69;67;36:Synth Pad/Str
+PR-D;0068;Slow Pad 2;87;69;68;36:Synth Pad/Str
+PR-D;0069;Brite Str 1;87;69;69;36:Synth Pad/Str
+PR-D;0070;Brite Str 2;87;69;70;36:Synth Pad/Str
+PR-D;0071;Brite Str 3;87;69;71;36:Synth Pad/Str
+PR-D;0072;Brite Str 4;87;69;72;36:Synth Pad/Str
+PR-D;0073;Boreal Pad;87;69;73;36:Synth Pad/Str
+PR-D;0074;Flange Str;87;69;74;36:Synth Pad/Str
+PR-D;0075;Organ Pad 1;87;69;75;36:Synth Pad/Str
+PR-D;0076;Organ Pad 2;87;69;76;36:Synth Pad/Str
+PR-D;0077;Organ Pad 3;87;69;77;36:Synth Pad/Str
+PR-D;0078;Organ Pad 4;87;69;78;36:Synth Pad/Str
+PR-D;0079;Digi Str 1;87;69;79;36:Synth Pad/Str
+PR-D;0080;Digi Str 2;87;69;80;36:Synth Pad/Str
+PR-D;0081;Digi Pad 1;87;69;81;36:Synth Pad/Str
+PR-D;0082;Digi Pad 2;87;69;82;36:Synth Pad/Str
+PR-D;0083;Digi Pad 3;87;69;83;36:Synth Pad/Str
+PR-D;0084;Digi Pad 4;87;69;84;36:Synth Pad/Str
+PR-D;0085;Heaven Pad 1;87;69;85;36:Synth Pad/Str
+PR-D;0086;Heaven Pad 2;87;69;86;36:Synth Pad/Str
+PR-D;0087;Heaven Pad 3;87;69;87;36:Synth Pad/Str
+PR-D;0088;Heaven Pad 4;87;69;88;36:Synth Pad/Str
+PR-D;0089;Voice Heaven;87;69;89;36:Synth Pad/Str
+PR-D;0090;ChordOfCnada;87;69;90;36:Synth Pad/Str
+PR-D;0091;Awakening;87;69;91;36:Synth Pad/Str
+PR-D;0092;JP8 Hollow 1;87;69;92;36:Synth Pad/Str
+PR-D;0093;JP8 Hollow 2;87;69;93;36:Synth Pad/Str
+PR-D;0094;JP8 Hollow 3;87;69;94;36:Synth Pad/Str
+PR-D;0095;Hollow Pad 1;87;69;95;36:Synth Pad/Str
+PR-D;0096;Hollow Pad 2;87;69;96;36:Synth Pad/Str
+PR-D;0097;Simple Air;87;69;97;36:Synth Pad/Str
+PR-D;0098;Air Pad;87;69;98;36:Synth Pad/Str
+PR-D;0099;Glass Pad;87;69;99;36:Synth Pad/Str
+PR-D;0100;Flute Pad;87;69;100;36:Synth Pad/Str
+PR-D;0101;Seek Flute;87;69;101;36:Synth Pad/Str
+PR-D;0102;Syn Pad 1;87;69;102;36:Synth Pad/Str
+PR-D;0103;Syn Pad 2;87;69;103;36:Synth Pad/Str
+PR-D;0104;Syn Pad 3;87;69;104;36:Synth Pad/Str
+PR-D;0105;Syn Pad 4;87;69;105;36:Synth Pad/Str
+PR-D;0106;Syn Pad 5;87;69;106;36:Synth Pad/Str
+PR-D;0107;Syn Pad 6;87;69;107;36:Synth Pad/Str
+PR-D;0108;Syn Pad 7;87;69;108;36:Synth Pad/Str
+PR-D;0109;Syn Pad 8;87;69;109;36:Synth Pad/Str
+PR-D;0110;Syn Pad 9;87;69;110;36:Synth Pad/Str
+PR-D;0111;Syn Pad 10;87;69;111;36:Synth Pad/Str
+PR-D;0112;Syn Pad 11;87;69;112;36:Synth Pad/Str
+PR-D;0113;Syn Pad 12;87;69;113;36:Synth Pad/Str
+PR-D;0114;Syn Pad 13;87;69;114;36:Synth Pad/Str
+PR-D;0115;Syn Pad 14;87;69;115;36:Synth Pad/Str
+PR-D;0116;Syn Pad 15;87;69;116;36:Synth Pad/Str
+PR-D;0117;Syn Pad 16;87;69;117;36:Synth Pad/Str
+PR-D;0118;Syn Pad 17;87;69;118;36:Synth Pad/Str
+PR-D;0119;Syn Pad 18;87;69;119;36:Synth Pad/Str
+PR-D;0120;Syn Pad 19;87;69;120;36:Synth Pad/Str
+PR-D;0121;Syn Pad 20;87;69;121;36:Synth Pad/Str
+PR-D;0122;Syn Pad 21;87;69;122;36:Synth Pad/Str
+PR-D;0123;Syn Pad 22;87;69;123;36:Synth Pad/Str
+PR-D;0124;Syn Pad 23;87;69;124;36:Synth Pad/Str
+PR-D;0125;Hybrid Str 1;87;69;125;36:Synth Pad/Str
+PR-D;0126;Hybrid Str 2;87;69;126;36:Synth Pad/Str
+PR-D;0127;Hybrid Str 3;87;69;127;36:Synth Pad/Str
+PR-D;0128;LFO Pad 1;87;69;128;36:Synth Pad/Str
+PR-D;0129;LFO Pad 2;87;70;1;36:Synth Pad/Str
+PR-D;0130;RETROX 139;87;70;2;36:Synth Pad/Str
+PR-D;0131;I Sync So;87;70;3;36:Synth Pad/Str
+PR-D;0132;Sea Waves;87;70;4;36:Synth Pad/Str
+PR-D;0133;FireFlies;87;70;5;36:Synth Pad/Str
+PR-D;0134;Particles;87;70;6;36:Synth Pad/Str
+PR-D;0135;Phr Str 1;87;70;7;36:Synth Pad/Str
+PR-D;0136;Phr Str 2;87;70;8;36:Synth Pad/Str
+PR-D;0137;Phr Str 3;87;70;9;36:Synth Pad/Str
+PR-D;0138;Phr Str 4;87;70;10;36:Synth Pad/Str
+PR-D;0139;Phr Str 5;87;70;11;36:Synth Pad/Str
+PR-D;0140;Phr Str 6;87;70;12;36:Synth Pad/Str
+PR-D;0141;Phr Str 7;87;70;13;36:Synth Pad/Str
+PR-D;0142;Phr Str 8;87;70;14;36:Synth Pad/Str
+PR-D;0143;Phr Str 9;87;70;15;36:Synth Pad/Str
+PR-D;0144;Phr Str 10;87;70;16;36:Synth Pad/Str
+PR-D;0145;Phr Str 11;87;70;17;36:Synth Pad/Str
+PR-D;0146;Stone Pad;87;70;18;36:Synth Pad/Str
+PR-D;0147;JP8 Stone 1;87;70;19;36:Synth Pad/Str
+PR-D;0148;JP8 Stone 2;87;70;20;36:Synth Pad/Str
+PR-D;0149;Sweep Pad 1;87;70;21;36:Synth Pad/Str
+PR-D;0150;Sweep Pad 2;87;70;22;36:Synth Pad/Str
+PR-D;0151;Sweep Pad 3;87;70;23;36:Synth Pad/Str
+PR-D;0152;Sweep Pad 4;87;70;24;36:Synth Pad/Str
+PR-D;0153;Sweep Pad 5;87;70;25;36:Synth Pad/Str
+PR-D;0154;Sweep Pad 6;87;70;26;36:Synth Pad/Str
+PR-D;0155;Sweep Pad 7;87;70;27;36:Synth Pad/Str
+PR-D;0156;Sweep Pad 8;87;70;28;36:Synth Pad/Str
+PR-D;0157;Sweep Pad 9;87;70;29;36:Synth Pad/Str
+PR-D;0158;Sweep Pad 10;87;70;30;36:Synth Pad/Str
+PR-D;0159;Sweep Pad 11;87;70;31;36:Synth Pad/Str
+PR-D;0160;Sweep Pad 12;87;70;32;36:Synth Pad/Str
+PR-D;0161;Sweep Pad 13;87;70;33;36:Synth Pad/Str
+PR-D;0162;Sweep Pad 14;87;70;34;36:Synth Pad/Str
+PR-D;0163;Sweep Pad 15;87;70;35;36:Synth Pad/Str
+PR-D;0164;Sweep Pad 16;87;70;36;36:Synth Pad/Str
+PR-D;0165;Sweep Pad 17;87;70;37;36:Synth Pad/Str
+PR-D;0166;Chronic Pad;87;70;38;36:Synth Pad/Str
+PR-D;0167;Sweep JD;87;70;39;36:Synth Pad/Str
+PR-D;0168;SweepNz Pad;87;70;40;36:Synth Pad/Str
+PR-D;0169;HPF Pad;87;70;41;36:Synth Pad/Str
+PR-D;0170;Iso Pad;87;70;42;36:Synth Pad/Str
+PR-D;0171;Reverie Pad;87;70;43;36:Synth Pad/Str
+PR-D;0172;PWM Pad 1;87;70;44;36:Synth Pad/Str
+PR-D;0173;PWM Pad 2;87;70;45;36:Synth Pad/Str
+PR-D;0174;Stack Pad;87;70;46;36:Synth Pad/Str
+PR-D;0175;Fanta Synth;87;70;47;36:Synth Pad/Str
+PR-D;0176;Deepity;87;70;48;36:Synth Pad/Str
+PR-D;0177;Fair Pad;87;70;49;36:Synth Pad/Str
+PR-D;0178;Revalation;87;70;50;36:Synth Pad/Str
+PR-D;0179;Trance Pad;87;70;51;36:Synth Pad/Str
+PR-D;0180;Alan*s Pad;87;70;52;36:Synth Pad/Str
+PR-D;0181;Dreamwarp;87;70;53;36:Synth Pad/Str
+PR-D;0182;Emote String;87;70;54;36:Synth Pad/Str
+PR-D;0183;PortamentPad;87;70;55;36:Synth Pad/Str
+PR-D;0184;Cincosoft;87;70;56;36:Synth Pad/Str
+PR-D;0185;5th Pad 1;87;70;57;36:Synth Pad/Str
+PR-D;0186;5th Pad 2;87;70;58;36:Synth Pad/Str
+PR-D;0187;5th Pad 3;87;70;59;36:Synth Pad/Str
+PR-D;0188;Metal Pad;87;70;60;36:Synth Pad/Str
+PR-D;0189;Legend Pad;87;70;61;36:Synth Pad/Str
+PR-D;0190;GlassFx Pad;87;70;62;36:Synth Pad/Str
+PR-D;0191;Glass Forest;87;70;63;36:Synth Pad/Str
+PR-D;0192;Jungle-Pool;87;70;64;36:Synth Pad/Str
+PR-D;0193;Xadecimal;87;70;65;36:Synth Pad/Str
+PR-D;0194;HPF Strings;87;70;66;36:Synth Pad/Str
+PR-D;0195;Gate Game;87;70;67;36:Synth Pad/Str
+PR-D;0196;Horror Pad;87;70;68;36:Synth Pad/Str
+PR-D;0197;PLS Pad 1;87;70;69;42:Pulsating
+PR-D;0198;PLS Pad 2;87;70;70;42:Pulsating
+PR-D;0199;PLS Pad 3;87;70;71;42:Pulsating
+PR-D;0200;PLS Pad 4;87;70;72;42:Pulsating
+PR-D;0201;PLS Pad 5;87;70;73;42:Pulsating
+PR-D;0202;PLS Pad 6;87;70;74;42:Pulsating
+PR-D;0203;PLS Pad 7;87;70;75;42:Pulsating
+PR-D;0204;PLS Pad 8;87;70;76;42:Pulsating
+PR-D;0205;PLS Pad 9;87;70;77;42:Pulsating
+PR-D;0206;PLS Pad 10;87;70;78;42:Pulsating
+PR-D;0207;PLS Pad 11;87;70;79;42:Pulsating
+PR-D;0208;PLS Pad 12;87;70;80;42:Pulsating
+PR-D;0209;PLS Pad 13;87;70;81;42:Pulsating
+PR-D;0210;PLS Pad 14;87;70;82;42:Pulsating
+PR-D;0211;PLS Pad 15;87;70;83;42:Pulsating
+PR-D;0212;PLS Pad 16;87;70;84;42:Pulsating
+PR-D;0213;PLS Strings;87;70;85;42:Pulsating
+PR-D;0214;LFO Hollow;87;70;86;42:Pulsating
+PR-D;0215;Goes A Pad;87;70;87;42:Pulsating
+PR-D;0216;Metal PLS;87;70;88;42:Pulsating
+PR-D;0217;Trip 2 Mars;87;70;89;42:Pulsating
+PR-D;0218;Fist Pumper1;87;70;90;42:Pulsating
+PR-D;0219;Fist Pumper2;87;70;91;42:Pulsating
+PR-D;0220;Pulsatron;87;70;92;42:Pulsating
+PR-D;0221;LFO Poly;87;70;93;42:Pulsating
+PR-D;0222;LFO Saw 1;87;70;94;42:Pulsating
+PR-D;0223;LFO Saw 2;87;70;95;42:Pulsating
+PR-D;0224;Thick Pans;87;70;96;42:Pulsating
+PR-D;0225;LFO Ripple;87;70;97;42:Pulsating
+PR-D;0226;JayMeJay;87;70;98;42:Pulsating
+PR-D;0227;Karmalog;87;70;99;42:Pulsating
+PR-D;0228;MINIM-L;87;70;100;42:Pulsating
+PR-D;0229;Trance Staff;87;70;101;42:Pulsating
+PR-D;0230;Radanceky;87;70;102;42:Pulsating
+PR-D;0231;12303;87;70;103;42:Pulsating
+PR-D;0232;Experiment;87;70;104;42:Pulsating
+PR-D;0233;Pulserelay;87;70;105;42:Pulsating
+PR-D;0234;Jazz Bubbles;87;70;106;42:Pulsating
+PR-D;0235;Psychoscilo;87;70;107;42:Pulsating
+PR-D;0236;PXZoon;87;70;108;42:Pulsating
+PR-D;0237;Welding Bell;87;70;109;42:Pulsating
+PR-D;0238;Glassphemia;87;70;110;42:Pulsating
+PR-D;0239;Strobe Bell;87;70;111;42:Pulsating
+PR-D;0240;Sawflutter;87;70;112;42:Pulsating
+PR-D;0241;Dronified;87;70;113;42:Pulsating
+PR-D;0242;Tri-Vector;87;70;114;42:Pulsating
+PR-D;0243;Syn Vox 1;87;70;115;32:Vox/Choir
+PR-D;0244;Syn Vox 2;87;70;116;32:Vox/Choir
+PR-D;0245;Syn Vox 3;87;70;117;32:Vox/Choir
+PR-D;0246;JD80 SoftVox;87;70;118;32:Vox/Choir
+PR-D;0247;Valley Air;87;70;119;32:Vox/Choir
+PR-D;0248;Vox Pad 1;87;70;120;32:Vox/Choir
+PR-D;0249;Vox Pad 2;87;70;121;32:Vox/Choir
+PR-D;0250;Vox Pad 3;87;70;122;32:Vox/Choir
+PR-D;0251;Vox Pad 4;87;70;123;32:Vox/Choir
+PR-D;0252;Vox Pad 5;87;70;124;32:Vox/Choir
+PR-D;0253;5th Vox Pad;87;70;125;32:Vox/Choir
+PR-D;0254;Moving Chr;87;70;126;32:Vox/Choir
+PR-D;0255;VP-330 Chr;87;70;127;32:Vox/Choir
+PR-D;0256;HyperVentChr;87;70;128;32:Vox/Choir
+PR-D;0257;Vento Choir;87;71;1;32:Vox/Choir
+PR-D;0258;Scat Dow;87;71;2;33:Scat
+PR-D;0259;JP8 Brs 1;87;71;3;35:Synth Brass
+PR-D;0260;JP8 Brs 2;87;71;4;35:Synth Brass
+PR-D;0261;JP8 Brs 3;87;71;5;35:Synth Brass
+PR-D;0262;JP8 Brs 4;87;71;6;35:Synth Brass
+PR-D;0263;JP8 Brs 5;87;71;7;35:Synth Brass
+PR-D;0264;JP8 Brs 6;87;71;8;35:Synth Brass
+PR-D;0265;JUNO Brs 1;87;71;9;35:Synth Brass
+PR-D;0266;JUNO Brs 2;87;71;10;35:Synth Brass
+PR-D;0267;JUNO Brs 3;87;71;11;35:Synth Brass
+PR-D;0268;JUNO Brs 4;87;71;12;35:Synth Brass
+PR-D;0269;JUNO Brs 5;87;71;13;35:Synth Brass
+PR-D;0270;JUNO Brs 6;87;71;14;35:Synth Brass
+PR-D;0271;JUNO Brs 7;87;71;15;35:Synth Brass
+PR-D;0272;JUNO Brs 8;87;71;16;35:Synth Brass
+PR-D;0273;JUNO Brs 9;87;71;17;35:Synth Brass
+PR-D;0274;JUNO Brs 10;87;71;18;35:Synth Brass
+PR-D;0275;JP8000 Brs 1;87;71;19;35:Synth Brass
+PR-D;0276;JP8000 Brs 2;87;71;20;35:Synth Brass
+PR-D;0277;80s Brs 1;87;71;21;35:Synth Brass
+PR-D;0278;80s Brs 2;87;71;22;35:Synth Brass
+PR-D;0279;80s Brs 3;87;71;23;35:Synth Brass
+PR-D;0280;80s Brs 4;87;71;24;35:Synth Brass
+PR-D;0281;80s Brs 5;87;71;25;35:Synth Brass
+PR-D;0282;80s Brs 6;87;71;26;35:Synth Brass
+PR-D;0283;80s Brs 7;87;71;27;35:Synth Brass
+PR-D;0284;80s Brs 8;87;71;28;35:Synth Brass
+PR-D;0285;80s Brs 9;87;71;29;35:Synth Brass
+PR-D;0286;80s Brs 10;87;71;30;35:Synth Brass
+PR-D;0287;80s Brs 11;87;71;31;35:Synth Brass
+PR-D;0288;SynBrs Str;87;71;32;35:Synth Brass
+PR-D;0289;Analog Brs 1;87;71;33;35:Synth Brass
+PR-D;0290;Analog Brs 2;87;71;34;35:Synth Brass
+PR-D;0291;Analog Brs 3;87;71;35;35:Synth Brass
+PR-D;0292;Analog Brs 4;87;71;36;35:Synth Brass
+PR-D;0293;OB Brs;87;71;37;35:Synth Brass
+PR-D;0294;Euro Express;87;71;38;35:Synth Brass
+PR-D;0295;Syn Brs 1;87;71;39;35:Synth Brass
+PR-D;0296;Syn Brs 2;87;71;40;35:Synth Brass
+PR-D;0297;Syn Brs 3;87;71;41;35:Synth Brass
+PR-D;0298;Syn Brs 4;87;71;42;35:Synth Brass
+PR-D;0299;Syn Brs 5;87;71;43;35:Synth Brass
+PR-D;0300;Syn Brs 6;87;71;44;35:Synth Brass
+PR-D;0301;Syn Brs 7;87;71;45;35:Synth Brass
+PR-D;0302;Syn Brs 8;87;71;46;35:Synth Brass
+PR-D;0303;Syn Brs 9;87;71;47;35:Synth Brass
+PR-D;0304;Syn Brs 10;87;71;48;35:Synth Brass
+PR-D;0305;Syn Brs 11;87;71;49;35:Synth Brass
+PR-D;0306;Syn Brs 12;87;71;50;35:Synth Brass
+PR-D;0307;Syn Brs 13;87;71;51;35:Synth Brass
+PR-D;0308;Soft SynBrs1;87;71;52;35:Synth Brass
+PR-D;0309;Soft SynBrs2;87;71;53;35:Synth Brass
+PR-D;0310;Soft SynBrs3;87;71;54;35:Synth Brass
+PR-D;0311;Soft SynBrs4;87;71;55;35:Synth Brass
+PR-D;0312;Soft SynBrs5;87;71;56;35:Synth Brass
+PR-D;0313;Dyn SynBrs;87;71;57;35:Synth Brass
+PR-D;0314;Quiet Brs;87;71;58;35:Synth Brass
+PR-D;0315;Brassrub;87;71;59;35:Synth Brass
+PR-D;0316;Poly Brass 1;87;71;60;35:Synth Brass
+PR-D;0317;Poly Brass 2;87;71;61;35:Synth Brass
+PR-D;0318;Poly Brass 3;87;71;62;35:Synth Brass
+PR-D;0319;Poly Brass 4;87;71;63;35:Synth Brass
+PR-D;0320;Poly Brass 5;87;71;64;35:Synth Brass
+PR-D;0321;Octa Brass;87;71;65;35:Synth Brass
+PR-D;0322;Reso Brs 1;87;71;66;35:Synth Brass
+PR-D;0323;Reso Brs 2;87;71;67;35:Synth Brass
+PR-D;0324;Slow Brs 1;87;71;68;35:Synth Brass
+PR-D;0325;Slow Brs 2;87;71;69;35:Synth Brass
+PR-D;0326;FM Brass;87;71;70;35:Synth Brass
+PR-D;0327;Hybrid Brass87;71;71;35:Synth Brass
+PR-D;0328;Power JP;87;71;72;35:Synth Brass
+PR-D;0329;Power SynBrs;87;71;73;35:Synth Brass
+PR-D;0330;Love Brs;87;71;74;35:Synth Brass
+PR-D;0331;LoveBrs Pad;87;71;75;35:Synth Brass
+PR-D;0332;42 Brass;87;71;76;35:Synth Brass
+PR-D;0333;80sBrsScoop1;87;71;77;35:Synth Brass
+PR-D;0334;80sBrsScoop2;87;71;78;35:Synth Brass
+PR-D;0335;ResoSweepBrs;87;71;79;35:Synth Brass
+PR-D;0336;Porta Brs;87;71;80;35:Synth Brass
+PR-D;0337;Xpand Brs 1;87;71;81;35:Synth Brass
+PR-D;0338;Xpand Brs 2;87;71;82;35:Synth Brass
+PR-D;0339;Saws Key 1;87;71;83;38:Synth PolyKey
+PR-D;0340;Saws Key 2;87;71;84;38:Synth PolyKey
+PR-D;0341;Saws Key 3;87;71;85;38:Synth PolyKey
+PR-D;0342;Saws Key 4;87;71;86;38:Synth PolyKey
+PR-D;0343;Saws Key 5;87;71;87;38:Synth PolyKey
+PR-D;0344;Saws Key 6;87;71;88;38:Synth PolyKey
+PR-D;0345;Saws Key 7;87;71;89;38:Synth PolyKey
+PR-D;0346;Saws Key 8;87;71;90;38:Synth PolyKey
+PR-D;0347;Saws Key 9;87;71;91;38:Synth PolyKey
+PR-D;0348;Saws Key 10;87;71;92;38:Synth PolyKey
+PR-D;0349;Laserthroat;87;71;93;38:Synth PolyKey
+PR-D;0350;Poly Key 1;87;71;94;38:Synth PolyKey
+PR-D;0351;Poly Key 2;87;71;95;38:Synth PolyKey
+PR-D;0352;Poly Key 3;87;71;96;38:Synth PolyKey
+PR-D;0353;Poly Key 4;87;71;97;38:Synth PolyKey
+PR-D;0354;JP80 WaveSyn;87;71;98;38:Synth PolyKey
+PR-D;0355;Poly Syn 1;87;71;99;38:Synth PolyKey
+PR-D;0356;Poly Syn 2;87;71;100;38:Synth PolyKey
+PR-D;0357;Poly Syn 3;87;71;101;38:Synth PolyKey
+PR-D;0358;Poly Syn 4;87;71;102;38:Synth PolyKey
+PR-D;0359;Poly Syn 5;87;71;103;38:Synth PolyKey
+PR-D;0360;Poly Syn 6;87;71;104;38:Synth PolyKey
+PR-D;0361;Poly Syn 7;87;71;105;38:Synth PolyKey
+PR-D;0362;Poly Syn 8;87;71;106;38:Synth PolyKey
+PR-D;0363;Poly Syn 9;87;71;107;38:Synth PolyKey
+PR-D;0364;Poly Syn 10;87;71;108;38:Synth PolyKey
+PR-D;0365;Poly Syn 11;87;71;109;38:Synth PolyKey
+PR-D;0366;Poly Syn 12;87;71;110;38:Synth PolyKey
+PR-D;0367;Poly Syn 13;87;71;111;38:Synth PolyKey
+PR-D;0368;Poly Syn 14;87;71;112;38:Synth PolyKey
+PR-D;0369;Poly Syn 15;87;71;113;38:Synth PolyKey
+PR-D;0370;Poly Syn 16;87;71;114;38:Synth PolyKey
+PR-D;0371;Poly Syn 17;87;71;115;38:Synth PolyKey
+PR-D;0372;Poly Syn 18;87;71;116;38:Synth PolyKey
+PR-D;0373;Poly Syn 19;87;71;117;38:Synth PolyKey
+PR-D;0374;Poly Syn 20;87;71;118;38:Synth PolyKey
+PR-D;0375;Poly Syn 21;87;71;119;38:Synth PolyKey
+PR-D;0376;Poly Syn 22;87;71;120;38:Synth PolyKey
+PR-D;0377;Poly Syn 23;87;71;121;38:Synth PolyKey
+PR-D;0378;Poly Syn 24;87;71;122;38:Synth PolyKey
+PR-D;0379;Poly Syn 25;87;71;123;38:Synth PolyKey
+PR-D;0380;Poly Syn 26;87;71;124;38:Synth PolyKey
+PR-D;0381;Saw Dtune;87;71;125;38:Synth PolyKey
+PR-D;0382;Jester;87;71;126;38:Synth PolyKey
+PR-D;0383;Fusion Decay;87;71;127;38:Synth PolyKey
+PR-D;0384;Polysubito;87;71;128;38:Synth PolyKey
+PR-D;0385;Wave Scan;87;72;1;38:Synth PolyKey
+PR-D;0386;Wire String;87;72;2;38:Synth PolyKey
+PR-D;0387;Brusky Key;87;72;3;38:Synth PolyKey
+PR-D;0388;Cutter Key;87;72;4;38:Synth PolyKey
+PR-D;0389;PolySyn Atk;87;72;5;38:Synth PolyKey
+PR-D;0390;Harpsitone;87;72;6;38:Synth PolyKey
+PR-D;0391;Digi Key 1;87;72;7;38:Synth PolyKey
+PR-D;0392;Digi Key 2;87;72;8;38:Synth PolyKey
+PR-D;0393;Digi Key 3;87;72;9;38:Synth PolyKey
+PR-D;0394;Digi Key 4;87;72;10;38:Synth PolyKey
+PR-D;0395;Digi Key 5;87;72;11;38:Synth PolyKey
+PR-D;0396;Digi Key 6;87;72;12;38:Synth PolyKey
+PR-D;0397;Digi Poly 1;87;72;13;38:Synth PolyKey
+PR-D;0398;Digi Poly 2;87;72;14;38:Synth PolyKey
+PR-D;0399;Bit Poly 1;87;72;15;38:Synth PolyKey
+PR-D;0400;Bit Poly 2;87;72;16;38:Synth PolyKey
+PR-D;0401;Bit Poly 3;87;72;17;38:Synth PolyKey
+PR-D;0402;Bit Poly 4;87;72;18;38:Synth PolyKey
+PR-D;0403;Bit Poly 5;87;72;19;38:Synth PolyKey
+PR-D;0404;Bit Poly 6;87;72;20;38:Synth PolyKey
+PR-D;0405;Bit Poly 7;87;72;21;38:Synth PolyKey
+PR-D;0406;Bit Poly 8;87;72;22;38:Synth PolyKey
+PR-D;0407;Bit Poly 9;87;72;23;38:Synth PolyKey
+PR-D;0408;Bit Poly 10;87;72;24;38:Synth PolyKey
+PR-D;0409;5th Poly 1;87;72;25;38:Synth PolyKey
+PR-D;0410;5th Poly 2;87;72;26;38:Synth PolyKey
+PR-D;0411;5th Poly 3;87;72;27;38:Synth PolyKey
+PR-D;0412;Poly Aug 5th;87;72;28;38:Synth PolyKey
+PR-D;0413;5th Key;87;72;29;38:Synth PolyKey
+PR-D;0414;HPF Poly 1;87;72;30;38:Synth PolyKey
+PR-D;0415;HPF Poly 2;87;72;31;38:Synth PolyKey
+PR-D;0416;BPF Poly 1;87;72;32;38:Synth PolyKey
+PR-D;0417;BPF Poly 2;87;72;33;38:Synth PolyKey
+PR-D;0418;Sweep Poly 1;87;72;34;38:Synth PolyKey
+PR-D;0419;Sweep Poly 2;87;72;35;38:Synth PolyKey
+PR-D;0420;Sweep Poly 3;87;72;36;38:Synth PolyKey
+PR-D;0421;Scoop Poly 1;87;72;37;38:Synth PolyKey
+PR-D;0422;Scoop Poly 2;87;72;38;38:Synth PolyKey
+PR-D;0423;Scoop Poly 3;87;72;39;38:Synth PolyKey
+PR-D;0424;Scoop Poly 4;87;72;40;38:Synth PolyKey
+PR-D;0425;Scoop Poly 5;87;72;41;38:Synth PolyKey
+PR-D;0426;Scoop Poly 6;87;72;42;38:Synth PolyKey
+PR-D;0427;Tekno Poly 1;87;72;43;38:Synth PolyKey
+PR-D;0428;Tekno Poly 2;87;72;44;38:Synth PolyKey
+PR-D;0429;Tekno Poly 3;87;72;45;38:Synth PolyKey
+PR-D;0430;J-Pop Kira 1;87;72;46;38:Synth PolyKey
+PR-D;0431;J-Pop Kira 2;87;72;47;38:Synth PolyKey
+PR-D;0432;Square Poly;87;72;48;38:Synth PolyKey
+PR-D;0433;Slow Poly;87;72;49;38:Synth PolyKey
+PR-D;0434;Vox Poly;87;72;50;38:Synth PolyKey
+PR-D;0435;S-SawPoly 1;87;72;51;38:Synth PolyKey
+PR-D;0436;S-SawPoly 2;87;72;52;38:Synth PolyKey
+PR-D;0437;S-SawPoly 3;87;72;53;38:Synth PolyKey
+PR-D;0438;S-SawPoly 4;87;72;54;38:Synth PolyKey
+PR-D;0439;S-SawPoly 5;87;72;55;38:Synth PolyKey
+PR-D;0440;S-SawPoly 6;87;72;56;38:Synth PolyKey
+PR-D;0441;S-SawPoly 7;87;72;57;38:Synth PolyKey
+PR-D;0442;S-SawPoly 8;87;72;58;38:Synth PolyKey
+PR-D;0443;S-SawPoly 9;87;72;59;38:Synth PolyKey
+PR-D;0444;S-SawPoly 10;87;72;60;38:Synth PolyKey
+PR-D;0445;S-SawPoly 11;87;72;61;38:Synth PolyKey
+PR-D;0446;S-SawPoly 12;87;72;62;38:Synth PolyKey
+PR-D;0447;S-SawPoly 13;87;72;63;38:Synth PolyKey
+PR-D;0448;Trance Key 1;87;72;64;38:Synth PolyKey
+PR-D;0449;Trance Key 2;87;72;65;38:Synth PolyKey
+PR-D;0450;Trance Key 3;87;72;66;38:Synth PolyKey
+PR-D;0451;Trance Key 4;87;72;67;38:Synth PolyKey
+PR-D;0452;Trance Key 5;87;72;68;38:Synth PolyKey
+PR-D;0453;Trance Key 6;87;72;69;38:Synth PolyKey
+PR-D;0454;Delay Reso;87;72;70;38:Synth PolyKey
+PR-D;0455;3Delay Poly;87;72;71;38:Synth PolyKey
+PR-D;0456;JP80 FatPoly;87;72;72;38:Synth PolyKey
+PR-D;0457;Poly Fat;87;72;73;38:Synth PolyKey
+PR-D;0458;Trance Saw;87;72;74;38:Synth PolyKey
+PR-D;0459;SoHo Lucky;87;72;75;38:Synth PolyKey
+PR-D;0460;DLM SUM;87;72;76;38:Synth PolyKey
+PR-D;0461;H@sWillFall;87;72;77;38:Synth PolyKey
+PR-D;0462;A Log 4 Ana;87;72;78;38:Synth PolyKey
+PR-D;0463;Log An A;87;72;79;38:Synth PolyKey
+PR-D;0464;Androdrops;87;72;80;38:Synth PolyKey
+PR-D;0465;Vntg Stack;87;72;81;38:Synth PolyKey
+PR-D;0466;ANORMANALOG;87;72;82;38:Synth PolyKey
+PR-D;0467;Don*t you;87;72;83;38:Synth PolyKey
+PR-D;0468;Nailbiter;87;72;84;38:Synth PolyKey
+PR-D;0469;EinsZweiDry;87;72;85;38:Synth PolyKey
+PR-D;0470;Analog Key 1;87;72;86;38:Synth PolyKey
+PR-D;0471;Analog Key 2;87;72;87;38:Synth PolyKey
+PR-D;0472;Paperclip;87;72;88;38:Synth PolyKey
+PR-D;0473;Sqr Key;87;72;89;38:Synth PolyKey
+PR-D;0474;Tri Key;87;72;90;38:Synth PolyKey
+PR-D;0475;JP-8 PatchF2;87;72;91;38:Synth PolyKey
+PR-D;0476;Fantasy 1;87;72;92;37:Synth Bellpad
+PR-D;0477;Fantasy 2;87;72;93;37:Synth Bellpad
+PR-D;0478;Fantasy 3;87;72;94;37:Synth Bellpad
+PR-D;0479;Fantasy 4;87;72;95;37:Synth Bellpad
+PR-D;0480;Fantasy 5;87;72;96;37:Synth Bellpad
+PR-D;0481;Fantasy Pad;87;72;97;37:Synth Bellpad
+PR-D;0482;What Key!;87;72;98;37:Synth Bellpad
+PR-D;0483;EP-Cool Pad;87;72;99;37:Synth Bellpad
+PR-D;0484;D50 Stack;87;72;100;37:Synth Bellpad
+PR-D;0485;D-52 Babe;87;72;101;37:Synth Bellpad
+PR-D;0486;Dreaming 1;87;72;102;37:Synth Bellpad
+PR-D;0487;Dreaming 2;87;72;103;37:Synth Bellpad
+PR-D;0488;Dreaming 3;87;72;104;37:Synth Bellpad
+PR-D;0489;Dreaming 4;87;72;105;37:Synth Bellpad
+PR-D;0490;Dreaming 5;87;72;106;37:Synth Bellpad
+PR-D;0491;Dreaming 6;87;72;107;37:Synth Bellpad
+PR-D;0492;Dreaming 7;87;72;108;37:Synth Bellpad
+PR-D;0493;Dreambell;87;72;109;37:Synth Bellpad
+PR-D;0494;DreamingBox;87;72;110;37:Synth Bellpad
+PR-D;0495;New Jupiter;87;72;111;37:Synth Bellpad
+PR-D;0496;Analog Dream;87;72;112;37:Synth Bellpad
+PR-D;0497;Huge MIDI 1;87;72;113;37:Synth Bellpad
+PR-D;0498;Huge MIDI 2;87;72;114;37:Synth Bellpad
+PR-D;0499;Huge MIDI 3;87;72;115;37:Synth Bellpad
+PR-D;0500;MIDI Key;87;72;116;37:Synth Bellpad
+PR-D;0501;Pipe Key;87;72;117;37:Synth Bellpad
+PR-D;0502;Vox Key;87;72;118;37:Synth Bellpad
+PR-D;0503;Magichand;87;72;119;37:Synth Bellpad
+PR-D;0504;AnalogBell 1;87;72;120;37:Synth Bellpad
+PR-D;0505;AnalogBell 2;87;72;121;37:Synth Bellpad
+PR-D;0506;AnalogBell 3;87;72;122;37:Synth Bellpad
+PR-D;0507;AnalogBell 4;87;72;123;37:Synth Bellpad
+PR-D;0508;Synth Sniper;87;72;124;37:Synth Bellpad
+PR-D;0509;Temper Bell;87;72;125;37:Synth Bellpad
+PR-D;0510;Icycle;87;72;126;37:Synth Bellpad
+PR-D;0511;Pipe Chatter;87;72;127;37:Synth Bellpad
+PR-D;0512;Spring Wind;87;72;128;37:Synth Bellpad
+PR-D;0513;JP80 SynHarp;87;73;1;37:Synth Bellpad
+PR-D;0514;Bell 1;87;73;2;14:Bell
+PR-D;0515;Bell 2;87;73;3;14:Bell
+PR-D;0516;Bell 3;87;73;4;14:Bell
+PR-D;0517;Bell 4;87;73;5;14:Bell
+PR-D;0518;Bell 5;87;73;6;14:Bell
+PR-D;0519;Bell 6;87;73;7;14:Bell
+PR-D;0520;Bell 7;87;73;8;14:Bell
+PR-D;0521;Bell 8;87;73;9;14:Bell
+PR-D;0522;Bell 9;87;73;10;14:Bell
+PR-D;0523;Bell 10;87;73;11;14:Bell
+PR-D;0524;Bell 11;87;73;12;14:Bell
+PR-D;0525;Bell 12;87;73;13;14:Bell
+PR-D;0526;Bell 13;87;73;14;14:Bell
+PR-D;0527;Bell 14;87;73;15;14:Bell
+PR-D;0528;Bell 15;87;73;16;14:Bell
+PR-D;0529;Bell 16;87;73;17;14:Bell
+PR-D;0530;Bell 17;87;73;18;14:Bell
+PR-D;0531;Bell 18;87;73;19;14:Bell
+PR-D;0532;Bell 19;87;73;20;14:Bell
+PR-D;0533;Bell 20;87;73;21;14:Bell
+PR-D;0534;Bell 21;87;73;22;14:Bell
+PR-D;0535;Bell 22;87;73;23;14:Bell
+PR-D;0536;Tower Bell;87;73;24;14:Bell
+PR-D;0537;Tubular Bell;87;73;25;14:Bell
+PR-D;0538;OrganBell 1;87;73;26;14:Bell
+PR-D;0539;OrganBell 2;87;73;27;14:Bell
+PR-D;0540;OrganBell 3;87;73;28;14:Bell
+PR-D;0541;Kalimbell;87;73;29;14:Bell
+PR-D;0542;JP80 Bell;87;73;30;14:Bell
+PR-D;0543;Glass Amb;87;73;31;14:Bell
+PR-D;0544;Digi Crystal;87;73;32;14:Bell
+PR-D;0545;Icy Keys;87;73;33;14:Bell
+PR-D;0546;JP-8 PatchH1;87;73;34;14:Bell
+PR-D;0547;SEQ 1;87;73;35;40:Synth Seq/Pop
+PR-D;0548;SEQ 2;87;73;36;40:Synth Seq/Pop
+PR-D;0549;SEQ 3;87;73;37;40:Synth Seq/Pop
+PR-D;0550;SEQ 4;87;73;38;40:Synth Seq/Pop
+PR-D;0551;SEQ 5;87;73;39;40:Synth Seq/Pop
+PR-D;0552;SEQ 6;87;73;40;40:Synth Seq/Pop
+PR-D;0553;SEQ 7;87;73;41;40:Synth Seq/Pop
+PR-D;0554;SEQ 8;87;73;42;40:Synth Seq/Pop
+PR-D;0555;SEQ 9;87;73;43;40:Synth Seq/Pop
+PR-D;0556;SEQ 10;87;73;44;40:Synth Seq/Pop
+PR-D;0557;SEQ 11;87;73;45;40:Synth Seq/Pop
+PR-D;0558;SEQ 12;87;73;46;40:Synth Seq/Pop
+PR-D;0559;SEQ 13;87;73;47;40:Synth Seq/Pop
+PR-D;0560;SEQ 14;87;73;48;40:Synth Seq/Pop
+PR-D;0561;SEQ 15;87;73;49;40:Synth Seq/Pop
+PR-D;0562;SEQ 16;87;73;50;40:Synth Seq/Pop
+PR-D;0563;SEQ 17;87;73;51;40:Synth Seq/Pop
+PR-D;0564;SEQ 18;87;73;52;40:Synth Seq/Pop
+PR-D;0565;SEQ 19;87;73;53;40:Synth Seq/Pop
+PR-D;0566;SEQ 20;87;73;54;40:Synth Seq/Pop
+PR-D;0567;SEQ 21;87;73;55;40:Synth Seq/Pop
+PR-D;0568;SEQ 22;87;73;56;40:Synth Seq/Pop
+PR-D;0570;SEQ 24;87;73;58;40:Synth Seq/Pop
+PR-D;0571;SEQ 25;87;73;59;40:Synth Seq/Pop
+PR-D;0572;SEQ 26;87;73;60;40:Synth Seq/Pop
+PR-D;0573;SEQ 27;87;73;61;40:Synth Seq/Pop
+PR-D;0574;SEQ 28;87;73;62;40:Synth Seq/Pop
+PR-D;0575;SEQ 29;87;73;63;40:Synth Seq/Pop
+PR-D;0576;SEQ 30;87;73;64;40:Synth Seq/Pop
+PR-D;0577;SEQ 31;87;73;65;40:Synth Seq/Pop
+PR-D;0578;SEQ 32;87;73;66;40:Synth Seq/Pop
+PR-D;0579;SEQ 33;87;73;67;40:Synth Seq/Pop
+PR-D;0580;SEQ 34;87;73;68;40:Synth Seq/Pop
+PR-D;0581;SEQ 35;87;73;69;40:Synth Seq/Pop
+PR-D;0582;SEQ 36;87;73;70;40:Synth Seq/Pop
+PR-D;0583;SEQ 37;87;73;71;40:Synth Seq/Pop
+PR-D;0584;SEQ 38;87;73;72;40:Synth Seq/Pop
+PR-D;0585;SEQ 39;87;73;73;40:Synth Seq/Pop
+PR-D;0586;Stubby Mono;87;73;74;40:Synth Seq/Pop
+PR-D;0587;Scrt Decay;87;73;75;40:Synth Seq/Pop
+PR-D;0588;R&B Bs 1;87;73;76;21:Synth Bass
+PR-D;0589;R&B Bs 2;87;73;77;21:Synth Bass
+PR-D;0590;R&B Bs 3;87;73;78;21:Synth Bass
+PR-D;0591;R&B Bs 4;87;73;79;21:Synth Bass
+PR-D;0592;R&B Bs 5;87;73;80;21:Synth Bass
+PR-D;0593;R&B Bs 6;87;73;81;21:Synth Bass
+PR-D;0594;R&B Bs 7;87;73;82;21:Synth Bass
+PR-D;0595;R&B Bs 8;87;73;83;21:Synth Bass
+PR-D;0596;R&B Bs 9;87;73;84;21:Synth Bass
+PR-D;0597;MG Bs 1;87;73;85;21:Synth Bass
+PR-D;0598;MG Bs 2;87;73;86;21:Synth Bass
+PR-D;0599;MG Bs 3;87;73;87;21:Synth Bass
+PR-D;0600;MG Bs 4;87;73;88;21:Synth Bass
+PR-D;0601;MG Bs 5;87;73;89;21:Synth Bass
+PR-D;0602;MG Bs 6;87;73;90;21:Synth Bass
+PR-D;0603;MG Bs 7;87;73;91;21:Synth Bass
+PR-D;0604;MG Bs 8;87;73;92;21:Synth Bass
+PR-D;0605;MG Bs 9;87;73;93;21:Synth Bass
+PR-D;0606;MG Bs 10;87;73;94;21:Synth Bass
+PR-D;0607;MG Bs 11;87;73;95;21:Synth Bass
+PR-D;0608;MG Bs 12;87;73;96;21:Synth Bass
+PR-D;0609;MG Bs 13;87;73;97;21:Synth Bass
+PR-D;0610;MG Bs 14;87;73;98;21:Synth Bass
+PR-D;0611;MG Bs 15;87;73;99;21:Synth Bass
+PR-D;0612;MG Bs 16;87;73;100;21:Synth Bass
+PR-D;0613;MG Bs 17;87;73;101;21:Synth Bass
+PR-D;0614;MG Bs 18;87;73;102;21:Synth Bass
+PR-D;0615;MG Bs 19;87;73;103;21:Synth Bass
+PR-D;0616;MG Bs 20;87;73;104;21:Synth Bass
+PR-D;0617;MG Bs 21;87;73;105;21:Synth Bass
+PR-D;0618;MG Bs 22;87;73;106;21:Synth Bass
+PR-D;0619;MG Bs 23;87;73;107;21:Synth Bass
+PR-D;0620;MG Bs 24;87;73;108;21:Synth Bass
+PR-D;0621;MG Bs 25;87;73;109;21:Synth Bass
+PR-D;0622;MG Bs 26;87;73;110;21:Synth Bass
+PR-D;0623;Thickness Bs;87;73;111;21:Synth Bass
+PR-D;0624;Plastic Bs;87;73;112;21:Synth Bass
+PR-D;0625;Alpha Bs 1;87;73;113;21:Synth Bass
+PR-D;0626;Alpha Bs 2;87;73;114;21:Synth Bass
+PR-D;0627;Alpha Bs 3;87;73;115;21:Synth Bass
+PR-D;0628;Flat6Bs;87;73;116;21:Synth Bass
+PR-D;0629;Decay Bs 1;87;73;117;21:Synth Bass
+PR-D;0630;Decay Bs 2;87;73;118;21:Synth Bass
+PR-D;0631;Decay Bs 3;87;73;119;21:Synth Bass
+PR-D;0632;Decay Bs 4;87;73;120;21:Synth Bass
+PR-D;0633;106 Bass 1;87;73;121;21:Synth Bass
+PR-D;0634;106 Bass 2;87;73;122;21:Synth Bass
+PR-D;0635;106 Bass 3;87;73;123;21:Synth Bass
+PR-D;0636;106 Bass 4;87;73;124;21:Synth Bass
+PR-D;0637;106 Bass 5;87;73;125;21:Synth Bass
+PR-D;0638;Breakdown Bs;87;73;126;21:Synth Bass
+PR-D;0639;Dopebass;87;73;127;21:Synth Bass
+PR-D;0640;MC202 Bs 1;87;73;128;21:Synth Bass
+PR-D;0641;MC202 Bs 2;87;74;1;21:Synth Bass
+PR-D;0642;Pulse Bs 1;87;74;2;21:Synth Bass
+PR-D;0643;Pulse Bs 2;87;74;3;21:Synth Bass
+PR-D;0644;Pulse Bs 3;87;74;4;21:Synth Bass
+PR-D;0645;Pulse Bs 4;87;74;5;21:Synth Bass
+PR-D;0646;FM Bs 1;87;74;6;21:Synth Bass
+PR-D;0647;FM Bs 2;87;74;7;21:Synth Bass
+PR-D;0648;JP Bs;87;74;8;21:Synth Bass
+PR-D;0649;Compu Bass 1;87;74;9;21:Synth Bass
+PR-D;0650;Compu Bass 2;87;74;10;21:Synth Bass
+PR-D;0651;Detune Bs 1;87;74;11;21:Synth Bass
+PR-D;0652;Detune Bs 2;87;74;12;21:Synth Bass
+PR-D;0653;Detune Bs 3;87;74;13;21:Synth Bass
+PR-D;0654;Detune Bs 4;87;74;14;21:Synth Bass
+PR-D;0655;Intrusive Bs;87;74;15;21:Synth Bass
+PR-D;0656;SH-101 Bs 1;87;74;16;21:Synth Bass
+PR-D;0657;SH-101 Bs 2;87;74;17;21:Synth Bass
+PR-D;0658;Sweep Bs 1;87;74;18;21:Synth Bass
+PR-D;0659;Sweep Bs 2;87;74;19;21:Synth Bass
+PR-D;0660;Sweep Bs 3;87;74;20;21:Synth Bass
+PR-D;0661;Sweep Bs 4;87;74;21;21:Synth Bass
+PR-D;0662;Sweep Bs 5;87;74;22;21:Synth Bass
+PR-D;0663;Sweep Bs 6;87;74;23;21:Synth Bass
+PR-D;0664;Sweep Bs 7;87;74;24;21:Synth Bass
+PR-D;0665;Rubbertouch;87;74;25;21:Synth Bass
+PR-D;0666;P5 Bs 1;87;74;26;21:Synth Bass
+PR-D;0667;P5 Bs 2;87;74;27;21:Synth Bass
+PR-D;0668;P5 Bs 3;87;74;28;21:Synth Bass
+PR-D;0669;P5 Bs 4;87;74;29;21:Synth Bass
+PR-D;0670;P5 Bs 5;87;74;30;21:Synth Bass
+PR-D;0671;Juno60 Bs;87;74;31;21:Synth Bass
+PR-D;0672;D-50 Bs;87;74;32;21:Synth Bass
+PR-D;0673;MKS-50 Bs;87;74;33;21:Synth Bass
+PR-D;0674;Wide Bs 1;87;74;34;21:Synth Bass
+PR-D;0675;Wide Bs 2;87;74;35;21:Synth Bass
+PR-D;0676;Wide Bs 3;87;74;36;21:Synth Bass
+PR-D;0677;Wide Bs 4;87;74;37;21:Synth Bass
+PR-D;0678;BASSH 10;87;74;38;21:Synth Bass
+PR-D;0679;Chow Bs 1;87;74;39;21:Synth Bass
+PR-D;0680;Chow Bs 2;87;74;40;21:Synth Bass
+PR-D;0681;House Bs;87;74;41;21:Synth Bass
+PR-D;0682;JP-4 Bs;87;74;42;21:Synth Bass
+PR-D;0683;SH Square Bs;87;74;43;21:Synth Bass
+PR-D;0684;JunoSqr Bs 1;87;74;44;21:Synth Bass
+PR-D;0685;JunoSqr Bs 2;87;74;45;21:Synth Bass
+PR-D;0686;TB Bass 1;87;74;46;21:Synth Bass
+PR-D;0687;TB Bass 2;87;74;47;21:Synth Bass
+PR-D;0688;TB Dist Bs 1;87;74;48;21:Synth Bass
+PR-D;0689;TB Dist Bs 2;87;74;49;21:Synth Bass
+PR-D;0690;Agresso Bass;87;74;50;21:Synth Bass
+PR-D;0691;Show Me Low;87;74;51;21:Synth Bass
+PR-D;0692;Organ Bs;87;74;52;21:Synth Bass
+PR-D;0693;Muffled Bass;87;74;53;21:Synth Bass
+PR-D;0694;Garage Bs 1;87;74;54;21:Synth Bass
+PR-D;0695;Garage Bs 2;87;74;55;21:Synth Bass
+PR-D;0696;Low Bs 1;87;74;56;21:Synth Bass
+PR-D;0697;Low Bs 2;87;74;57;21:Synth Bass
+PR-D;0698;Low Bs 3;87;74;58;21:Synth Bass
+PR-D;0699;Low Bs 4;87;74;59;21:Synth Bass
+PR-D;0700;Low Bs 5;87;74;60;21:Synth Bass
+PR-D;0701;Low Bs 6;87;74;61;21:Synth Bass
+PR-D;0702;Tri Bass 1;87;74;62;21:Synth Bass
+PR-D;0703;Tri Bass 2;87;74;63;21:Synth Bass
+PR-D;0704;Fat Analog 1;87;74;64;21:Synth Bass
+PR-D;0705;Fat Analog 2;87;74;65;21:Synth Bass
+PR-D;0706;Reso Bs 1;87;74;66;21:Synth Bass
+PR-D;0707;Reso Bs 2;87;74;67;21:Synth Bass
+PR-D;0708;Reso Bs 3;87;74;68;21:Synth Bass
+PR-D;0709;Reso Bs 4;87;74;69;21:Synth Bass
+PR-D;0710;Reso Bs 5;87;74;70;21:Synth Bass
+PR-D;0711;Reso Bs 6;87;74;71;21:Synth Bass
+PR-D;0712;Reso Bs 7;87;74;72;21:Synth Bass
+PR-D;0713;Reso Bs 8;87;74;73;21:Synth Bass
+PR-D;0714;Reso Bs 9;87;74;74;21:Synth Bass
+PR-D;0715;Reso Bs 10;87;74;75;21:Synth Bass
+PR-D;0716;Reso Bs 11;87;74;76;21:Synth Bass
+PR-D;0717;Reso Bs 12;87;74;77;21:Synth Bass
+PR-D;0718;Reso Bs 13;87;74;78;21:Synth Bass
+PR-D;0719;Reso Bs 14;87;74;79;21:Synth Bass
+PR-D;0720;Reso Bs 15;87;74;80;21:Synth Bass
+PR-D;0721;Reso Bs 16;87;74;81;21:Synth Bass
+PR-D;0722;Reso Bs 17;87;74;82;21:Synth Bass
+PR-D;0723;Reso Bs 18;87;74;83;21:Synth Bass
+PR-D;0724;Reso Bs 19;87;74;84;21:Synth Bass
+PR-D;0725;Reso Bs 20;87;74;85;21:Synth Bass
+PR-D;0726;Reso Bs 21;87;74;86;21:Synth Bass
+PR-D;0727;Reso Bs 22;87;74;87;21:Synth Bass
+PR-D;0728;Reso Bs 23;87;74;88;21:Synth Bass
+PR-D;0729;Reso Bs 24;87;74;89;21:Synth Bass
+PR-D;0730;Camblast;87;74;90;21:Synth Bass
+PR-D;0731;LA SynBs;87;74;91;21:Synth Bass
+PR-D;0732;Fat SynBs;87;74;92;21:Synth Bass
+PR-D;0733;Syn Bs 1;87;74;93;21:Synth Bass
+PR-D;0734;Syn Bs 2;87;74;94;21:Synth Bass
+PR-D;0735;Syn Bs 3;87;74;95;21:Synth Bass
+PR-D;0736;Rubber Bs 1;87;74;96;21:Synth Bass
+PR-D;0737;Rubber Bs 2;87;74;97;21:Synth Bass
+PR-D;0738;Dynamic Bs 1;87;74;98;21:Synth Bass
+PR-D;0739;Dynamic Bs 2;87;74;99;21:Synth Bass
+PR-D;0740;Round Bs;87;74;100;21:Synth Bass
+PR-D;0741;Acid Bs 1;87;74;101;21:Synth Bass
+PR-D;0742;Acid Bs 2;87;74;102;21:Synth Bass
+PR-D;0743;Acid Bs 3;87;74;103;21:Synth Bass
+PR-D;0744;Acid Bs 4;87;74;104;21:Synth Bass
+PR-D;0745;Acid Bs 5;87;74;105;21:Synth Bass
+PR-D;0746;Acid Bs 6;87;74;106;21:Synth Bass
+PR-D;0747;Spike Bs 1;87;74;107;21:Synth Bass
+PR-D;0748;Spike Bs 2;87;74;108;21:Synth Bass
+PR-D;0749;H&S Bass;87;74;109;21:Synth Bass
+PR-D;0750;Short Bs 1;87;74;110;21:Synth Bass
+PR-D;0751;Short Bs 2;87;74;111;21:Synth Bass
+PR-D;0752;Short Bs 3;87;74;112;21:Synth Bass
+PR-D;0753;HH Bs 1;87;74;113;21:Synth Bass
+PR-D;0754;HH Bs 2;87;74;114;21:Synth Bass
+PR-D;0755;HH Bs 3;87;74;115;21:Synth Bass
+PR-D;0756;HH Bs 4;87;74;116;21:Synth Bass
+PR-D;0757;HH Bs 5;87;74;117;21:Synth Bass
+PR-D;0758;HH Bs 6;87;74;118;21:Synth Bass
+PR-D;0759;Arpaccio;87;74;119;21:Synth Bass
+PR-D;0760;Carmelcorn;87;74;120;21:Synth Bass
+PR-D;0761;NoiseBs;87;74;121;21:Synth Bass
+PR-D;0762;Soft Bs;87;74;122;21:Synth Bass
+PR-D;0763;Slow Bs;87;74;123;21:Synth Bass
+PR-D;0764;Square Bs 1;87;74;124;21:Synth Bass
+PR-D;0765;Square Bs 2;87;74;125;21:Synth Bass
+PR-D;0766;Square Bs 3;87;74;126;21:Synth Bass
+PR-D;0767;Square Bs 4;87;74;127;21:Synth Bass
+PR-D;0768;Squaresville;87;74;128;21:Synth Bass
+PR-D;0769;PWM Bass 1;87;75;1;21:Synth Bass
+PR-D;0770;PWM Bass 2;87;75;2;21:Synth Bass
+PR-D;0771;Modular Bs 1;87;75;3;21:Synth Bass
+PR-D;0772;Modular Bs 2;87;75;4;21:Synth Bass
+PR-D;0773;Modular Bs 3;87;75;5;21:Synth Bass
+PR-D;0774;Modular Bs 4;87;75;6;21:Synth Bass
+PR-D;0775;Modular Bs 5;87;75;7;21:Synth Bass
+PR-D;0776;Modular Bs 6;87;75;8;21:Synth Bass
+PR-D;0777;Unison Bs 1;87;75;9;21:Synth Bass
+PR-D;0778;Unison Bs 2;87;75;10;21:Synth Bass
+PR-D;0779;Unison Bs 3;87;75;11;21:Synth Bass
+PR-D;0780;Unison Bs 4;87;75;12;21:Synth Bass
+PR-D;0781;Monster Bs 1;87;75;13;21:Synth Bass
+PR-D;0782;Monster Bs 2;87;75;14;21:Synth Bass
+PR-D;0783;Monster Bs 3;87;75;15;21:Synth Bass
+PR-D;0784;Monster Bs 4;87;75;16;21:Synth Bass
+PR-D;0785;Monster Bs 5;87;75;17;21:Synth Bass
+PR-D;0786;Monster Bs 6;87;75;18;21:Synth Bass
+PR-D;0787;Monster Bs 7;87;75;19;21:Synth Bass
+PR-D;0788;Monster Bs 8;87;75;20;21:Synth Bass
+PR-D;0789;Bit Bs 1;87;75;21;21:Synth Bass
+PR-D;0790;Bit Bs 2;87;75;22;21:Synth Bass
+PR-D;0791;Bit Bs 3;87;75;23;21:Synth Bass
+PR-D;0792;Bit Bs 4;87;75;24;21:Synth Bass
+PR-D;0793;SuperSawBs 1;87;75;25;21:Synth Bass
+PR-D;0794;SuperSawBs 2;87;75;26;21:Synth Bass
+PR-D;0795;SuperSawBs 3;87;75;27;21:Synth Bass
+PR-D;0796;SuperSawBs 4;87;75;28;21:Synth Bass
+PR-D;0797;SuperSawBs 5;87;75;29;21:Synth Bass
+PR-D;0798;Sync Bs 1;87;75;30;21:Synth Bass
+PR-D;0799;Sync Bs 2;87;75;31;21:Synth Bass
+PR-D;0800;Sync Bs 3;87;75;32;21:Synth Bass
+PR-D;0801;Sync Bs 4;87;75;33;21:Synth Bass
+PR-D;0802;SubOSC Bs 1;87;75;34;21:Synth Bass
+PR-D;0803;SubOSC Bs 2;87;75;35;21:Synth Bass
+PR-D;0804;Ramp Bs;87;75;36;21:Synth Bass
+PR-D;0805;LFO Bs 1;87;75;37;21:Synth Bass
+PR-D;0806;LFO Bs 2;87;75;38;21:Synth Bass
+PR-D;0807;LFO Bs 3;87;75;39;21:Synth Bass
+PR-D;0808;LFO Bs 4;87;75;40;21:Synth Bass
+PR-D;0809;Crackbass;87;75;41;21:Synth Bass
+PR-D;0810;Basschunk;87;75;42;21:Synth Bass
+PR-D;0811;Hi-Energy Bs;87;75;43;21:Synth Bass
+PR-D;0812;Saw Lead 1;87;75;44;34:Synth Lead
+PR-D;0813;Saw Lead 2;87;75;45;34:Synth Lead
+PR-D;0814;Saw Lead 3;87;75;46;34:Synth Lead
+PR-D;0815;Saw Lead 4;87;75;47;34:Synth Lead
+PR-D;0816;Saw Lead 5;87;75;48;34:Synth Lead
+PR-D;0817;Saw Lead 6;87;75;49;34:Synth Lead
+PR-D;0818;Saw Lead 7;87;75;50;34:Synth Lead
+PR-D;0819;Saw Lead 8;87;75;51;34:Synth Lead
+PR-D;0820;Saw Lead 9;87;75;52;34:Synth Lead
+PR-D;0821;Saw Lead 10;87;75;53;34:Synth Lead
+PR-D;0822;Saw Lead 11;87;75;54;34:Synth Lead
+PR-D;0823;Saw Lead 12;87;75;55;34:Synth Lead
+PR-D;0824;Saw Lead 13;87;75;56;34:Synth Lead
+PR-D;0825;Saw Lead 14;87;75;57;34:Synth Lead
+PR-D;0826;Saw Lead 15;87;75;58;34:Synth Lead
+PR-D;0827;Saw Lead 16;87;75;59;34:Synth Lead
+PR-D;0828;Saw Lead 17;87;75;60;34:Synth Lead
+PR-D;0829;Saw Lead 18;87;75;61;34:Synth Lead
+PR-D;0830;Saw Lead 19;87;75;62;34:Synth Lead
+PR-D;0831;Saw Lead 20;87;75;63;34:Synth Lead
+PR-D;0832;Saw Lead 21;87;75;64;34:Synth Lead
+PR-D;0833;Saw Lead 22;87;75;65;34:Synth Lead
+PR-D;0834;Saw Lead 23;87;75;66;34:Synth Lead
+PR-D;0835;Saw Lead 24;87;75;67;34:Synth Lead
+PR-D;0836;Saw Lead 25;87;75;68;34:Synth Lead
+PR-D;0837;Saw Lead 26;87;75;69;34:Synth Lead
+PR-D;0838;Saw Lead 27;87;75;70;34:Synth Lead
+PR-D;0839;Saw Lead 28;87;75;71;34:Synth Lead
+PR-D;0840;Saw Lead 29;87;75;72;34:Synth Lead
+PR-D;0841;Saw Lead 30;87;75;73;34:Synth Lead
+PR-D;0842;Saw Lead 31;87;75;74;34:Synth Lead
+PR-D;0843;Saw Lead 32;87;75;75;34:Synth Lead
+PR-D;0844;Saw Lead 33;87;75;76;34:Synth Lead
+PR-D;0845;Saw Lead 34;87;75;77;34:Synth Lead
+PR-D;0846;Saw Lead 35;87;75;78;34:Synth Lead
+PR-D;0847;Saw Lead 36;87;75;79;34:Synth Lead
+PR-D;0848;Saw Lead 37;87;75;80;34:Synth Lead
+PR-D;0849;Saw Lead 38;87;75;81;34:Synth Lead
+PR-D;0850;Saw Lead 39;87;75;82;34:Synth Lead
+PR-D;0851;Saw Lead 40;87;75;83;34:Synth Lead
+PR-D;0852;Saw Lead 41;87;75;84;34:Synth Lead
+PR-D;0853;Saw Lead 42;87;75;85;34:Synth Lead
+PR-D;0854;Saw Lead 43;87;75;86;34:Synth Lead
+PR-D;0855;Saw Lead 44;87;75;87;34:Synth Lead
+PR-D;0856;Saw Lead 45;87;75;88;34:Synth Lead
+PR-D;0857;CC Saw Ld 1;87;75;89;34:Synth Lead
+PR-D;0858;CC Saw Ld 2;87;75;90;34:Synth Lead
+PR-D;0859;CC Saw Ld 3;87;75;91;34:Synth Lead
+PR-D;0860;CC Saw Ld 4;87;75;92;34:Synth Lead
+PR-D;0861;CC Saw Ld 5;87;75;93;34:Synth Lead
+PR-D;0862;Bad Axe;87;75;94;34:Synth Lead
+PR-D;0863;Buzz Cut;87;75;95;34:Synth Lead
+PR-D;0864;Cutting Lead;87;75;96;34:Synth Lead
+PR-D;0865;Fat GR Lead;87;75;97;34:Synth Lead
+PR-D;0866;Bright Pls;87;75;98;34:Synth Lead
+PR-D;0867;Juicy JP;87;75;99;34:Synth Lead
+PR-D;0868;Abakababra;87;75;100;34:Synth Lead
+PR-D;0869;Crossfire;87;75;101;34:Synth Lead
+PR-D;0870;Borrowed;87;75;102;34:Synth Lead
+PR-D;0871;PulstarLd 1;87;75;103;34:Synth Lead
+PR-D;0872;PulstarLd 2;87;75;104;34:Synth Lead
+PR-D;0873;Dirty Saw Ld;87;75;105;34:Synth Lead
+PR-D;0874;Leadership;87;75;106;34:Synth Lead
+PR-D;0875;Ripping Mini;87;75;107;34:Synth Lead
+PR-D;0876;Love Lead;87;75;108;34:Synth Lead
+PR-D;0877;EQ Lead 1;87;75;109;34:Synth Lead
+PR-D;0878;EQ Lead 2;87;75;110;34:Synth Lead
+PR-D;0879;Stn MG Lead;87;75;111;34:Synth Lead
+PR-D;0880;Octa Juice;87;75;112;34:Synth Lead
+PR-D;0881;CR Lead;87;75;113;34:Synth Lead
+PR-D;0882;Hip Lead;87;75;114;34:Synth Lead
+PR-D;0883;Chubby Lead;87;75;115;34:Synth Lead
+PR-D;0884;Super Saws;87;75;116;34:Synth Lead
+PR-D;0885;NuWave;87;75;117;34:Synth Lead
+PR-D;0886;Flangepig;87;75;118;34:Synth Lead
+PR-D;0887;Bodyart;87;75;119;34:Synth Lead
+PR-D;0888;Buzz Synth;87;75;120;34:Synth Lead
+PR-D;0889;Hard Synth;87;75;121;34:Synth Lead
+PR-D;0890;Dance Saw 1;87;75;122;34:Synth Lead
+PR-D;0891;Dance Saw 2;87;75;123;34:Synth Lead
+PR-D;0892;Funky Lead;87;75;124;34:Synth Lead
+PR-D;0893;WaveShape Ld;87;75;125;34:Synth Lead
+PR-D;0894;Synchro Lead;87;75;126;34:Synth Lead
+PR-D;0895;LFO Saw Ld;87;75;127;34:Synth Lead
+PR-D;0896;Juno Soft Ld;87;75;128;34:Synth Lead
+PR-D;0897;Oct Lead;87;76;1;34:Synth Lead
+PR-D;0898;Slow Lead 1;87;76;2;34:Synth Lead
+PR-D;0899;Slow Lead 2;87;76;3;34:Synth Lead
+PR-D;0900;Slow Lead 3;87;76;4;34:Synth Lead
+PR-D;0901;Slow Lead 4;87;76;5;34:Synth Lead
+PR-D;0902;Slow Lead 5;87;76;6;34:Synth Lead
+PR-D;0903;Slow Lead 6;87;76;7;34:Synth Lead
+PR-D;0904;Slow Lead 7;87;76;8;34:Synth Lead
+PR-D;0905;Slow Lead 8;87;76;9;34:Synth Lead
+PR-D;0906;Slow Lead 9;87;76;10;34:Synth Lead
+PR-D;0907;Slow Lead 10;87;76;11;34:Synth Lead
+PR-D;0908;Slow Lead 11;87;76;12;34:Synth Lead
+PR-D;0909;Slow Lead 12;87;76;13;34:Synth Lead
+PR-D;0910;AnaVox Ld 1;87;76;14;34:Synth Lead
+PR-D;0911;AnaVox Ld 2;87;76;15;34:Synth Lead
+PR-D;0912;AnaVox Ld 3;87;76;16;34:Synth Lead
+PR-D;0913;AnaVox Ld 4;87;76;17;34:Synth Lead
+PR-D;0914;Pulse Lead 1;87;76;18;34:Synth Lead
+PR-D;0915;Pulse Lead 2;87;76;19;34:Synth Lead
+PR-D;0916;Pulse Lead 3;87;76;20;34:Synth Lead
+PR-D;0917;BellSaw Ld 1;87;76;21;34:Synth Lead
+PR-D;0918;BellSaw Ld 2;87;76;22;34:Synth Lead
+PR-D;0919;Bell Lead 1;87;76;23;34:Synth Lead
+PR-D;0920;Bell Lead 2;87;76;24;34:Synth Lead
+PR-D;0921;Bell Lead 3;87;76;25;34:Synth Lead
+PR-D;0922;Dig n D;87;76;26;34:Synth Lead
+PR-D;0923;Juicy Lead 1;87;76;27;34:Synth Lead
+PR-D;0924;Juicy Lead 2;87;76;28;34:Synth Lead
+PR-D;0925;Portament Ld;87;76;29;34:Synth Lead
+PR-D;0926;Reso Juno;87;76;30;34:Synth Lead
+PR-D;0927;Air Lead 1;87;76;31;34:Synth Lead
+PR-D;0928;Air Lead 2;87;76;32;34:Synth Lead
+PR-D;0929;Reso Pulser;87;76;33;34:Synth Lead
+PR-D;0930;Growl Lead;87;76;34;34:Synth Lead
+PR-D;0931;Vintager 1;87;76;35;34:Synth Lead
+PR-D;0932;Vintager 2;87;76;36;34:Synth Lead
+PR-D;0933;Vintager 3;87;76;37;34:Synth Lead
+PR-D;0934;SuperSaw Ld;87;76;38;34:Synth Lead
+PR-D;0935;5th SawLead1;87;76;39;34:Synth Lead
+PR-D;0936;5th SawLead2;87;76;40;34:Synth Lead
+PR-D;0937;Simple Sqr;87;76;41;34:Synth Lead
+PR-D;0938;Round Sqr 1;87;76;42;34:Synth Lead
+PR-D;0939;Round Sqr 2;87;76;43;34:Synth Lead
+PR-D;0940;Square Ld 1;87;76;44;34:Synth Lead
+PR-D;0941;Square Ld 2;87;76;45;34:Synth Lead
+PR-D;0942;Square Ld 3;87;76;46;34:Synth Lead
+PR-D;0943;Square Ld 4;87;76;47;34:Synth Lead
+PR-D;0944;Square Ld 5;87;76;48;34:Synth Lead
+PR-D;0945;Square Ld 6;87;76;49;34:Synth Lead
+PR-D;0946;Square Ld 7;87;76;50;34:Synth Lead
+PR-D;0947;Square Ld 8;87;76;51;34:Synth Lead
+PR-D;0948;Square Ld 9;87;76;52;34:Synth Lead
+PR-D;0949;Square Ld 10;87;76;53;34:Synth Lead
+PR-D;0950;Square Ld 11;87;76;54;34:Synth Lead
+PR-D;0951;Square Ld 12;87;76;55;34:Synth Lead
+PR-D;0952;Square Ld 13;87;76;56;34:Synth Lead
+PR-D;0953;Square Ld 14;87;76;57;34:Synth Lead
+PR-D;0954;Square Ld 15;87;76;58;34:Synth Lead
+PR-D;0955;Squareoff;87;76;59;34:Synth Lead
+PR-D;0956;Brite Sqr 1;87;76;60;34:Synth Lead
+PR-D;0957;Brite Sqr 2;87;76;61;34:Synth Lead
+PR-D;0958;Brite Sqr 3;87;76;62;34:Synth Lead
+PR-D;0959;Cpt McSquare;87;76;63;34:Synth Lead
+PR-D;0960;Tekno Sqr;87;76;64;34:Synth Lead
+PR-D;0961;Octa Square;87;76;65;34:Synth Lead
+PR-D;0962;Pure Square;87;76;66;34:Synth Lead
+PR-D;0963;SynOcarina 1;87;76;67;34:Synth Lead
+PR-D;0964;SynOcarina 2;87;76;68;34:Synth Lead
+PR-D;0965;SynOcarina 3;87;76;69;34:Synth Lead
+PR-D;0966;Crawler;87;76;70;34:Synth Lead
+PR-D;0967;OB Lead 1;87;76;71;34:Synth Lead
+PR-D;0968;OB Lead 2;87;76;72;34:Synth Lead
+PR-D;0969;Tri Lead 1;87;76;73;34:Synth Lead
+PR-D;0970;Tri Lead 2;87;76;74;34:Synth Lead
+PR-D;0971;Tri Lead 3;87;76;75;34:Synth Lead
+PR-D;0972;Tri Lead 4;87;76;76;34:Synth Lead
+PR-D;0973;Softy Lead;87;76;77;34:Synth Lead
+PR-D;0974;Sine Lead 1;87;76;78;34:Synth Lead
+PR-D;0975;Sine Lead 2;87;76;79;34:Synth Lead
+PR-D;0976;Sine Lead 3;87;76;80;34:Synth Lead
+PR-D;0977;Sine Lead 4;87;76;81;34:Synth Lead
+PR-D;0978;Sine Lead 5;87;76;82;34:Synth Lead
+PR-D;0979;OSC-SyncLd 1;87;76;83;34:Synth Lead
+PR-D;0980;OSC-SyncLd 2;87;76;84;34:Synth Lead
+PR-D;0981;OSC-SyncLd 3;87;76;85;34:Synth Lead
+PR-D;0982;OSC-SyncLd 4;87;76;86;34:Synth Lead
+PR-D;0983;OSC-SyncLd 5;87;76;87;34:Synth Lead
+PR-D;0984;OSC-SyncLd 6;87;76;88;34:Synth Lead
+PR-D;0985;OSC-SyncLd 7;87;76;89;34:Synth Lead
+PR-D;0986;OSC-SyncLd 8;87;76;90;34:Synth Lead
+PR-D;0987;Disturb Sync;87;76;91;34:Synth Lead
+PR-D;0988;Digi Lead 1;87;76;92;34:Synth Lead
+PR-D;0989;Digi Lead 2;87;76;93;34:Synth Lead
+PR-D;0990;Waspy Lead;87;76;94;34:Synth Lead
+PR-D;0991;Stitcher;87;76;95;34:Synth Lead
+PR-D;0992;Sweet 5th 1;87;76;96;34:Synth Lead
+PR-D;0993;Sweet 5th 2;87;76;97;34:Synth Lead
+PR-D;0994;SoloNzPeaker;87;76;98;34:Synth Lead
+PR-D;0995;Release Ld;87;76;99;34:Synth Lead
+PR-D;0996;Syn Lead 1;87;76;100;34:Synth Lead
+PR-D;0997;Syn Lead 2;87;76;101;34:Synth Lead
+PR-D;0998;Syn Lead 3;87;76;102;34:Synth Lead
+PR-D;0999;Syn Lead 4;87;76;103;34:Synth Lead
+PR-D;1000;Syn Lead 5;87;76;104;34:Synth Lead
+PR-D;1001;Syn Lead 6;87;76;105;34:Synth Lead
+PR-D;1002;Syn Lead 7;87;76;106;34:Synth Lead
+PR-D;1003;Syn Lead 8;87;76;107;34:Synth Lead
+PR-D;1004;Syn Lead 9;87;76;108;34:Synth Lead
+PR-D;1005;Syn Lead 10;87;76;109;34:Synth Lead
+PR-D;1006;Syn Lead 11;87;76;110;34:Synth Lead
+PR-D;1007;Tekno Ld 1;87;76;111;34:Synth Lead
+PR-D;1008;Tekno Ld 2;87;76;112;34:Synth Lead
+PR-D;1009;Tekno Ld 3;87;76;113;34:Synth Lead
+PR-D;1010;Tekno Ld 4;87;76;114;34:Synth Lead
+PR-D;1011;Tekno Ld 5;87;76;115;34:Synth Lead
+PR-D;1012;Tekno Ld 6;87;76;116;34:Synth Lead
+PR-D;1013;Tekno Ld 7;87;76;117;34:Synth Lead
+PR-D;1014;Tekno Ld 8;87;76;118;34:Synth Lead
+PR-D;1015;Tekno Ld 9;87;76;119;34:Synth Lead
+PR-D;1016;Tekno Ld 10;87;76;120;34:Synth Lead
+PR-D;1017;Tekno Ld 11;87;76;121;34:Synth Lead
+PR-D;1018;Tekno Ld 12;87;76;122;34:Synth Lead
+PR-D;1019;Tekno Ld 13;87;76;123;34:Synth Lead
+PR-D;1020;Tekno Ld 14;87;76;124;34:Synth Lead
+PR-D;1021;Tekno Ld 15;87;76;125;34:Synth Lead
+PR-D;1022;Tekno Ld 16;87;76;126;34:Synth Lead
+PR-D;1023;Tekno Ld 17;87;76;127;34:Synth Lead
+PR-D;1024;Tekno Ld 18;87;76;128;34:Synth Lead
+PR-D;1025;Tekno Ld 19;87;77;1;34:Synth Lead
+PR-D;1026;Tekno Ld 20;87;77;2;34:Synth Lead
+PR-D;1027;Tekno Ld 21;87;77;3;34:Synth Lead
+PR-D;1028;Tekno Ld 22;87;77;4;34:Synth Lead
+PR-D;1029;Tekno Ld 23;87;77;5;34:Synth Lead
+PR-D;1030;Tekno Ld 24;87;77;6;34:Synth Lead
+PR-D;1031;Tekno Ld 25;87;77;7;34:Synth Lead
+PR-D;1032;Tekno Ld 26;87;77;8;34:Synth Lead
+PR-D;1033;Tekno Ld 27;87;77;9;34:Synth Lead
+PR-D;1034;Tekno Ld 28;87;77;10;34:Synth Lead
+PR-D;1035;Tekno Ld 29;87;77;11;34:Synth Lead
+PR-D;1036;Tekno Ld 30;87;77;12;34:Synth Lead
+PR-D;1037;Tekno Ld 31;87;77;13;34:Synth Lead
+PR-D;1038;Tekno Ld 32;87;77;14;34:Synth Lead
+PR-D;1039;Tekno Ld 33;87;77;15;34:Synth Lead
+PR-D;1040;Tekno Ld 34;87;77;16;34:Synth Lead
+PR-D;1041;Tekno Ld 35;87;77;17;34:Synth Lead
+PR-D;1042;Tekno Ld 36;87;77;18;34:Synth Lead
+PR-D;1043;JP80 Ring-80;87;77;19;34:Synth Lead
+PR-D;1044;Distroubled;87;77;20;34:Synth Lead
+PR-D;1045;Hover Dive 1;87;77;21;34:Synth Lead
+PR-D;1046;Hover Dive 2;87;77;22;34:Synth Lead
+PR-D;1047;OhWowWow;87;77;23;34:Synth Lead
+PR-D;1048;Broken Lead;87;77;24;34:Synth Lead
+PR-D;1049;FX 1;87;77;25;45:Sound FX
+PR-D;1050;FX 2;87;77;26;45:Sound FX
+PR-D;1051;FX 3;87;77;27;45:Sound FX
+PR-D;1052;FX 4;87;77;28;45:Sound FX
+PR-D;1053;FX 5;87;77;29;45:Sound FX
+PR-D;1054;FX 6;87;77;30;45:Sound FX
+PR-D;1055;FX 7;87;77;31;45:Sound FX
+PR-D;1056;FX 8;87;77;32;45:Sound FX
+PR-D;1057;FX 9;87;77;33;45:Sound FX
+PR-D;1058;FX 10;87;77;34;45:Sound FX
+PR-D;1059;FX 11;87;77;35;45:Sound FX
+PR-D;1060;FX 12;87;77;36;45:Sound FX
+PR-D;1061;FX 13;87;77;37;45:Sound FX
+PR-D;1062;FX 14;87;77;38;45:Sound FX
+PR-D;1063;FX 15;87;77;39;45:Sound FX
+PR-D;1064;FX 16;87;77;40;45:Sound FX
+PR-D;1065;FX 17;87;77;41;45:Sound FX
+PR-D;1066;FX 18;87;77;42;45:Sound FX
+PR-D;1067;FX 19;87;77;43;45:Sound FX
+PR-D;1068;FX 20;87;77;44;45:Sound FX
+PR-D;1069;FX 21;87;77;45;45:Sound FX
+PR-D;1070;FX 22;87;77;46;45:Sound FX
+PR-D;1071;FX 23;87;77;47;45:Sound FX
+PR-D;1072;FX 24;87;77;48;45:Sound FX
+PR-D;1073;FX 25;87;77;49;45:Sound FX
+PR-D;1074;Zapper;87;77;50;45:Sound FX
+PR-D;1075;Sci-Fi Sweep;87;77;51;45:Sound FX
+PR-D;1076;War Drum;87;77;52;45:Sound FX
+PR-D;1077;Vox FX;87;77;53;45:Sound FX
+PR-D;1078;Atomspheric;87;77;54;45:Sound FX
+PR-D;1079;Angry Words;87;77;55;45:Sound FX
+PR-D;1080;F6 = Critter;87;77;56;45:Sound FX
+PR-D;1081;FreeJazz;87;77;57;45:Sound FX
+PR-D;1082;FM EP 1;87;77;58;4:E.Piano1
+PR-D;1083;FM EP 2;87;77;59;4:E.Piano1
+PR-D;1084;FM EP 3;87;77;60;4:E.Piano1
+PR-D;1085;FM EP 4;87;77;61;4:E.Piano1
+PR-D;1086;FM EP 5;87;77;62;4:E.Piano1
+PR-D;1087;FM EP 6;87;77;63;4:E.Piano1
+PR-D;1088;FM EPhaser;87;77;64;4:E.Piano1
+PR-D;1089;EP Belle;87;77;65;4:E.Piano1
+PR-D;1090;80*s EP;87;77;66;4:E.Piano1
+PR-D;1091;Spirit Tine;87;77;67;4:E.Piano1
+PR-D;1092;70*s E.Org 1;87;77;68;6:E.Organ
+PR-D;1093;70*s E.Org 2;87;77;69;6:E.Organ
+PR-D;1094;Theater 1;87;77;70;6:E.Organ
+PR-D;1095;Theater 2;87;77;71;6:E.Organ
+PR-D;1096;Theater 3;87;77;72;6:E.Organ
+PR-D;1097;Pulse Clav;87;77;73;10:Clav
+PR-D;1098;Toy Box 1;87;77;74;15:Mallet
+PR-D;1099;Toy Box 2;87;77;75;15:Mallet
+PR-D;1100;Ethno Keys;87;77;76;15:Mallet
+PR-D;1101;Mood String;87;77;77;24:Ensemble Strings
+PR-D;1102;Orch Hit;87;77;78;44:Hit
+PR-D;1103;Philly Hit 1;87;77;79;44:Hit
+PR-D;1104;Philly Hit 2;87;77;80;44:Hit
+PR-D;1105;Philly Hit 3;87;77;81;44:Hit
+PR-D;1106;Philly Hit 4;87;77;82;44:Hit
+PR-D;1107;House Hit 1;87;77;83;44:Hit
+PR-D;1108;House Hit 2;87;77;84;44:Hit
+PR-D;1109;LoFi Hit;87;77;85;44:Hit
+PR-E;0001;128voicePno;87;78;1;1:Ac.Piano
+PR-E;0002;Bright Piano;87;78;2;1:Ac.Piano
+PR-E;0003;Classique;87;78;3;1:Ac.Piano
+PR-E;0004;Nice Piano;87;78;4;1:Ac.Piano
+PR-E;0005;Piano Thang;87;78;5;1:Ac.Piano
+PR-E;0006;Power Grand;87;78;6;2:Pop Piano
+PR-E;0007;House Piano;87;78;7;2:Pop Piano
+PR-E;0008;E.Grand;87;78;8;2:Pop Piano
+PR-E;0009;MIDIed Grand;87;78;9;2:Pop Piano
+PR-E;0010;Piano Blend;87;78;10;2:Pop Piano
+PR-E;0011;West Coast;87;78;11;2:Pop Piano
+PR-E;0012;PianoStrings;87;78;12;1:Ac.Piano
+PR-E;0013;Bs/Pno+Brs;87;78;13;1:Ac.Piano
+PR-E;0014;Water EP;87;78;14;4:E.Piano1
+PR-E;0015;S.A.E.P.;87;78;15;5:E.Piano2
+PR-E;0016;SA EP 1;87;78;16;4:E.Piano1
+PR-E;0017;SA EP 2;87;78;17;4:E.Piano1
+PR-E;0018;Stiky EP;87;78;18;5:E.Piano2
+PR-E;0019;Dig EP;87;78;19;5:E.Piano2
+PR-E;0020;Nylon EPiano;87;78;20;5:E.Piano2
+PR-E;0021;Nylon EP;87;78;21;5:E.Piano2
+PR-E;0022;EP Mix;87;78;22;4:E.Piano1
+PR-E;0023;Psycho EP;87;78;23;4:E.Piano1
+PR-E;0024;Tremo EP;87;78;24;4:E.Piano1
+PR-E;0025;MK-80 EP;87;78;25;5:E.Piano2
+PR-E;0026;MK-80 Phaser;87;78;26;5:E.Piano2
+PR-E;0027;Delicate EP;87;78;27;5:E.Piano2
+PR-E;0028;Octa EP 1;87;78;28;5:E.Piano2
+PR-E;0029;Octa EP 2;87;78;29;5:E.Piano2
+PR-E;0030;JV EP+;87;78;30;5:E.Piano2
+PR-E;0031;EP+Mod Pad;87;78;31;5:E.Piano2
+PR-E;0032;Mr.Mellow;87;78;32;5:E.Piano2
+PR-E;0033;Comp Clav;87;78;33;10:Clav
+PR-E;0034;Klavinet;87;78;34;10:Clav
+PR-E;0035;Winger Clav;87;78;35;10:Clav
+PR-E;0036;Phaze Clav 1;87;78;36;10:Clav
+PR-E;0037;Phaze Clav 2;87;78;37;10:Clav
+PR-E;0038;Phuzz Clav;87;78;38;10:Clav
+PR-E;0039;Chorus Clav;87;78;39;10:Clav
+PR-E;0040;Claviduck;87;78;40;10:Clav
+PR-E;0041;Velo-Rez Clv;87;78;41;10:Clav
+PR-E;0042;Clavicembalo;87;78;42;10:Clav
+PR-E;0043;Analog Clav1;87;78;43;10:Clav
+PR-E;0044;Analog Clav2;87;78;44;10:Clav
+PR-E;0045;Metal Clav;87;78;45;10:Clav
+PR-E;0046;Full Stops;87;78;46;6:E.Organ
+PR-E;0047;Ballad B;87;78;47;6:E.Organ
+PR-E;0048;Mellow Bars;87;78;48;6:E.Organ
+PR-E;0049;AugerMentive;87;78;49;6:E.Organ
+PR-E;0050;Perky B;87;78;50;6:E.Organ
+PR-E;0051;The Big Spin;87;78;51;6:E.Organ
+PR-E;0052;Gospel Spin;87;78;52;6:E.Organ
+PR-E;0053;Roller Spin;87;78;53;6:E.Organ
+PR-E;0054;Rocker Spin;87;78;54;6:E.Organ
+PR-E;0055;Tone Wh.Solo;87;78;55;6:E.Organ
+PR-E;0056;Purple Spin;87;78;56;6:E.Organ
+PR-E;0057;60*s LeadORG;87;78;57;6:E.Organ
+PR-E;0058;Assalt Organ;87;78;58;6:E.Organ
+PR-E;0059;D-50 Organ;87;78;59;6:E.Organ
+PR-E;0060;Cathedral;87;78;60;7:Pipe Organ
+PR-E;0061;Church Pipes;87;78;61;7:Pipe Organ
+PR-E;0062;Poly Key;87;78;62;38:Synth PolyKey
+PR-E;0063;Poly Saws;87;78;63;38:Synth PolyKey
+PR-E;0064;Poly Pulse;87;78;64;38:Synth PolyKey
+PR-E;0065;Dual Profs;87;78;65;38:Synth PolyKey
+PR-E;0066;Saw Mass;87;78;66;38:Synth PolyKey
+PR-E;0067;Poly Split;87;78;67;38:Synth PolyKey
+PR-E;0068;Poly Brass;87;78;68;35:Synth Brass
+PR-E;0069;Stackoid;87;78;69;38:Synth PolyKey
+PR-E;0070;Poly Rock;87;78;70;38:Synth PolyKey
+PR-E;0071;D-50 Stack;87;78;71;37:Synth Bellpad
+PR-E;0072;Fantasia JV;87;78;72;37:Synth Bellpad
+PR-E;0073;Jimmee Dee;87;78;73;37:Synth Bellpad
+PR-E;0074;Heavenals;87;78;74;37:Synth Bellpad
+PR-E;0075;Mallet Pad;87;78;75;37:Synth Bellpad
+PR-E;0076;Huff N Stuff;87;78;76;37:Synth Bellpad
+PR-E;0077;Puff 1080;87;78;77;38:Synth PolyKey
+PR-E;0078;BellVox 1080;87;78;78;37:Synth Bellpad
+PR-E;0079;Fantasy Vox;87;78;79;37:Synth Bellpad
+PR-E;0080;Square Keys;87;78;80;38:Synth PolyKey
+PR-E;0081;Childlike;87;78;81;14:Bell
+PR-E;0082;Music Box;87;78;82;14:Bell
+PR-E;0083;Toy Box;87;78;83;14:Bell
+PR-E;0084;Wave Bells;87;78;84;14:Bell
+PR-E;0085;Tria Bells;87;78;85;14:Bell
+PR-E;0086;Beauty Bells;87;78;86;14:Bell
+PR-E;0087;Music Bells;87;78;87;14:Bell
+PR-E;0088;Pretty Bells;87;78;88;14:Bell
+PR-E;0089;Pulse Key;87;78;89;38:Synth PolyKey
+PR-E;0090;Wide Tubular;87;78;90;14:Bell
+PR-E;0091;AmbienceVibe;87;78;91;15:Mallet
+PR-E;0092;Warm Vibes;87;78;92;15:Mallet
+PR-E;0093;Dyna Marimba;87;78;93;15:Mallet
+PR-E;0094;Bass Marimba;87;78;94;15:Mallet
+PR-E;0095;Nomad Perc;87;78;95;15:Mallet
+PR-E;0096;Ethno Metals;87;78;96;14:Bell
+PR-E;0097;Islands Mlt;87;78;97;15:Mallet
+PR-E;0098;Steelin Keys;87;78;98;15:Mallet
+PR-E;0099;Steel Drums;87;78;99;15:Mallet
+PR-E;0100;Voicey Pizz;87;78;100;23:Solo Strings
+PR-E;0101;Sitar;87;78;101;22:Plucked/Stroke
+PR-E;0102;Drone Split;87;78;102;22:Plucked/Stroke
+PR-E;0103;Ethnopluck;87;78;103;22:Plucked/Stroke
+PR-E;0104;Jamisen;87;78;104;22:Plucked/Stroke
+PR-E;0105;Dulcimer;87;78;105;22:Plucked/Stroke
+PR-E;0106;East Melody;87;78;106;22:Plucked/Stroke
+PR-E;0107;MandolinTrem;87;78;107;22:Plucked/Stroke
+PR-E;0108;Nylon Gtr;87;78;108;16:Ac.Guitar
+PR-E;0109;Gtr Strings;87;78;109;16:Ac.Guitar
+PR-E;0110;Steel Away;87;78;110;16:Ac.Guitar
+PR-E;0111;Heavenly Gtr;87;78;111;16:Ac.Guitar
+PR-E;0112;12str Gtr 1;87;78;112;16:Ac.Guitar
+PR-E;0113;12str Gtr 2;87;78;113;16:Ac.Guitar
+PR-E;0114;Jz Gtr Hall;87;78;114;17:E.Guitar
+PR-E;0115;LetterFrmPat;87;78;115;17:E.Guitar
+PR-E;0116;Jazz Scat + Gtr;87;78;116;17:E.Guitar
+PR-E;0117;Lounge Gig;87;78;117;17:E.Guitar
+PR-E;0118;JC ST Gtr;87;78;118;17:E.Guitar
+PR-E;0119;Twin ST Gtr;87;78;119;17:E.Guitar
+PR-E;0120;JV ST Gtr;87;78;120;17:E.Guitar
+PR-E;0121;Syn ST Gtr;87;78;121;17:E.Guitar
+PR-E;0122;Rotary Gtr;87;78;122;17:E.Guitar
+PR-E;0123;Muted Gtr;87;78;123;17:E.Guitar
+PR-E;0124;SwitchOnMute;87;78;124;17:E.Guitar
+PR-E;0125;Power Trip;87;78;125;18:Dist.Guitar
+PR-E;0126;Crunch Split;87;78;126;18:Dist.Guitar
+PR-E;0127;Rezodrive;87;78;127;18:Dist.Guitar
+PR-E;0128;RockYurSocks;87;78;128;18:Dist.Guitar
+PR-E;0129;Dist Gtr 1;87;79;1;18:Dist.Guitar
+PR-E;0130;Dist Gtr 2;87;79;2;18:Dist.Guitar
+PR-E;0131;R&R Chunk;87;79;3;18:Dist.Guitar
+PR-E;0132;Phripphuzz;87;79;4;18:Dist.Guitar
+PR-E;0133;Grungeroni;87;79;5;18:Dist.Guitar
+PR-E;0134;Black Widow;87;79;6;18:Dist.Guitar
+PR-E;0135;Velo-Wah Gtr;87;79;7;17:E.Guitar
+PR-E;0136;Mod-Wah Gtr;87;79;8;18:Dist.Guitar
+PR-E;0137;Pick Bass;87;79;9;20:E.Bass
+PR-E;0138;Hip Bass;87;79;10;20:E.Bass
+PR-E;0139;Perc.Bass;87;79;11;20:E.Bass
+PR-E;0140;Homey Bass;87;79;12;20:E.Bass
+PR-E;0141;Finger Bass;87;79;13;20:E.Bass
+PR-E;0142;Nylon Bass;87;79;14;19:Ac.Bass
+PR-E;0143;Ac.Upright;87;79;15;19:Ac.Bass
+PR-E;0144;Wet Fretls;87;79;16;20:E.Bass
+PR-E;0145;Fretls Dry;87;79;17;20:E.Bass
+PR-E;0146;Slap Bass 1;87;79;18;20:E.Bass
+PR-E;0147;Slap Bass 2;87;79;19;20:E.Bass
+PR-E;0148;Slap Bass 3;87;79;20;20:E.Bass
+PR-E;0149;Slap Bass 4;87;79;21;20:E.Bass
+PR-E;0150;4 Pole Bass 1;87;79;22;21:Synth Bass
+PR-E;0151;Tick Bass;87;79;23;21:Synth Bass
+PR-E;0152;House Bass;87;79;24;21:Synth Bass
+PR-E;0153;Mondo Bass;87;79;25;21:Synth Bass
+PR-E;0154;Clk AnalogBs;87;79;26;21:Synth Bass
+PR-E;0155;Bass In Face;87;79;27;21:Synth Bass
+PR-E;0156;101Bass;87;79;28;21:Synth Bass
+PR-E;0157;Noiz Bass;87;79;29;21:Synth Bass
+PR-E;0158;Super Jup Bs;87;79;30;21:Synth Bass
+PR-E;0159;Occitan Bass;87;79;31;21:Synth Bass
+PR-E;0160;Hugo Bass;87;79;32;21:Synth Bass
+PR-E;0161;Multi Bass;87;79;33;21:Synth Bass
+PR-E;0162;Moist Bass;87;79;34;21:Synth Bass
+PR-E;0163;BritelowBass;87;79;35;21:Synth Bass
+PR-E;0164;Untamed Bass;87;79;36;21:Synth Bass
+PR-E;0165;Rubber Bass;87;79;37;21:Synth Bass
+PR-E;0166;Stereoww Bs;87;79;38;21:Synth Bass
+PR-E;0167;Wonder Bass;87;79;39;21:Synth Bass
+PR-E;0168;Deep Bass;87;79;40;21:Synth Bass
+PR-E;0169;Super JX Bs;87;79;41;21:Synth Bass
+PR-E;0170;W<RED>-Bass;87;79;42;21:Synth Bass
+PR-E;0171;HI-Ring Bass;87;79;43;21:Synth Bass
+PR-E;0172;Euro Bass;87;79;44;21:Synth Bass
+PR-E;0173;SinusoidRave;87;79;45;21:Synth Bass
+PR-E;0174;Alternative;87;79;46;42:Pulsating
+PR-E;0175;Acid Line;87;79;47;42:Pulsating
+PR-E;0176;Auto TB-303;87;79;48;34:Synth Lead
+PR-E;0177;Hihat Tekno;87;79;49;39:Synth FX
+PR-E;0178;Velo Tekno 1;87;79;50;34:Synth Lead
+PR-E;0179;Raggatronic;87;79;51;42:Pulsating
+PR-E;0180;Blade Racer;87;79;52;42:Pulsating
+PR-E;0181;S&H Pad;87;79;53;42:Pulsating
+PR-E;0182;Syncrosonix;87;79;54;42:Pulsating
+PR-E;0183;Fooled Again;87;79;55;42:Pulsating
+PR-E;0184;Alive;87;79;56;42:Pulsating
+PR-E;0185;Velo Tekno 2;87;79;57;40:Synth Seq/Pop
+PR-E;0186;Rezoid;87;79;58;38:Synth PolyKey
+PR-E;0187;Raverborg;87;79;59;34:Synth Lead
+PR-E;0188;Blow Hit;87;79;60;44:Hit
+PR-E;0189;Hammer Bell;87;79;61;14:Bell
+PR-E;0190;Seq Mallet;87;79;62;40:Synth Seq/Pop
+PR-E;0191;Intentions;87;79;63;38:Synth PolyKey
+PR-E;0192;Pick It;87;79;64;38:Synth PolyKey
+PR-E;0193;Analog Seq;87;79;65;40:Synth Seq/Pop
+PR-E;0194;Impact Vox;87;79;66;38:Synth PolyKey
+PR-E;0195;TeknoSoloVox;87;79;67;38:Synth PolyKey
+PR-E;0196;X-Mod Man;87;79;68;42:Pulsating
+PR-E;0197;Paz <==> Zap;87;79;69;42:Pulsating
+PR-E;0198;4 Hits 4 You;87;79;70;44:Hit
+PR-E;0199;Impact;87;79;71;44:Hit
+PR-E;0200;Phase Hit;87;79;72;44:Hit
+PR-E;0201;Tekno Hit 1;87;79;73;44:Hit
+PR-E;0202;Tekno Hit 2;87;79;74;44:Hit
+PR-E;0203;Tekno Hit 3;87;79;75;44:Hit
+PR-E;0204;Reverse Hit;87;79;76;44:Hit
+PR-E;0205;SquareLead 1;87;79;77;34:Synth Lead
+PR-E;0206;SquareLead 2;87;79;78;34:Synth Lead
+PR-E;0207;You and Luck;87;79;79;34:Synth Lead
+PR-E;0208;Belly Lead;87;79;80;34:Synth Lead
+PR-E;0209;WhistlinAtom;87;79;81;34:Synth Lead
+PR-E;0210;Edye Boost;87;79;82;34:Synth Lead
+PR-E;0211;MG Solo;87;79;83;34:Synth Lead
+PR-E;0212;FXM Saw Lead;87;79;84;34:Synth Lead
+PR-E;0213;Sawteeth;87;79;85;34:Synth Lead
+PR-E;0214;Smoothe;87;79;86;34:Synth Lead
+PR-E;0215;MG Lead;87;79;87;34:Synth Lead
+PR-E;0216;MG Interval;87;79;88;34:Synth Lead
+PR-E;0217;Pulse Lead 1;87;79;89;34:Synth Lead
+PR-E;0218;Pulse Lead 2;87;79;90;34:Synth Lead
+PR-E;0219;Little Devil;87;79;91;34:Synth Lead
+PR-E;0220;Loud SynLead;87;79;92;34:Synth Lead
+PR-E;0221;Analog Lead;87;79;93;34:Synth Lead
+PR-E;0222;5th Lead;87;79;94;34:Synth Lead
+PR-E;0223;Flute;87;79;95;29:Flute
+PR-E;0224;Piccolo;87;79;96;29:Flute
+PR-E;0225;VOX Flute;87;79;97;29:Flute
+PR-E;0226;Air Lead;87;79;98;29:Flute
+PR-E;0227;Pan Pipes;87;79;99;29:Flute
+PR-E;0228;Airplaaane;87;79;100;38:Synth PolyKey
+PR-E;0229;Taj Mahal;87;79;101;29:Flute
+PR-E;0230;Raya Shaku;87;79;102;29:Flute
+PR-E;0231;Oboe mf;87;79;103;28:Wind
+PR-E;0232;Oboe Express;87;79;104;28:Wind
+PR-E;0233;Clarinet mp;87;79;105;28:Wind
+PR-E;0234;ClariExpress;87;79;106;28:Wind
+PR-E;0235;Mitzva Split;87;79;107;28:Wind
+PR-E;0236;ChamberWinds;87;79;108;28:Wind
+PR-E;0237;ChamberWoods;87;79;109;28:Wind
+PR-E;0238;Film Orch;87;79;110;25:Orchestral
+PR-E;0239;Sop.Sax mf;87;79;111;30:Sax
+PR-E;0240;Alto Sax;87;79;112;30:Sax
+PR-E;0241;AltoLead Sax;87;79;113;30:Sax
+PR-E;0242;Tenor Sax;87;79;114;30:Sax
+PR-E;0243;Baritone Sax;87;79;115;30:Sax
+PR-E;0244;Take A Tenor;87;79;116;30:Sax
+PR-E;0245;Sax Section;87;79;117;30:Sax
+PR-E;0246;Bigband Sax;87;79;118;30:Sax
+PR-E;0247;Harmonica;87;79;119;13:Harmonica
+PR-E;0248;Harmo Blues;87;79;120;13:Harmonica
+PR-E;0249;BluesHarp;87;79;121;13:Harmonica
+PR-E;0250;Hillbillys;87;79;122;13:Harmonica
+PR-E;0251;French Bags;87;79;123;28:Wind
+PR-E;0252;Majestic Tpt;87;79;124;26:Solo Brass
+PR-E;0253;Voluntare;87;79;125;26:Solo Brass
+PR-E;0254;2Trumpets;87;79;126;27:Ensemble Brass
+PR-E;0255;Tpt Sect;87;79;127;27:Ensemble Brass
+PR-E;0256;Mute TP mod;87;79;128;26:Solo Brass
+PR-E;0257;Harmon Mute;87;80;1;26:Solo Brass
+PR-E;0258;Tp&Sax Sect;87;80;2;27:Ensemble Brass
+PR-E;0259;Sax+Tp+Tb;87;80;3;27:Ensemble Brass
+PR-E;0260;Brass Sect;87;80;4;27:Ensemble Brass
+PR-E;0261;Trombone;87;80;5;26:Solo Brass
+PR-E;0262;Hybrid Bones;87;80;6;27:Ensemble Brass
+PR-E;0263;Noble Horns;87;80;7;27:Ensemble Brass
+PR-E;0264;Massed Horns;87;80;8;27:Ensemble Brass
+PR-E;0265;Horn Swell;87;80;9;27:Ensemble Brass
+PR-E;0266;Brass It!;87;80;10;35:Synth Brass
+PR-E;0267;Brass Attack;87;80;11;35:Synth Brass
+PR-E;0268;Archimede;87;80;12;35:Synth Brass
+PR-E;0269;Rugby Horn;87;80;13;35:Synth Brass
+PR-E;0270;MKS-80 Brass;87;80;14;35:Synth Brass
+PR-E;0271;True ANALOG;87;80;15;35:Synth Brass
+PR-E;0272;Dark Vox;87;80;16;32:Vox/Choir
+PR-E;0273;RandomVowels;87;80;17;32:Vox/Choir
+PR-E;0274;Angels Sing;87;80;18;32:Vox/Choir
+PR-E;0275;Pvox Oooze;87;80;19;32:Vox/Choir
+PR-E;0276;Longing...;87;80;20;32:Vox/Choir
+PR-E;0277;Arasian Morn;87;80;21;32:Vox/Choir
+PR-E;0278;Beauty Vox;87;80;22;32:Vox/Choir
+PR-E;0279;Mary-AnneVox;87;80;23;32:Vox/Choir
+PR-E;0280;Belltree Vox;87;80;24;32:Vox/Choir
+PR-E;0281;Vox Panner;87;80;25;32:Vox/Choir
+PR-E;0282;Spaced Voxx;87;80;26;32:Vox/Choir
+PR-E;0283;Glass Voices;87;80;27;32:Vox/Choir
+PR-E;0284;Tubular Vox;87;80;28;32:Vox/Choir
+PR-E;0285;Velo Voxx;87;80;29;32:Vox/Choir
+PR-E;0286;Wavox;87;80;30;32:Vox/Choir
+PR-E;0287;Doos;87;80;31;33:Scat
+PR-E;0288;Synvox Comps;87;80;32;32:Vox/Choir
+PR-E;0289;Vocal Oohz;87;80;33;32:Vox/Choir
+PR-E;0290;LFO Vox;87;80;34;42:Pulsating
+PR-E;0291;St.Strings;87;80;35;24:Ensemble Strings
+PR-E;0292;Warm Strings;87;80;36;24:Ensemble Strings
+PR-E;0293;Somber Str;87;80;37;24:Ensemble Strings
+PR-E;0294;Marcato;87;80;38;24:Ensemble Strings
+PR-E;0295;Bright Str;87;80;39;24:Ensemble Strings
+PR-E;0296;String Ens;87;80;40;24:Ensemble Strings
+PR-E;0297;TremoloStrng;87;80;41;24:Ensemble Strings
+PR-E;0298;Chambers;87;80;42;24:Ensemble Strings
+PR-E;0299;ViolinCello;87;80;43;23:Solo Strings
+PR-E;0300;Symphonique;87;80;44;25:Orchestral
+PR-E;0301;Film Octaves;87;80;45;24:Ensemble Strings
+PR-E;0302;Film Layers;87;80;46;25:Orchestral
+PR-E;0303;Bass Pizz;87;80;47;24:Ensemble Strings
+PR-E;0304;Real Pizz;87;80;48;24:Ensemble Strings
+PR-E;0305;Harp On It;87;80;49;22:Plucked/Stroke
+PR-E;0306;Harp;87;80;50;22:Plucked/Stroke
+PR-E;0307;JP-8 Str 1;87;80;51;36:Synth Pad/Str
+PR-E;0308;JP-8 Str 2;87;80;52;36:Synth Pad/Str
+PR-E;0309;E-Motion Pad;87;80;53;36:Synth Pad/Str
+PR-E;0310;JP-8 Str 3;87;80;54;36:Synth Pad/Str
+PR-E;0311;Vintage Orch;87;80;55;36:Synth Pad/Str
+PR-E;0312;JUNO Strings;87;80;56;36:Synth Pad/Str
+PR-E;0313;Gigantalog;87;80;57;36:Synth Pad/Str
+PR-E;0314;PWM Strings;87;80;58;36:Synth Pad/Str
+PR-E;0315;Warmth;87;80;59;36:Synth Pad/Str
+PR-E;0316;ORBit Pad;87;80;60;36:Synth Pad/Str
+PR-E;0317;Deep Strings;87;80;61;36:Synth Pad/Str
+PR-E;0318;Pulsify;87;80;62;36:Synth Pad/Str
+PR-E;0319;Pulse Pad;87;80;63;36:Synth Pad/Str
+PR-E;0320;Greek Power;87;80;64;36:Synth Pad/Str
+PR-E;0321;Harmonicum;87;80;65;36:Synth Pad/Str
+PR-E;0322;D-50 Heaven;87;80;66;36:Synth Pad/Str
+PR-E;0323;Afro Horns;87;80;67;36:Synth Pad/Str
+PR-E;0324;Pop Pad;87;80;68;36:Synth Pad/Str
+PR-E;0325;Dreamesque;87;80;69;36:Synth Pad/Str
+PR-E;0326;Square Pad;87;80;70;36:Synth Pad/Str
+PR-E;0327;JP-8 Hollow;87;80;71;36:Synth Pad/Str
+PR-E;0328;JP-8Haunting;87;80;72;36:Synth Pad/Str
+PR-E;0329;Heirborne;87;80;73;36:Synth Pad/Str
+PR-E;0330;Hush Pad;87;80;74;36:Synth Pad/Str
+PR-E;0331;Jet Pad 1;87;80;75;36:Synth Pad/Str
+PR-E;0332;Jet Pad 2;87;80;76;36:Synth Pad/Str
+PR-E;0333;Phaze Pad;87;80;77;36:Synth Pad/Str
+PR-E;0334;Phaze Str;87;80;78;36:Synth Pad/Str
+PR-E;0335;Jet Str Ens;87;80;79;36:Synth Pad/Str
+PR-E;0336;Pivotal Pad;87;80;80;36:Synth Pad/Str
+PR-E;0337;3D Flanged;87;80;81;36:Synth Pad/Str
+PR-E;0338;Fantawine;87;80;82;36:Synth Pad/Str
+PR-E;0339;Glassy Pad;87;80;83;36:Synth Pad/Str
+PR-E;0340;Moving Glass;87;80;84;36:Synth Pad/Str
+PR-E;0341;Glasswaves;87;80;85;36:Synth Pad/Str
+PR-E;0342;Shiny Pad;87;80;86;36:Synth Pad/Str
+PR-E;0343;ShiftedGlass;87;80;87;36:Synth Pad/Str
+PR-E;0344;Chime Pad;87;80;88;36:Synth Pad/Str
+PR-E;0345;Spin Pad;87;80;89;36:Synth Pad/Str
+PR-E;0346;Rotary Pad;87;80;90;36:Synth Pad/Str
+PR-E;0347;Dawn 2 Dusk;87;80;91;36:Synth Pad/Str
+PR-E;0348;Aurora;87;80;92;36:Synth Pad/Str
+PR-E;0349;Strobe Mode;87;80;93;36:Synth Pad/Str
+PR-E;0350;Albion;87;80;94;42:Pulsating
+PR-E;0351;Running Pad;87;80;95;42:Pulsating
+PR-E;0352;Stepped Pad;87;80;96;42:Pulsating
+PR-E;0353;Random Pad;87;80;97;42:Pulsating
+PR-E;0354;SoundtrkDANC;87;80;98;42:Pulsating
+PR-E;0355;Flying Waltz;87;80;99;42:Pulsating
+PR-E;0356;Vanishing;87;80;100;39:Synth FX
+PR-E;0357;5th Sweep;87;80;101;36:Synth Pad/Str
+PR-E;0358;Phazweep;87;80;102;42:Pulsating
+PR-E;0359;Big BPF;87;80;103;38:Synth PolyKey
+PR-E;0360;MG Sweep;87;80;104;38:Synth PolyKey
+PR-E;0361;CeremonyTimp;87;80;105;47:Percussion
+PR-E;0362;Dyno Toms;87;80;106;47:Percussion
+PR-E;0363;Sands ofTime;87;80;107;39:Synth FX
+PR-E;0364;Inertia;87;80;108;39:Synth FX
+PR-E;0365;Vektogram;87;80;109;39:Synth FX
+PR-E;0366;Crash Pad;87;80;110;36:Synth Pad/Str
+PR-E;0367;Feedback VOX;87;80;111;36:Synth Pad/Str
+PR-E;0368;Cascade;87;80;112;39:Synth FX
+PR-E;0369;Shattered;87;80;113;39:Synth FX
+PR-E;0370;NextFrontier;87;80;114;39:Synth FX
+PR-E;0371;Pure Tibet;87;80;115;39:Synth FX
+PR-E;0372;Chime Wash;87;80;116;39:Synth FX
+PR-E;0373;Night Shade;87;80;117;39:Synth FX
+PR-E;0374;Tortured;87;80;118;39:Synth FX
+PR-E;0375;Dissimilate;87;80;119;39:Synth FX
+PR-E;0376;Dunes;87;80;120;39:Synth FX
+PR-E;0377;Ocean Floor;87;80;121;39:Synth FX
+PR-E;0378;Cyber Space;87;80;122;39:Synth FX
+PR-E;0379;Biosphere;87;80;123;39:Synth FX
+PR-E;0380;Variable Run;87;80;124;43:Beat&Groove
+PR-E;0381;Ice Hall;87;80;125;36:Synth Pad/Str
+PR-E;0382;ComputerRoom;87;80;126;39:Synth FX
+PR-E;0383;Inverted;87;80;127;39:Synth FX
+PR-E;0384;Terminate;87;80;128;39:Synth FX
+PR-E;0385;Echo Piano;87;81;1;1:Ac.Piano
+PR-E;0386;Upright Pno;87;81;2;1:Ac.Piano
+PR-E;0387;RD-1000;87;81;3;2:Pop Piano
+PR-E;0388;Player*s EP;87;81;4;4:E.Piano1
+PR-E;0389;D-50 EP;87;81;5;5:E.Piano2
+PR-E;0390;Innocent EP;87;81;6;5:E.Piano2
+PR-E;0391;Echo EP;87;81;7;5:E.Piano2
+PR-E;0392;See-Thru EP;87;81;8;5:E.Piano2
+PR-E;0393;FM BellPiano;87;81;9;5:E.Piano2
+PR-E;0394;Ring E.Piano;87;81;10;5:E.Piano2
+PR-E;0395;Soap Opera;87;81;11;6:E.Organ
+PR-E;0396;Dirty Organ;87;81;12;6:E.Organ
+PR-E;0397;Surf*s Up!;87;81;13;6:E.Organ
+PR-E;0398;Organesque;87;81;14;6:E.Organ
+PR-E;0399;pp Harmonium;87;81;15;7:Pipe Organ
+PR-E;0400;PieceOfCheez;87;81;16;10:Clav
+PR-E;0401;Harpsy Clav;87;81;17;10:Clav
+PR-E;0402;Exotic Velo;87;81;18;15:Mallet
+PR-E;0403;HolidayCheer;87;81;19;37:Synth Bellpad
+PR-E;0404;Morning Lite;87;81;20;37:Synth Bellpad
+PR-E;0405;Prefab Chime;87;81;21;14:Bell
+PR-E;0406;Belfry Chime;87;81;22;14:Bell
+PR-E;0407;Stacc.Heaven;87;81;23;37:Synth Bellpad
+PR-E;0408;2.2 Bell Pad;87;81;24;37:Synth Bellpad
+PR-E;0409;Far East;87;81;25;38:Synth PolyKey
+PR-E;0410;Wire Pad;87;81;26;38:Synth PolyKey
+PR-E;0411;PhaseBlipper;87;81;27;38:Synth PolyKey
+PR-E;0412;Sweep Clav;87;81;28;38:Synth PolyKey
+PR-E;0413;Glider;87;81;29;38:Synth PolyKey
+PR-E;0414;Solo Steel;87;81;30;16:Ac.Guitar
+PR-E;0415;DesertCrystl;87;81;31;16:Ac.Guitar
+PR-E;0416;Clear Guitar;87;81;32;17:E.Guitar
+PR-E;0417;Solo ST Gtr;87;81;33;17:E.Guitar
+PR-E;0418;Feed Me!;87;81;34;18:Dist.Guitar
+PR-E;0419;Tube Smoke;87;81;35;18:Dist.Guitar
+PR-E;0420;Creamy;87;81;36;18:Dist.Guitar
+PR-E;0421;Blusey OD;87;81;37;18:Dist.Guitar
+PR-E;0422;Grindstone;87;81;38;18:Dist.Guitar
+PR-E;0423;OD 5ths;87;81;39;18:Dist.Guitar
+PR-E;0424;East Europe;87;81;40;22:Plucked/Stroke
+PR-E;0425;Dulcitar;87;81;41;22:Plucked/Stroke
+PR-E;0426;Atmos Harp;87;81;42;22:Plucked/Stroke
+PR-E;0427;Pilgrimage;87;81;43;22:Plucked/Stroke
+PR-E;0428;202 Rude Bs;87;81;44;21:Synth Bass
+PR-E;0429;2 Pole Bass;87;81;45;21:Synth Bass
+PR-E;0430;4 Pole Bass 2;87;81;46;21:Synth Bass
+PR-E;0431;Phaser MC;87;81;47;21:Synth Bass
+PR-E;0432;Miniphaser;87;81;48;21:Synth Bass
+PR-E;0433;Acid TB;87;81;49;21:Synth Bass
+PR-E;0434;Full Orchest;87;81;50;25:Orchestral
+PR-E;0435;Str + Winds;87;81;51;25:Orchestral
+PR-E;0436;Flute 2080;87;81;52;29:Flute
+PR-E;0437;Scat Flute;87;81;53;33:Scat
+PR-E;0438;Sax Choir;87;81;54;30:Sax
+PR-E;0439;Ballad Trump;87;81;55;26:Solo Brass
+PR-E;0440;Sm.Brass Grp;87;81;56;27:Ensemble Brass
+PR-E;0441;Royale;87;81;57;27:Ensemble Brass
+PR-E;0442;Brass Mutes;87;81;58;27:Ensemble Brass
+PR-E;0443;Breathy Brs;87;81;59;35:Synth Brass
+PR-E;0444;3 Osc Brass;87;81;60;35:Synth Brass
+PR-E;0445;P5 Polymod;87;81;61;35:Synth Brass
+PR-E;0446;Triumph Brs;87;81;62;35:Synth Brass
+PR-E;0447;Techno Dream;87;81;63;38:Synth PolyKey
+PR-E;0448;Organizer;87;81;64;38:Synth PolyKey
+PR-E;0449;Civilization;87;81;65;38:Synth PolyKey
+PR-E;0450;Mental Chord;87;81;66;34:Synth Lead
+PR-E;0451;House Chord;87;81;67;34:Synth Lead
+PR-E;0452;Sequalog;87;81;68;38:Synth PolyKey
+PR-E;0453;Booster Bips;87;81;69;34:Synth Lead
+PR-E;0454;VintagePlunk;87;81;70;34:Synth Lead
+PR-E;0455;Plik-Plok;87;81;71;40:Synth Seq/Pop
+PR-E;0456;RingSequence;87;81;72;40:Synth Seq/Pop
+PR-E;0457;Cyber Swing;87;81;73;40:Synth Seq/Pop
+PR-E;0458;Keep :-);87;81;74;38:Synth PolyKey
+PR-E;0459;Resojuice;87;81;75;34:Synth Lead
+PR-E;0460;B*on d*moov!;87;81;76;38:Synth PolyKey
+PR-E;0461;Dist TB-303;87;81;77;34:Synth Lead
+PR-E;0462;Temple of JV;87;81;78;42:Pulsating
+PR-E;0463;Planet Asia;87;81;79;42:Pulsating
+PR-E;0464;Afterlife;87;81;80;42:Pulsating
+PR-E;0465;Trancing Pad;87;81;81;42:Pulsating
+PR-E;0466;Pulsatronic;87;81;82;42:Pulsating
+PR-E;0467;Cyber Dreams;87;81;83;42:Pulsating
+PR-E;0468;Warm Pipe;87;81;84;34:Synth Lead
+PR-E;0469;Pure Pipe;87;81;85;34:Synth Lead
+PR-E;0470;SH-2000;87;81;86;34:Synth Lead
+PR-E;0471;X..? Whistle;87;81;87;34:Synth Lead
+PR-E;0472;Jay Vee Solo;87;81;88;34:Synth Lead
+PR-E;0473;Progresso Ld;87;81;89;34:Synth Lead
+PR-E;0474;Adrenaline;87;81;90;34:Synth Lead
+PR-E;0475;Enlighten;87;81;91;32:Vox/Choir
+PR-E;0476;Glass Blower;87;81;92;37:Synth Bellpad
+PR-E;0477;Earth Blow;87;81;93;36:Synth Pad/Str
+PR-E;0478;JX SqrCarpet;87;81;94;36:Synth Pad/Str
+PR-E;0479;Dimensional;87;81;95;36:Synth Pad/Str
+PR-E;0480;Jupiterings;87;81;96;36:Synth Pad/Str
+PR-E;0481;Analog Drama;87;81;97;36:Synth Pad/Str
+PR-E;0482;Rich Dynapad;87;81;98;36:Synth Pad/Str
+PR-E;0483;Silky Way;87;81;99;36:Synth Pad/Str
+PR-E;0484;Gluey Pad;87;81;100;36:Synth Pad/Str
+PR-E;0485;BandPass Mod;87;81;101;36:Synth Pad/Str
+PR-E;0486;Soundtraque;87;81;102;36:Synth Pad/Str
+PR-E;0487;Translucence;87;81;103;36:Synth Pad/Str
+PR-E;0488;Darkshine;87;81;104;36:Synth Pad/Str
+PR-E;0489;D*light;87;81;105;37:Synth Bellpad
+PR-E;0490;December Sky;87;81;106;36:Synth Pad/Str
+PR-E;0491;Octapad;87;81;107;36:Synth Pad/Str
+PR-E;0492;JUNO Power!;87;81;108;36:Synth Pad/Str
+PR-E;0493;Spectrum Mod;87;81;109;36:Synth Pad/Str
+PR-E;0494;Stringsheen;87;81;110;36:Synth Pad/Str
+PR-E;0495;GR500 TmpDly;87;81;111;36:Synth Pad/Str
+PR-E;0496;Mod DirtyWav;87;81;112;36:Synth Pad/Str
+PR-E;0497;Silicon Str;87;81;113;36:Synth Pad/Str
+PR-E;0498;D50FantaPerc;87;81;114;36:Synth Pad/Str
+PR-E;0499;Rotodreams;87;81;115;36:Synth Pad/Str
+PR-E;0500;Blue Notes;87;81;116;30:Sax
+PR-E;0501;RiversOfTime;87;81;117;39:Synth FX
+PR-E;0502;Phobos;87;81;118;39:Synth FX
+PR-E;0503;2 0 8 0;87;81;119;39:Synth FX
+PR-E;0504;Unearthly;87;81;120;39:Synth FX
+PR-E;0505;Glistening;87;81;121;39:Synth FX
+PR-E;0506;Sci-Fi Str;87;81;122;39:Synth FX
+PR-E;0507;Shadows;87;81;123;39:Synth FX
+PR-E;0508;Helium Queen;87;81;124;39:Synth FX
+PR-E;0509;Sci-Fi FX x4;87;81;125;39:Synth FX
+PR-E;0510;Perky Noize;87;81;126;47:Percussion
+PR-E;0511;Droplet;87;81;127;45:Sound FX
+PR-E;0512;Rain Forest;87;81;128;45:Sound FX
+PR-E;0512;Rain Forest;87;81;128;45:Sound FX
+PR-E;0513;Grand XV;87;82;1;1:Ac.Piano
+PR-E;0514;Contemplate;87;82;2;1:Ac.Piano
+PR-E;0515;Rock Piano;87;82;3;1:Ac.Piano
+PR-E;0516;RockPiano Ch;87;82;4;1:Ac.Piano
+PR-E;0517;Pianomonics;87;82;5;1:Ac.Piano
+PR-E;0518;Piano+SftPad;87;82;6;1:Ac.Piano
+PR-E;0519;WarmVoxPiano;87;82;7;1:Ac.Piano
+PR-E;0520;Y2K Concerto;87;82;8;1:Ac.Piano
+PR-E;0521;Piano+AirPad;87;82;9;1:Ac.Piano
+PR-E;0522;ChoraLeader;87;82;10;1:Ac.Piano
+PR-E;0523;SparklePiano;87;82;11;5:E.Piano2
+PR-E;0524;Retro EP;87;82;12;4:E.Piano1
+PR-E;0525;Fat EP;87;82;13;4:E.Piano1
+PR-E;0526;EP Trem;87;82;14;4:E.Piano1
+PR-E;0527;Phaser Dyno;87;82;15;4:E.Piano1
+PR-E;0528;Hit EP;87;82;16;4:E.Piano1
+PR-E;0529;Sweet Tynes;87;82;17;4:E.Piano1
+PR-E;0530;Pluk EP;87;82;18;5:E.Piano2
+PR-E;0531;EP Trip;87;82;19;5:E.Piano2
+PR-E;0532;Ambi EP;87;82;20;4:E.Piano1
+PR-E;0533;Rholitzer;87;82;21;4:E.Piano1
+PR-E;0534;Wurlie;87;82;22;4:E.Piano1
+PR-E;0535;FM Delight;87;82;23;5:E.Piano2
+PR-E;0536;Cutter Clav;87;82;24;10:Clav
+PR-E;0537;Mute Clav D6;87;82;25;10:Clav
+PR-E;0538;PhazeWahClav;87;82;26;10:Clav
+PR-E;0539;St.Harpsichd;87;82;27;9:Harpsichord
+PR-E;0540;3PartInventn;87;82;28;9:Harpsichord
+PR-E;0541;Soft Perky;87;82;29;6:E.Organ
+PR-E;0542;Fullness;87;82;30;6:E.Organ
+PR-E;0543;Paleface 1;87;82;31;6:E.Organ
+PR-E;0544;Paleface 2;87;82;32;6:E.Organ
+PR-E;0545;Soft B;87;82;33;6:E.Organ
+PR-E;0546;British B;87;82;34;6:E.Organ
+PR-E;0547;Rocker Org;87;82;35;6:E.Organ
+PR-E;0548;Split B;87;82;36;6:E.Organ
+PR-E;0549;PercInterval;87;82;37;6:E.Organ
+PR-E;0550;Happy 60s;87;82;38;6:E.Organ
+PR-E;0551;96 Years;87;82;39;6:E.Organ
+PR-E;0552;Glory Us Rok;87;82;40;6:E.Organ
+PR-E;0553;Church Harmn;87;82;41;7:Pipe Organ
+PR-E;0554;Cathdr Harmn;87;82;42;7:Pipe Organ
+PR-E;0555;Morph Pad;87;82;43;36:Synth Pad/Str
+PR-E;0556;Air Pad;87;82;44;36:Synth Pad/Str
+PR-E;0557;Soft Padding;87;82;45;36:Synth Pad/Str
+PR-E;0558;Warmth Pad;87;82;46;36:Synth Pad/Str
+PR-E;0559;ClassicJPpad;87;82;47;36:Synth Pad/Str
+PR-E;0560;Jupiter Str;87;82;48;36:Synth Pad/Str
+PR-E;0561;Fat Pad;87;82;49;36:Synth Pad/Str
+PR-E;0562;GR700 Pad;87;82;50;36:Synth Pad/Str
+PR-E;0563;Paradise;87;82;51;37:Synth Bellpad
+PR-E;0564;Moonchimes;87;82;52;37:Synth Bellpad
+PR-E;0565;SusPed Swap;87;82;53;36:Synth Pad/Str
+PR-E;0566;PhasingPad;87;82;54;36:Synth Pad/Str
+PR-E;0567;Ethereal Str;87;82;55;36:Synth Pad/Str
+PR-E;0568;Velcropad;87;82;56;36:Synth Pad/Str
+PR-E;0569;NothrnLights;87;82;57;36:Synth Pad/Str
+PR-E;0570;Sun Dive;87;82;58;36:Synth Pad/Str
+PR-E;0571;Brite Vox 1;87;82;59;32:Vox/Choir
+PR-E;0572;Brite Vox 2;87;82;60;32:Vox/Choir
+PR-E;0573;Ooh)Aah Mod;87;82;61;32:Vox/Choir
+PR-E;0574;Vocals: Ooh;87;82;62;32:Vox/Choir
+PR-E;0575;Vocals: Scat;87;82;63;33:Scat
+PR-E;0576;Vocals: Boys;87;82;64;32:Vox/Choir
+PR-E;0577;St. Choir;87;82;65;32:Vox/Choir
+PR-E;0578;SampleThe80s;87;82;66;32:Vox/Choir
+PR-E;0579;Sacred Tree;87;82;67;32:Vox/Choir
+PR-E;0580;VP330 OctEko;87;82;68;32:Vox/Choir
+PR-E;0581;XV Strings;87;82;69;24:Ensemble Strings
+PR-E;0582;Fat Strings;87;82;70;24:Ensemble Strings
+PR-E;0583;Dolce p/m/f;87;82;71;24:Ensemble Strings
+PR-E;0584;Sad Strings;87;82;72;24:Ensemble Strings
+PR-E;0585;Lush Strings;87;82;73;24:Ensemble Strings
+PR-E;0586;Strings4Film;87;82;74;24:Ensemble Strings
+PR-E;0587;Marcato Str;87;82;75;24:Ensemble Strings
+PR-E;0588;End Titles;87;82;76;24:Ensemble Strings
+PR-E;0589;ChmbrQuartet;87;82;77;24:Ensemble Strings
+PR-E;0590;ChamberSect.;87;82;78;24:Ensemble Strings
+PR-E;0591;FullChmbrStr;87;82;79;24:Ensemble Strings
+PR-E;0592;Tape Strings;87;82;80;24:Ensemble Strings
+PR-E;0593;Henry VIII;87;82;81;25:Orchestral
+PR-E;0594;Prelude;87;82;82;25:Orchestral
+PR-E;0595;Str&Brs Orch;87;82;83;25:Orchestral
+PR-E;0596;Hornz;87;82;84;25:Orchestral
+PR-E;0597;TudorFanfare;87;82;85;25:Orchestral
+PR-E;0598;ChamberPlyrs;87;82;86;25:Orchestral
+PR-E;0599;Flute/Clari;87;82;87;28:Wind
+PR-E;0600;Orch Reeds;87;82;88;28:Wind
+PR-E;0601;Dual Flutes;87;82;89;29:Flute
+PR-E;0602;Jazzer Flute;87;82;90;29:Flute
+PR-E;0603;LegatoBamboo;87;82;91;29:Flute
+PR-E;0604;Ambience Flt;87;82;92;29:Flute
+PR-E;0605;The Andes;87;82;93;29:Flute
+PR-E;0606;Deja Vlute;87;82;94;29:Flute
+PR-E;0607;Simply Brass;87;82;95;27:Ensemble Brass
+PR-E;0608;FullSt Brass;87;82;96;27:Ensemble Brass
+PR-E;0609;Dragnet;87;82;97;27:Ensemble Brass
+PR-E;0610;NewR&RBrass;87;82;98;27:Ensemble Brass
+PR-E;0611;Tower Trumps;87;82;99;27:Ensemble Brass
+PR-E;0612;BigBrassBand;87;82;100;27:Ensemble Brass
+PR-E;0613;Lil*BigHornz;87;82;101;27:Ensemble Brass
+PR-E;0614;VoyagerBrass;87;82;102;27:Ensemble Brass
+PR-E;0615;Symph Horns;87;82;103;27:Ensemble Brass
+PR-E;0616;Trombone Atm;87;82;104;26:Solo Brass
+PR-E;0617;XV Trombone;87;82;105;26:Solo Brass
+PR-E;0618;XV Trumpet;87;82;106;26:Solo Brass
+PR-E;0619;JupiterHorns;87;82;107;35:Synth Brass
+PR-E;0620;Solo SoprSax;87;82;108;30:Sax
+PR-E;0621;Solo AltoSax;87;82;109;30:Sax
+PR-E;0622;XV DynoTenor;87;82;110;30:Sax
+PR-E;0623;Honker Bari;87;82;111;30:Sax
+PR-E;0624;Full Saxz;87;82;112;30:Sax
+PR-E;0625;Soaring Hrns;87;82;113;35:Synth Brass
+PR-E;0626;Glass Orbit;87;82;114;37:Synth Bellpad
+PR-E;0627;5th Atm /Aft;87;82;115;36:Synth Pad/Str
+PR-E;0628;Lo-fi Sweep;87;82;116;36:Synth Pad/Str
+PR-E;0629;Modular Life;87;82;117;36:Synth Pad/Str
+PR-E;0630;Oscillations;87;82;118;38:Synth PolyKey
+PR-E;0631;Combing;87;82;119;36:Synth Pad/Str
+PR-E;0632;Rolling 5ths;87;82;120;36:Synth Pad/Str
+PR-E;0633;Analogue Str;87;82;121;36:Synth Pad/Str
+PR-E;0634;Lunar Strngs;87;82;122;36:Synth Pad/Str
+PR-E;0635;BPFsweep Mod;87;82;123;38:Synth PolyKey
+PR-E;0636;Queen V;87;82;124;38:Synth PolyKey
+PR-E;0637;SkinnyBounce;87;82;125;38:Synth PolyKey
+PR-E;0638;SquareBounce;87;82;126;38:Synth PolyKey
+PR-E;0639;Galactic;87;82;127;38:Synth PolyKey
+PR-E;0640;Powerwiggle;87;82;128;38:Synth PolyKey
+PR-E;0641;80s Retrosyn;87;83;1;38:Synth PolyKey
+PR-E;0642;Power Stack;87;83;2;38:Synth PolyKey
+PR-E;0643;Don*t Jump;87;83;3;38:Synth PolyKey
+PR-E;0644;Big Bubbles;87;83;4;38:Synth PolyKey
+PR-E;0645;X-mod Sweep;87;83;5;38:Synth PolyKey
+PR-E;0646;Bag O* Bones;87;83;6;38:Synth PolyKey
+PR-E;0647;AirSoThin;87;83;7;38:Synth PolyKey
+PR-E;0648;Analogical;87;83;8;38:Synth PolyKey
+PR-E;0649;Waspy Pulse;87;83;9;38:Synth PolyKey
+PR-E;0650;Soaring Saws;87;83;10;34:Synth Lead
+PR-E;0651;Square Roots;87;83;11;34:Synth Lead
+PR-E;0652;BOG;87;83;12;34:Synth Lead
+PR-E;0653;Talking Box;87;83;13;34:Synth Lead
+PR-E;0654;Retro Lead;87;83;14;34:Synth Lead
+PR-E;0655;LivingInSync;87;83;15;34:Synth Lead
+PR-E;0656;Leads United;87;83;16;34:Synth Lead
+PR-E;0657;Dirty Sync;87;83;17;34:Synth Lead
+PR-E;0658;DistortaSync;87;83;18;34:Synth Lead
+PR-E;0659;Blistering;87;83;19;34:Synth Lead
+PR-E;0660;Guttural;87;83;20;34:Synth Lead
+PR-E;0661;Flyin* High;87;83;21;34:Synth Lead
+PR-E;0662;Soft Tooth;87;83;22;34:Synth Lead
+PR-E;0663;Soaring Sqr;87;83;23;34:Synth Lead
+PR-E;0664;Soaring Sync;87;83;24;34:Synth Lead
+PR-E;0665;Nasal Spray;87;83;25;34:Synth Lead
+PR-E;0666;Lamb Lead;87;83;26;34:Synth Lead
+PR-E;0667;Creamer;87;83;27;34:Synth Lead
+PR-E;0668;Sine System;87;83;28;34:Synth Lead
+PR-E;0669;Soft Nylon;87;83;29;16:Ac.Guitar
+PR-E;0670;Nylozzicato;87;83;30;16:Ac.Guitar
+PR-E;0671;Mutezzicato;87;83;31;16:Ac.Guitar
+PR-E;0672;Hybrid Nylon;87;83;32;16:Ac.Guitar
+PR-E;0673;XV SteelGt 1;87;83;33;16:Ac.Guitar
+PR-E;0674;XV SteelGt 2;87;83;34;16:Ac.Guitar
+PR-E;0675;Comp*Steel;87;83;35;16:Ac.Guitar
+PR-E;0676;Double Steel;87;83;36;16:Ac.Guitar
+PR-E;0677;Folk Guitar;87;83;37;16:Ac.Guitar
+PR-E;0678;SpanishNight;87;83;38;16:Ac.Guitar
+PR-E;0679;Plug n* Play;87;83;39;17:E.Guitar
+PR-E;0680;Fab 4 Guitar;87;83;40;17:E.Guitar
+PR-E;0681;Searing Lead;87;83;41;18:Dist.Guitar
+PR-E;0682;Punker;87;83;42;18:Dist.Guitar
+PR-E;0683;LouderPlease;87;83;43;18:Dist.Guitar
+PR-E;0684;XV Upright;87;83;44;19:Ac.Bass
+PR-E;0685;XV Ac.Bass;87;83;45;19:Ac.Bass
+PR-E;0686;LookMaNoFret;87;83;46;20:E.Bass
+PR-E;0687;XV Fretless;87;83;47;20:E.Bass
+PR-E;0688;Basic F*less;87;83;48;20:E.Bass
+PR-E;0689;8-str F*less;87;83;49;20:E.Bass
+PR-E;0690;Tap Bass;87;83;50;20:E.Bass
+PR-E;0691;Pop Bass;87;83;51;20:E.Bass
+PR-E;0692;P.Bs Chorus;87;83;52;20:E.Bass
+PR-E;0693;TremCho Bs;87;83;53;20:E.Bass
+PR-E;0694;Creamy Bass;87;83;54;21:Synth Bass
+PR-E;0695;Buster Bass;87;83;55;21:Synth Bass
+PR-E;0696;TB Squelch;87;83;56;21:Synth Bass
+PR-E;0697;Ticker Bass;87;83;57;21:Synth Bass
+PR-E;0698;Muscle Bass;87;83;58;21:Synth Bass
+PR-E;0699;Grounded Bs;87;83;59;21:Synth Bass
+PR-E;0700;West End Bs;87;83;60;21:Synth Bass
+PR-E;0701;Snap Bass;87;83;61;21:Synth Bass
+PR-E;0702;700 Bassboy;87;83;62;21:Synth Bass
+PR-E;0703;8VCO MonoSyn;87;83;63;21:Synth Bass
+PR-E;0704;ResoMoist Bs;87;83;64;21:Synth Bass
+PR-E;0705;Kickin* Bass;87;83;65;21:Synth Bass
+PR-E;0706;Sub Zero;87;83;66;21:Synth Bass
+PR-E;0707;Liquid Bass;87;83;67;21:Synth Bass
+PR-E;0708;Hefty Bass;87;83;68;21:Synth Bass
+PR-E;0709;Severe Ow Bs;87;83;69;21:Synth Bass
+PR-E;0710;Chime Bells;87;83;70;14:Bell
+PR-E;0711;Celestabox;87;83;71;11:Celesta
+PR-E;0712;Brass Tubes;87;83;72;26:Solo Brass
+PR-E;0713;Dreams East;87;83;73;38:Synth PolyKey
+PR-E;0714;Synergistic;87;83;74;38:Synth PolyKey
+PR-E;0715;Andreas Cave;87;83;75;22:Plucked/Stroke
+PR-E;0716;AmbiPizza;87;83;76;22:Plucked/Stroke
+PR-E;0717;Voxy Nylon;87;83;77;22:Plucked/Stroke
+PR-E;0718;EastrnEurope;87;83;78;22:Plucked/Stroke
+PR-E;0719;Celtic Harp;87;83;79;22:Plucked/Stroke
+PR-E;0720;Reso Sitar;87;83;80;22:Plucked/Stroke
+PR-E;0721;The Ganges;87;83;81;22:Plucked/Stroke
+PR-E;0722;MountainFolk;87;83;82;22:Plucked/Stroke
+PR-E;0723;Byzantine;87;83;83;22:Plucked/Stroke
+PR-E;0724;AsiaPlectrum;87;83;84;22:Plucked/Stroke
+PR-E;0725;VelHarp)Harm;87;83;85;22:Plucked/Stroke
+PR-E;0726;Pluckaphone;87;83;86;22:Plucked/Stroke
+PR-E;0727;Slap Timps;87;83;87;47:Percussion
+PR-E;0728;Suite Combo;87;83;88;32:Vox/Choir
+PR-E;0729;Jet Voxs;87;83;89;32:Vox/Choir
+PR-E;0730;Dirty Hit;87;83;90;44:Hit
+PR-E;0731;MOVE!;87;83;91;44:Hit
+PR-E;0732;Reel Slam;87;83;92;44:Hit
+PR-E;0733;OffTheRecord;87;83;93;44:Hit
+PR-E;0734;2ndRateChord;87;83;94;34:Synth Lead
+PR-E;0735;RageInYouth;87;83;95;34:Synth Lead
+PR-E;0736;MinorIncidnt;87;83;96;34:Synth Lead
+PR-E;0737;Phunky DC;87;83;97;34:Synth Lead
+PR-E;0738;Agent X;87;83;98;34:Synth Lead
+PR-E;0739;Winky;87;83;99;40:Synth Seq/Pop
+PR-E;0740;Looney 2nz;87;83;100;34:Synth Lead
+PR-E;0741;Shortrave;87;83;101;38:Synth PolyKey
+PR-E;0742;DeeperBeeper;87;83;102;34:Synth Lead
+PR-E;0743;Percolator;87;83;103;38:Synth PolyKey
+PR-E;0744;Filter Morph;87;83;104;38:Synth PolyKey
+PR-E;0745;Choir Bounce;87;83;105;38:Synth PolyKey
+PR-E;0746;Rippling;87;83;106;42:Pulsating
+PR-E;0747;SteppingPhsr;87;83;107;42:Pulsating
+PR-E;0748;Trance Fair;87;83;108;42:Pulsating
+PR-E;0749;GermanBounce;87;83;109;42:Pulsating
+PR-E;0750;Acid JaZZ;87;83;110;42:Pulsating
+PR-E;0751;Cutter>ModWh;87;83;111;42:Pulsating
+PR-E;0752;Blades;87;83;112;42:Pulsating
+PR-E;0753;Mad Bender;87;83;113;42:Pulsating
+PR-E;0754;Shapeshifter;87;83;114;39:Synth FX
+PR-E;0755;ForestMoon;87;83;115;39:Synth FX
+PR-E;0756;Predator 2;87;83;116;39:Synth FX
+PR-E;0757;Dark Side;87;83;117;39:Synth FX
+PR-E;0758;The Beast;87;83;118;39:Synth FX
+PR-E;0759;X-mod Reso;87;83;119;39:Synth FX
+PR-E;0760;Planet Meta;87;83;120;39:Synth FX
+PR-E;0761;Nexus;87;83;121;39:Synth FX
+PR-E;0762;Halographix;87;83;122;39:Synth FX
+PR-E;0763;Moon Rise;87;83;123;39:Synth FX
+PR-E;0764;Gruvacious;87;83;124;39:Synth FX
+PR-E;0765;Windy Dunes;87;83;125;39:Synth FX
+PR-E;0766;Ice Blasts;87;83;126;39:Synth FX
+PR-E;0767;Ringy Thingy;87;83;127;39:Synth FX
+PR-E;0768;Atmospherics;87;83;128;39:Synth FX
+PR-E;0769;Power Octs;87;84;1;1:Ac.Piano
+PR-E;0770;WaterPiano2;87;84;2;2:Pop Piano
+PR-E;0771;Swimming EP;87;84;3;5:E.Piano2
+PR-E;0772;XV Crystal;87;84;4;5:E.Piano2
+PR-E;0773;Cold Roadz;87;84;5;5:E.Piano2
+PR-E;0774;Back EP;87;84;6;4:E.Piano1
+PR-E;0775;Amped Wurlie;87;84;7;4:E.Piano1
+PR-E;0776;Dirty Wurlie;87;84;8;4:E.Piano1
+PR-E;0777;Musicbox XV;87;84;9;14:Bell
+PR-E;0778;Klubb Organ;87;84;10;6:E.Organ
+PR-E;0779;Drew*s Bee;87;84;11;6:E.Organ
+PR-E;0780;Velvet Organ;87;84;12;6:E.Organ
+PR-E;0781;Distorted B;87;84;13;6:E.Organ
+PR-E;0782;Radikal B;87;84;14;6:E.Organ
+PR-E;0783;Boogie Organ;87;84;15;6:E.Organ
+PR-E;0784;Mood Ringz;87;84;16;42:Pulsating
+PR-E;0785;Wedo-Wodo;87;84;17;42:Pulsating
+PR-E;0786;S.O.S.trings;87;84;18;42:Pulsating
+PR-E;0787;Syncronicity;87;84;19;42:Pulsating
+PR-E;0788;DanceMachina;87;84;20;42:Pulsating
+PR-E;0789;Vox Chopper;87;84;21;42:Pulsating
+PR-E;0790;SlicingSyVox;87;84;22;42:Pulsating
+PR-E;0791;PressureDome;87;84;23;42:Pulsating
+PR-E;0792;Quasar/Aft;87;84;24;42:Pulsating
+PR-E;0793;Ionizer;87;84;25;42:Pulsating
+PR-E;0794;MilleniumStr;87;84;26;42:Pulsating
+PR-E;0795;Bounce Baby!;87;84;27;42:Pulsating
+PR-E;0796;Bounce Daddy;87;84;28;42:Pulsating
+PR-E;0797;Bounce Mama!;87;84;29;42:Pulsating
+PR-E;0798;Bounce Noize;87;84;30;42:Pulsating
+PR-E;0799;What a Gate!;87;84;31;42:Pulsating
+PR-E;0800;Mini Sequenz;87;84;32;42:Pulsating
+PR-E;0801;Slice & Dice;87;84;33;42:Pulsating
+PR-E;0802;BrushingSaw1;87;84;34;42:Pulsating
+PR-E;0803;BrushingSaw2;87;84;35;42:Pulsating
+PR-E;0804;Cultivate;87;84;36;42:Pulsating
+PR-E;0805;5080 Random;87;84;37;42:Pulsating
+PR-E;0806;XV Stepping;87;84;38;36:Synth Pad/Str
+PR-E;0807;India Garden;87;84;39;36:Synth Pad/Str
+PR-E;0808;Belly Pad;87;84;40;37:Synth Bellpad
+PR-E;0809;Spectre;87;84;41;37:Synth Bellpad
+PR-E;0810;SoaringHrns2;87;84;42;35:Synth Brass
+PR-E;0811;Sabbath Day;87;84;43;36:Synth Pad/Str
+PR-E;0812;XV BlowPad;87;84;44;36:Synth Pad/Str
+PR-E;0813;White Arcade;87;84;45;36:Synth Pad/Str
+PR-E;0814;Borealis;87;84;46;36:Synth Pad/Str
+PR-E;0815;OvertoneScan;87;84;47;36:Synth Pad/Str
+PR-E;0816;Whisper Vox;87;84;48;32:Vox/Choir
+PR-E;0817;Jupiter 21;87;84;49;24:Ensemble Strings
+PR-E;0818;Filt Strings;87;84;50;24:Ensemble Strings
+PR-E;0819;HybStringsXV;87;84;51;24:Ensemble Strings
+PR-E;0820;Soft Symphny;87;84;52;25:Orchestral
+PR-E;0821;Wood Symphny;87;84;53;25:Orchestral
+PR-E;0822;HybOrchestra;87;84;54;25:Orchestral
+PR-E;0823;Brassy Symph;87;84;55;25:Orchestral
+PR-E;0824;Biggie Brass;87;84;56;27:Ensemble Brass
+PR-E;0825;BiggieBrass2;87;84;57;27:Ensemble Brass
+PR-E;0826;LA Sax*s;87;84;58;30:Sax
+PR-E;0827;Wind Wood;87;84;59;28:Wind
+PR-E;0828;Lonely Oboe;87;84;60;28:Wind
+PR-E;0829;Harmonica XV;87;84;61;13:Harmonica
+PR-E;0830;Tooters Lead;87;84;62;29:Flute
+PR-E;0831;Digi Phased;87;84;63;38:Synth PolyKey
+PR-E;0832;Synth Ethics;87;84;64;38:Synth PolyKey
+PR-E;0833;Harm is Fine;87;84;65;38:Synth PolyKey
+PR-E;0834;D-2000;87;84;66;37:Synth Bellpad
+PR-E;0835;Ackward East;87;84;67;38:Synth PolyKey
+PR-E;0836;Powersoaker;87;84;68;34:Synth Lead
+PR-E;0837;Mean Thing;87;84;69;34:Synth Lead
+PR-E;0838;Jet Sync;87;84;70;34:Synth Lead
+PR-E;0839;Crying Solo;87;84;71;18:Dist.Guitar
+PR-E;0840;Southern Fry;87;84;72;18:Dist.Guitar
+PR-E;0841;Strum Distrt;87;84;73;18:Dist.Guitar
+PR-E;0842;Match Drive;87;84;74;18:Dist.Guitar
+PR-E;0843;Stacked;87;84;75;18:Dist.Guitar
+PR-E;0844;2-Stack Over;87;84;76;18:Dist.Guitar
+PR-E;0845;COSM Searing;87;84;77;18:Dist.Guitar
+PR-E;0846;COSM Loud Gt;87;84;78;18:Dist.Guitar
+PR-E;0847;Blue Mutes;87;84;79;18:Dist.Guitar
+PR-E;0848;Metal 5150;87;84;80;18:Dist.Guitar
+PR-E;0849;Crunch Phase;87;84;81;18:Dist.Guitar
+PR-E;0850;Alt Dist Gtr;87;84;82;18:Dist.Guitar
+PR-E;0851;So nice!;87;84;83;16:Ac.Guitar
+PR-E;0852;Punch Bass;87;84;84;19:Ac.Bass
+PR-E;0853;COSM Bass;87;84;85;20:E.Bass
+PR-E;0854;Stream Bell;87;84;86;14:Bell
+PR-E;0855;Shuffle Bell;87;84;87;14:Bell
+PR-E;0856;Echo Vibe;87;84;88;15:Mallet
+PR-E;0857;Tremolo Vibe;87;84;89;15:Mallet
+PR-E;0858;True Vibe;87;84;90;15:Mallet
+PR-E;0859;Marimbula;87;84;91;15:Mallet
+PR-E;0860;Hit Bitz;87;84;92;44:Hit
+PR-E;0861;80s LoFi Hit;87;84;93;44:Hit
+PR-E;0862;Auto Chord;87;84;94;44:Hit
+PR-E;0863;3rdTeenChord;87;84;95;44:Hit
+PR-E;0864;Bend a Chord;87;84;96;44:Hit
+PR-E;0865;DiscreteChrd;87;84;97;44:Hit
+PR-E;0866;Ambi Voices;87;84;98;40:Synth Seq/Pop
+PR-E;0867;Say Yeah !;87;84;99;38:Synth PolyKey
+PR-E;0868;Xcuse me;87;84;100;39:Synth FX
+PR-E;0869;5ths in 4ths;87;84;101;39:Synth FX
+PR-E;0870;Pretty Ugly;87;84;102;38:Synth PolyKey
+PR-E;0871;Con Sequence;87;84;103;40:Synth Seq/Pop
+PR-E;0872;BermudaShort;87;84;104;40:Synth Seq/Pop
+PR-E;0873;Saw n* 202;87;84;105;38:Synth PolyKey
+PR-E;0873;Saw n* 202;87;84;105;38:Synth PolyKey
+PR-E;0874;Technoheadz;87;84;106;38:Synth PolyKey
+PR-E;0874;Technoheadz;87;84;106;38:Synth PolyKey
+PR-E;0875;Boss*d Synth;87;84;107;34:Synth Lead
+PR-E;0875;Boss*d Synth;87;84;107;34:Synth Lead
+PR-E;0876;Cross Fire;87;84;108;34:Synth Lead
+PR-E;0876;Cross Fire;87;84;108;34:Synth Lead
+PR-E;0877;Techno Cave;87;84;109;34:Synth Lead
+PR-E;0877;Techno Cave;87;84;109;34:Synth Lead
+PR-E;0878;Generator;87;84;110;34:Synth Lead
+PR-E;0878;Generator;87;84;110;34:Synth Lead
+PR-E;0879;GenderBender;87;84;111;34:Synth Lead
+PR-E;0879;GenderBender;87;84;111;34:Synth Lead
+PR-E;0880;Xtremities;87;84;112;34:Synth Lead
+PR-E;0880;Xtremities;87;84;112;34:Synth Lead
+PR-E;0881;AM 05:59;87;84;113;34:Synth Lead
+PR-E;0881;AM 05:59;87;84;113;34:Synth Lead
+PR-E;0882;Happy Brass;87;84;114;27:Ensemble Brass
+PR-E;0882;Happy Brass;87;84;114;27:Ensemble Brass
+PR-E;0883;Runaway Rez;87;84;115;39:Synth FX
+PR-E;0884;Dropplets;87;84;116;39:Synth FX
+PR-E;0885;Indian Guru;87;84;117;39:Synth FX
+PR-E;0886;Cosmic Rain;87;84;118;39:Synth FX
+PR-E;0887;Trying Winds;87;84;119;39:Synth FX
+PR-E;0888;Space Whiz;87;84;120;39:Synth FX
+PR-E;0889;DigitalDrone;87;84;121;39:Synth FX
+PR-E;0890;Space Race;87;84;122;39:Synth FX
+PR-E;0891;Bowed Bell;87;84;123;39:Synth FX
+PR-E;0892;X-Tension;87;84;124;39:Synth FX
+PR-E;0893;DUB!!!;87;84;125;39:Synth FX
+PR-E;0894;Dream Diver;87;84;126;39:Synth FX
+PR-E;0895;Flashback;87;84;127;39:Synth FX
+PR-E;0896;St.LoFiNoise;87;84;128;4:E.Piano1
+RD-88;0001;Slow FullStr;71;71;1;0:No group
+RD-88;0002;Bright Nylon;71;71;2;0:No group
+RD-88;0003;JC ST Chorus Gtr;71;71;3;0:No group
+RD-88;0004;D-Bars 888000000;71;71;4;0:No group
+RD-88;0005;D-Bars 888800000;71;71;5;0:No group
+RD-88;0006;D-Bars 870000000;71;71;6;0:No group
+RD-88;0007;D-Bars 870050000;71;71;7;0:No group
+RD-88;0008;D-Bars 800080030;71;71;8;0:No group
+RD-88;0009;D-Bars 800050060;71;71;9;0:No group
+RD-88;0010;D-Bars 870000060;71;71;10;0:No group
+RD-88;0011;Rock OD Organ;71;71;11;0:No group
+RD-88;0012;SysCtrlDeepEcho2;71;71;12;0:No group
+RD-88;0013;X-MOD2 Bass1B;71;71;13;0:No group
+RD-88;0014;Sine Pluck;71;71;14;0:No group
+RD-88;0015;Wide Pluck;71;71;15;0:No group
+RD-88;0016;1Note PhaserEP1;71;71;16;0:No group
+RD-88;0017;Grassland Pluck;71;71;17;0:No group
+RD-88;0018;Electropop Keys;71;71;18;0:No group
+RD-88;0019;Pop Synth Pluck;71;71;19;0:No group
+RD-88;0020;Pop Synth Pluck2;71;71;20;0:No group
+RD-88;0021;Singing Mallet;71;71;21;0:No group
+RD-88;0022;Dreaming Harp;71;71;22;0:No group
+RD-88;0023;Open Water;71;71;23;0:No group
+RD-88;0024;Tape Keys PB;71;71;24;0:No group
+RD-88;0025;X-MOD2 Bass1A;71;71;25;0:No group
+RD-88;0026;X-MOD2 Bass2A;71;71;26;0:No group
+RD-88;0027;X-MOD2 Bass2B;71;71;27;0:No group
+RD-88;0028;Soft Bass;71;71;28;0:No group
+RD-88;0029;SysCtrlDeepEcho1;71;71;29;0:No group
+RD-88;0030;Rave Stab2;71;71;30;0:No group
+RD-88;0031;JUNO Stab;71;71;31;0:No group
+RD-88;0032;JUNO Stab 2;71;71;32;0:No group
+RD-88;0033;JUNO Stab 3;71;71;33;0:No group
+RD-88;0034;Fat Synth Koto;71;71;34;0:No group
+RD-88;0035;Mirio Key;71;71;35;0:No group
+RD-88;0036;Flanging Atmos.;71;71;36;0:No group
+RD-88;0037;Foreboding;71;71;37;0:No group
+RD-88;0038;Breathy Bubbles;71;71;38;0:No group
+SN.PR-A;0001;Concert Grand;90;65;1;0:No group
+SN.PR-A;0002;Bright Concert;90;65;2;0:No group
+SN.PR-A;0003;Mellow Concert;90;65;3;0:No group
+SN.PR-A;0004;Concert Grand 2;90;65;4;0:No group
+SN.PR-A;0005;Bright Concert 2;90;65;5;0:No group
+SN.PR-A;0006;Mellow Concert 2;90;65;6;0:No group
+SN.PR-A;0007;Concert Grand 3;90;65;7;0:No group
+SN.PR-A;0008;Bright Concert 3;90;65;8;0:No group
+SN.PR-A;0009;Mellow Concert 3;90;65;9;0:No group
+SN.PR-B;0001;1975 Tine;89;64;1;0:No group
+SN.PR-B;0002;1975 Keyoff;89;64;2;0:No group
+SN.PR-B;0003;75 TremoloEP;89;64;3;0:No group
+SN.PR-B;0004;75 Mellow EP;89;64;4;0:No group
+SN.PR-B;0005;75 Chorus EP;89;64;5;0:No group
+SN.PR-B;0006;75 Phased EP;89;64;6;0:No group
+SN.PR-B;0007;75 SweetEcho;89;64;7;0:No group
+SN.PR-B;0008;75 ModDelayEP;89;64;8;0:No group
+SN.PR-B;0009;75 Driven EP;89;64;9;0:No group
+SN.PR-B;0010;Tine EP Mk I;89;64;10;0:No group
+SN.PR-B;0011;MkI Keyoff;89;64;11;0:No group
+SN.PR-B;0012;Tine EP Mk II;89;64;12;0:No group
+SN.PR-B;0013;Tine E.Piano;89;64;13;0:No group
+SN.PR-B;0014;Chorus Tine EP;89;64;14;0:No group
+SN.PR-B;0015;Phaser Tine EP;89;64;15;0:No group
